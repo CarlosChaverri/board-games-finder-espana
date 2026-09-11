@@ -104,7 +104,7 @@ function renderGameDropdown(q){
       const barNames=Object.keys(j.bares).map(id=>BARES.find(b=>b.id===id)?.nombre||id);
       const badges=[...new Set(Object.values(j.bares).map(v=>{const f=FUENTE_BADGE[v.fuente]||FUENTE_BADGE.estimado;return `<span class="badge ${f[1]}">${f[0]}</span>`;}))].join(' ');
       const extra=[j.jugadores?j.jugadores+' jug.':null, j.duracion].filter(Boolean).join(' · ');
-      html+=`<div class="gs-item" data-i="${idx}"><div class="nm">${j.nombre}</div><div class="meta"><span>📍 ${barNames.join(' · ')}</span>${badges}${extra?`<span>${extra}</span>`:''}</div></div>`;
+      html+=`<div class="gs-item" data-i="${idx}"><div class="nm">${j.nombre}</div><div class="meta"><span>${barNames.join(' · ')}</span>${badges}${extra?`<span>${extra}</span>`:''}</div></div>`;
     });
   });
   dd.innerHTML=html; dd.style.display='block';
@@ -191,7 +191,7 @@ function popupHTML(b){
   const pEv = FUENTE_BADGE[b.precio_evidencia] || FUENTE_BADGE.estimado;
   const precio = `<div class="row"><b>Precio</b><span>${b.precio_detalle} <span class="badge ${pEv[1]}">${pEv[0]}</span></span></div>`;
   const juegoInfo = state.juego && state.juego.bares[b.id]
-    ? `<div class="row"><b>Tu juego</b><span>✅ ${state.juego.nombre} disponible <span class="badge ok">Confirmado en catálogo web</span></span></div>` : '';
+    ? `<div class="row"><b>Tu juego</b><span>✓ ${state.juego.nombre} disponible <span class="badge ok">Confirmado en catálogo web</span></span></div>` : '';
   const webBtn = b.web ? `<a class="btn-web" href="${b.web}" target="_blank" rel="noopener">Web</a>` : '';
   return `<div class="pop">
     <h3>${b.nombre}</h3>
