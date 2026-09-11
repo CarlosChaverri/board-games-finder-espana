@@ -3,123 +3,116 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<title>Board Games Finder Madrid — Bares de juegos de mesa en Madrid</title>
-<meta name="description" content="Mapa de bares y cafés de juegos de mesa en Madrid: compara valoraciones, reseñas, precios y catálogos de juegos, y encuentra dónde jugar a tu juego favorito.">
+<title>Board Games Finder España — Bares de juegos de mesa en España</title>
+<meta name="description" content="Mapa de bares y cafés de juegos de mesa en España: compara valoraciones, reseñas, precios y catálogos de juegos, y encuentra dónde jugar a tu juego favorito.">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <style>
 :root{
-  --bg:#0f1420; --panel:#ffffff; --ink:#1c2434; --muted:#66708a;
-  --accent:#7c5cff; --accent2:#ffb02e; --ok:#1f9d63; --warn:#c77700;
-  --line:#e6e9f2; --chip:#f1f3fa; --shadow:0 8px 28px rgba(16,22,40,.18);
+  --bg:#fafaf9; --panel:#ffffff; --ink:#1c1917; --muted:#78716c; --faint:#a8a29e;
+  --accent:#c2410c; --line:#e7e5e4; --chip:#f5f5f4; --star:#d97706;
 }
 *{box-sizing:border-box;margin:0;padding:0}
-html,body{height:100%;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,Arial,sans-serif;color:var(--ink)}
-body{display:flex;flex-direction:column;overflow:hidden}
+html,body{height:100%;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,Arial,sans-serif;color:var(--ink);background:var(--bg)}
+body{display:flex;flex-direction:column}
 button{font-family:inherit;cursor:pointer}
 /* ---------- Header ---------- */
-header{background:var(--bg);color:#fff;padding:10px 16px;display:flex;gap:14px;align-items:center;flex-wrap:wrap;z-index:1200;position:relative}
-.brand{display:flex;flex-direction:column;line-height:1.15;min-width:max-content}
-.brand b{font-size:16px;letter-spacing:.2px}
-.brand span{font-size:11.5px;color:#9aa4c0}
-.game-search{position:relative;flex:1;min-width:220px;max-width:560px}
-.game-search input{width:100%;padding:9px 34px 9px 12px;border-radius:10px;border:1px solid #2a3350;background:#1a2138;color:#fff;font-size:14px;outline:none}
-.game-search input::placeholder{color:#8b94b3}
-.game-search input:focus{border-color:var(--accent)}
-.gs-clear{position:absolute;right:6px;top:50%;transform:translateY(-50%);border:0;background:none;color:#8b94b3;font-size:16px;display:none}
-.gs-dropdown{position:absolute;top:calc(100% + 6px);left:0;right:0;background:#fff;color:var(--ink);border-radius:12px;box-shadow:var(--shadow);max-height:340px;overflow:auto;display:none;z-index:1300}
-.gs-item{padding:9px 12px;border-bottom:1px solid var(--line);cursor:pointer}
+header{background:var(--panel);border-bottom:1px solid var(--line);padding:12px 18px;display:flex;gap:16px;align-items:center;flex-wrap:wrap;z-index:1200;position:relative}
+.brand{display:flex;flex-direction:column;line-height:1.2;min-width:max-content}
+.brand b{font-size:15px;font-weight:700;letter-spacing:-.01em}
+.brand span{font-size:11.5px;color:var(--muted)}
+.game-search{position:relative;flex:1;min-width:220px;max-width:520px}
+.game-search input{width:100%;padding:9px 34px 9px 13px;border-radius:8px;border:1px solid var(--line);background:var(--bg);color:var(--ink);font-size:14px;outline:none;transition:border-color .15s}
+.game-search input::placeholder{color:var(--faint)}
+.game-search input:focus{border-color:var(--ink)}
+.gs-clear{position:absolute;right:6px;top:50%;transform:translateY(-50%);border:0;background:none;color:var(--faint);font-size:15px;display:none}
+.gs-clear:hover{color:var(--ink)}
+.gs-dropdown{position:absolute;top:calc(100% + 4px);left:0;right:0;background:#fff;border:1px solid var(--line);border-radius:10px;box-shadow:0 10px 30px rgba(0,0,0,.08);max-height:340px;overflow:auto;display:none;z-index:1300}
+.gs-item{padding:9px 12px;border-bottom:1px solid var(--chip);cursor:pointer}
 .gs-item:last-child{border-bottom:0}
-.gs-item:hover{background:#f5f6ff}
-.gs-item .nm{font-size:14px;font-weight:600}
+.gs-item:hover{background:var(--bg)}
+.gs-item .nm{font-size:13.5px;font-weight:600}
 .gs-item .meta{font-size:12px;color:var(--muted);margin-top:2px;display:flex;gap:6px;flex-wrap:wrap;align-items:center}
-.gs-family{padding:6px 12px 2px;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--accent);background:#fafaff;position:sticky;top:0}
-.badge{display:inline-block;font-size:10.5px;font-weight:700;padding:1px 7px;border-radius:20px;white-space:nowrap}
-.badge.ok{background:#e2f6ec;color:var(--ok)}
-.badge.est{background:#fdf1dc;color:var(--warn)}
-.hdr-actions{display:flex;gap:8px}
-.hdr-btn{background:#1a2138;color:#cfd6ec;border:1px solid #2a3350;border-radius:10px;padding:8px 12px;font-size:13px;display:flex;gap:6px;align-items:center}
-.hdr-btn:hover{border-color:var(--accent);color:#fff}
+.gs-family{padding:7px 12px 3px;font-size:10.5px;font-weight:700;text-transform:uppercase;letter-spacing:.07em;color:var(--faint);background:#fff;position:sticky;top:0}
+.badge{display:inline-block;font-size:10px;font-weight:600;padding:1px 7px;border-radius:20px;white-space:nowrap}
+.badge.ok{background:#ecfdf5;color:#047857}
+.badge.est{background:var(--chip);color:var(--muted)}
+.hdr-actions{display:flex;gap:8px;margin-left:auto}
+.hdr-btn{background:#fff;color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:8px 12px;font-size:13px;display:flex;gap:6px;align-items:center}
+.hdr-btn:hover{border-color:var(--ink)}
 /* ---------- Game banner ---------- */
-#gameBanner{display:none;background:linear-gradient(90deg,#241b4d,#3b2a7a);color:#fff;padding:8px 16px;font-size:13.5px;align-items:center;gap:10px;z-index:1100;position:relative}
+#gameBanner{display:none;background:var(--panel);border-bottom:1px solid var(--line);color:var(--ink);padding:8px 18px;font-size:13px;align-items:center;gap:8px;z-index:1100;position:relative}
 #gameBanner.show{display:flex}
-#gameBanner .pill{background:rgba(255,255,255,.14);padding:3px 10px;border-radius:20px;font-weight:600}
-#gameBanner button{margin-left:auto;background:none;border:1px solid #6f5fd0;color:#fff;border-radius:8px;padding:4px 10px;font-size:12.5px}
+#gameBanner .pill{background:var(--chip);border:1px solid var(--line);padding:2px 10px;border-radius:20px;font-weight:600}
+#gameBanner #bannerNote{color:var(--muted)}
+#gameBanner button{margin-left:auto;background:none;border:0;color:var(--accent);font-size:13px;font-weight:600;padding:2px 4px}
 /* ---------- Layout ---------- */
 main{flex:1;display:flex;min-height:0;position:relative}
-#sidebar{width:378px;min-width:378px;background:var(--panel);display:flex;flex-direction:column;border-right:1px solid var(--line);z-index:1000}
-#map{flex:1;background:#dfe5ef}
+#sidebar{width:372px;min-width:372px;background:var(--panel);display:flex;flex-direction:column;border-right:1px solid var(--line);z-index:1000;min-height:0}
+#map{flex:1;background:#e7e5e4}
 /* ---------- Filters ---------- */
-#filters{padding:12px 14px;border-bottom:1px solid var(--line);overflow-y:auto;max-height:46%}
-.f-row{margin-bottom:10px}
+#filters{padding:14px 16px 12px;border-bottom:1px solid var(--line)}
+.f-row{margin-bottom:12px}
 .f-row:last-child{margin-bottom:0}
-.f-label{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin-bottom:6px;display:flex;justify-content:space-between;align-items:center}
-.f-label output{color:var(--accent);font-size:12px}
-#nameSearch{width:100%;padding:8px 11px;border:1px solid var(--line);border-radius:9px;font-size:13.5px;outline:none}
-#nameSearch:focus{border-color:var(--accent)}
+.f-label{font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin-bottom:6px;display:flex;justify-content:space-between;align-items:center}
+.f-label output{color:var(--ink);font-size:12px;font-weight:700}
+#nameSearch{width:100%;padding:8px 11px;border:1px solid var(--line);border-radius:8px;font-size:13.5px;outline:none;background:var(--bg)}
+#nameSearch:focus{border-color:var(--ink);background:#fff}
 .chips{display:flex;flex-wrap:wrap;gap:6px}
-.chip{border:1px solid var(--line);background:var(--chip);color:#3a4560;font-size:12.5px;padding:5px 10px;border-radius:20px;transition:all .15s}
-.chip:hover{border-color:#c3c9e8}
-.chip.on{background:var(--accent);border-color:var(--accent);color:#fff}
-input[type=range]{width:100%;accent-color:var(--accent)}
-.f-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px}
-select{width:100%;padding:7px 9px;border:1px solid var(--line);border-radius:9px;font-size:13px;background:#fff;color:var(--ink)}
+.chip{border:1px solid var(--line);background:#fff;color:var(--muted);font-size:12px;padding:5px 11px;border-radius:20px;transition:all .12s}
+.chip:hover{border-color:var(--faint);color:var(--ink)}
+.chip.on{background:var(--ink);border-color:var(--ink);color:#fff}
+input[type=range]{width:100%;accent-color:var(--ink)}
+.f-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+select{width:100%;padding:7px 9px;border:1px solid var(--line);border-radius:8px;font-size:13px;background:#fff;color:var(--ink)}
 /* ---------- Results ---------- */
-#resultsBar{padding:9px 14px;display:flex;align-items:center;gap:8px;border-bottom:1px solid var(--line);background:#fafbfe}
-#count{font-size:12.5px;color:var(--muted);font-weight:600}
+#resultsBar{padding:10px 16px;border-bottom:1px solid var(--line);background:var(--panel)}
+#count{font-size:12px;color:var(--muted);font-weight:600}
 #results{flex:1;overflow-y:auto}
-.card{padding:12px 14px;border-bottom:1px solid var(--line);cursor:pointer;transition:background .12s}
-.card:hover{background:#f6f7ff}
-.card.active{background:#eef0ff;border-left:3px solid var(--accent)}
-.card h3{font-size:14.5px;margin-bottom:3px;display:flex;align-items:center;gap:7px}
-.card .tipo{font-size:10.5px;font-weight:700;color:var(--accent);text-transform:uppercase;letter-spacing:.04em}
-.card .sub{font-size:12px;color:var(--muted);margin-bottom:5px}
-.stars{color:var(--accent2);font-weight:700;font-size:13px}
+.card{padding:13px 16px;border-bottom:1px solid var(--chip);cursor:pointer;transition:background .1s}
+.card:hover{background:var(--bg)}
+.card.active{background:#fff7ed;border-left:3px solid var(--accent);padding-left:13px}
+.card h3{font-size:14px;font-weight:650;margin-bottom:2px}
+.card .where{font-size:11.5px;color:var(--faint);margin-bottom:4px}
+.card .sub{font-size:12.5px;color:var(--muted)}
+.stars{color:var(--star);font-weight:700}
 .reviews{color:var(--muted);font-weight:400;font-size:12px}
-.card .tags{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px}
-.mini{font-size:10.5px;background:var(--chip);border-radius:5px;padding:2px 6px;color:#4a5470}
-.score-flag{font-size:10px;color:var(--muted);font-weight:400}
+.score-flag{font-size:10.5px;color:var(--faint)}
 /* ---------- Markers ---------- */
-.pin{display:flex;align-items:center;justify-content:center;border-radius:50% 50% 50% 4px;transform:rotate(-45deg);border:2.5px solid #fff;box-shadow:0 2px 7px rgba(0,0,0,.35);color:#fff;font-weight:800}
-.pin span{transform:rotate(45deg);font-size:12px}
+.pin{display:flex;align-items:center;justify-content:center;border-radius:50% 50% 50% 4px;transform:rotate(-45deg);border:2px solid #fff;box-shadow:0 1px 5px rgba(0,0,0,.3);background:var(--ink);color:#fff;font-weight:700}
+.pin span{transform:rotate(45deg);font-size:11.5px}
 /* ---------- Popup ---------- */
-.leaflet-popup-content-wrapper{border-radius:14px}
-.leaflet-popup-content{margin:14px 16px;font-family:inherit;min-width:240px;max-width:300px}
-.pop h3{font-size:16px;margin-bottom:2px}
-.pop .tipo-zona{font-size:12px;color:var(--accent);font-weight:700;margin-bottom:6px}
-.pop .dir{font-size:12.5px;color:var(--muted);margin-bottom:8px}
-.pop .row{display:flex;gap:6px;align-items:baseline;font-size:13px;margin-bottom:4px}
-.pop .row b{min-width:86px;color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:.04em}
-.pop .btns{display:flex;gap:7px;margin-top:10px}
-.pop .btns a{flex:1;text-align:center;text-decoration:none;font-size:12.5px;font-weight:700;padding:8px 0;border-radius:9px}
-.btn-maps{background:var(--accent);color:#fff}
-.btn-web{background:var(--chip);color:var(--ink);border:1px solid var(--line)}
-.pop .tags{display:flex;flex-wrap:wrap;gap:4px;margin-top:6px}
-.nodata{color:#98a0b8;font-style:italic}
-/* ---------- Legend ---------- */
-#legend{position:absolute;right:392px;bottom:110px;background:rgba(255,255,255,.94);border-radius:12px;box-shadow:var(--shadow);padding:10px 12px;font-size:12px;z-index:900}
-#legend .l-item{display:flex;align-items:center;gap:7px;margin:3px 0;color:#3a4560}
-.dot{width:11px;height:11px;border-radius:50%;display:inline-block}
-/* ---------- Mobile ---------- */
-#sheetHandle{display:none}
+.leaflet-popup-content-wrapper{border-radius:12px;box-shadow:0 12px 32px rgba(0,0,0,.14)}
+.leaflet-popup-content{margin:15px 17px;font-family:inherit;min-width:240px;max-width:300px;line-height:1.45}
+.pop h3{font-size:15.5px;margin-bottom:2px;letter-spacing:-.01em}
+.pop .tipo-zona{font-size:11.5px;color:var(--faint);text-transform:uppercase;letter-spacing:.05em;font-weight:600;margin-bottom:8px}
+.pop .dir{font-size:12.5px;color:var(--muted);margin-bottom:9px}
+.pop .row{display:flex;gap:8px;align-items:baseline;font-size:13px;margin-bottom:5px}
+.pop .row b{min-width:78px;color:var(--faint);font-size:10.5px;text-transform:uppercase;letter-spacing:.05em;font-weight:600}
+.pop .btns{display:flex;gap:7px;margin-top:12px}
+.pop .btns a{flex:1;text-align:center;text-decoration:none;font-size:12.5px;font-weight:600;padding:8px 0;border-radius:8px}
+.btn-maps{background:var(--ink);color:#fff}
+.btn-web{background:#fff;color:var(--ink);border:1px solid var(--line)}
+.nodata{color:var(--faint);font-style:italic}
+/* ---------- Mobile: un solo scroll ---------- */
 @media (max-width:900px){
-  main{flex-direction:column}
-  #map{position:absolute;inset:0}
-  #sidebar{position:absolute;left:0;right:0;bottom:0;width:auto;min-width:0;max-height:62%;border-radius:18px 18px 0 0;box-shadow:0 -6px 24px rgba(0,0,0,.25);border-right:0;transition:max-height .25s}
-  #sidebar.collapsed{max-height:118px}
-  #sheetHandle{display:flex;justify-content:center;padding:8px 0 4px;cursor:grab;touch-action:none}
-  #sheetHandle i{width:44px;height:5px;border-radius:3px;background:#cdd3e4;display:block}
-  #filters{max-height:none}
-  #legend{bottom:auto;top:12px;right:12px;padding:8px 10px}
-  header{padding:8px 10px;gap:8px}
+  body{display:block;overflow:auto}
+  main{display:block;min-height:0}
+  #map{position:relative;width:100%;height:52vh;min-height:340px}
+  #sidebar{position:static;width:auto;min-width:0;border-right:0}
+  #results{overflow:visible}
+  header{padding:10px 12px;gap:8px}
   .brand span{display:none}
+  .hdr-actions{margin-left:0;width:100%}
+  .hdr-btn{flex:1;justify-content:center}
+  .gs-dropdown{position:fixed;left:12px;right:12px;top:110px;max-height:50vh}
 }
-.toast{position:fixed;bottom:18px;left:50%;transform:translateX(-50%);background:#232a3f;color:#fff;padding:9px 16px;border-radius:10px;font-size:13px;z-index:2000;opacity:0;transition:opacity .25s;pointer-events:none}
+.toast{position:fixed;bottom:18px;left:50%;transform:translateX(-50%);background:var(--ink);color:#fff;padding:9px 16px;border-radius:8px;font-size:13px;z-index:2000;opacity:0;transition:opacity .25s;pointer-events:none;white-space:nowrap}
 .toast.show{opacity:1}
 </style>
 </head>
 <body>
 <header>
-  <div class="brand"><b>🎲 Board Games Finder Madrid</b><span>Bares y cafés de juegos de mesa en Madrid capital</span></div>
+  <div class="brand"><b>🎲 Board Games Finder España</b><span>Bares y cafés de juegos de mesa en España</span></div>
   <div class="game-search">
     <input id="gameInput" type="text" placeholder="Busca un juego (p. ej. Catán, Azul, Pandemic…)" autocomplete="off">
     <button class="gs-clear" id="gsClear" aria-label="Limpiar búsqueda de juego">✕</button>
@@ -130,17 +123,12 @@ select{width:100%;padding:7px 9px;border:1px solid var(--line);border-radius:9px
     <button class="hdr-btn" id="btnShare">🔗 Copiar enlace</button>
   </div>
 </header>
-<div id="gameBanner"><span>Mostrando bares donde puedes jugar a</span><span class="pill" id="bannerGame"></span><span id="bannerNote"></span><button id="bannerClear">Quitar filtro</button></div>
+<div id="gameBanner"><span>Bares donde puedes jugar a</span><span class="pill" id="bannerGame"></span><span id="bannerNote"></span><button id="bannerClear">Quitar filtro</button></div>
 <main>
   <div id="map"></div>
-  <div id="legend"></div>
   <aside id="sidebar">
-    <div id="sheetHandle"><i></i></div>
     <div id="filters">
-      <div class="f-row"><input id="nameSearch" type="text" placeholder="Buscar bar por nombre…"></div>
-      <div class="f-row"><div class="f-label">Zona</div><div class="chips" id="chipsZona"></div></div>
-      <div class="f-row"><div class="f-label">Tipo de local</div><div class="chips" id="chipsTipo"></div></div>
-      <div class="f-row"><div class="f-label">Tipo de juegos</div><div class="chips" id="chipsJuegos"></div></div>
+      <div class="f-row"><input id="nameSearch" type="text" placeholder="Buscar local por nombre o ciudad…"></div>
       <div class="f-row"><div class="f-label">Precio para jugar</div><div class="chips" id="chipsPrecio"></div></div>
       <div class="f-grid">
         <div class="f-row"><div class="f-label">Valoración mín. <output id="outVmin">0★</output></div><input type="range" id="fVmin" min="0" max="5" step="0.5" value="0"></div>
