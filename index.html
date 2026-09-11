@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<title>Board Games Finder España — Bares de juegos de mesa en España</title>
-<meta name="description" content="Mapa de bares y cafés de juegos de mesa en España: compara valoraciones, reseñas, precios y catálogos de juegos, y encuentra dónde jugar a tu juego favorito.">
+<title>Board Games & Craft Beer Finder — Mapas de bares de juegos de mesa y cervecerías de especialidad</title>
+<meta name="description" content="Mapas de bares de juegos de mesa en España y cervecerías de especialidad en Madrid: compara valoraciones, reseñas, grifos y catálogos, y encuentra tu próximo local.">
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <style>
 :root{
@@ -93,6 +93,11 @@ select{width:100%;padding:7px 9px;border:1px solid var(--line);border-radius:8px
 .btn-maps{background:var(--ink);color:#fff}
 .btn-web{background:#fff;color:var(--ink);border:1px solid var(--line)}
 .nodata{color:var(--faint);font-style:italic}
+/* ---------- View switch ---------- */
+.view-switch{display:flex;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:#fff}
+.vs-btn{border:0;background:#fff;padding:8px 14px;font-size:13px;color:var(--muted);transition:all .12s}
+.vs-btn:hover{color:var(--ink)}
+.vs-btn.on{background:var(--ink);color:#fff;font-weight:600}
 /* ---------- Mobile: un solo scroll ---------- */
 @media (max-width:900px){
   body{display:block;overflow:auto}
@@ -102,6 +107,8 @@ select{width:100%;padding:7px 9px;border:1px solid var(--line);border-radius:8px
   #results{overflow:visible}
   header{padding:10px 12px;gap:8px}
   .brand span{display:none}
+  .view-switch{width:100%;order:3}
+  .vs-btn{flex:1;text-align:center;padding:8px 6px}
   .hdr-actions{margin-left:0;width:100%}
   .hdr-btn{flex:1;justify-content:center}
   .gs-dropdown{position:fixed;left:12px;right:12px;top:110px;max-height:50vh}
@@ -112,8 +119,12 @@ select{width:100%;padding:7px 9px;border:1px solid var(--line);border-radius:8px
 </head>
 <body>
 <header>
-  <div class="brand"><b><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:-2px;margin-right:5px"><rect x="3" y="3" width="18" height="18" rx="4"/><circle cx="8.5" cy="8.5" r="1.6" fill="currentColor" stroke="none"/><circle cx="15.5" cy="15.5" r="1.6" fill="currentColor" stroke="none"/><circle cx="15.5" cy="8.5" r="1.6" fill="currentColor" stroke="none"/><circle cx="8.5" cy="15.5" r="1.6" fill="currentColor" stroke="none"/></svg>Board Games Finder España</b><span>Bares y cafés de juegos de mesa en España</span></div>
-  <div class="game-search">
+  <div class="brand"><b id="brandTitle"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:-2px;margin-right:5px"><rect x="3" y="3" width="18" height="18" rx="4"/><circle cx="8.5" cy="8.5" r="1.6" fill="currentColor" stroke="none"/><circle cx="15.5" cy="15.5" r="1.6" fill="currentColor" stroke="none"/><circle cx="15.5" cy="8.5" r="1.6" fill="currentColor" stroke="none"/><circle cx="8.5" cy="15.5" r="1.6" fill="currentColor" stroke="none"/></svg>Board Games Finder España</b><span id="brandSub">Bares y cafés de juegos de mesa en España</span></div>
+  <nav class="view-switch" aria-label="Cambiar de mapa">
+    <button class="vs-btn on" id="vsJuegos" type="button">Juegos de mesa</button>
+    <button class="vs-btn" id="vsCervezas" type="button">Cervezas</button>
+  </nav>
+  <div class="game-search" id="gameSearchWrap">
     <input id="gameInput" type="text" placeholder="Busca un juego (p. ej. Catán, Azul, Pandemic…)" autocomplete="off">
     <button class="gs-clear" id="gsClear" aria-label="Limpiar búsqueda de juego">✕</button>
     <div class="gs-dropdown" id="gsDropdown"></div>
@@ -129,14 +140,14 @@ select{width:100%;padding:7px 9px;border:1px solid var(--line);border-radius:8px
   <aside id="sidebar">
     <div id="filters">
       <div class="f-row"><input id="nameSearch" type="text" placeholder="Buscar local por nombre o ciudad…"></div>
-      <div class="f-row"><div class="f-label">Precio para jugar</div><div class="chips" id="chipsPrecio"></div></div>
+      <div class="f-row"><div class="f-label" id="chipsLabel">Precio para jugar</div><div class="chips" id="chipsFiltro"></div></div>
       <div class="f-grid">
         <div class="f-row"><div class="f-label">Valoración mín. <output id="outVmin">0★</output></div><input type="range" id="fVmin" min="0" max="5" step="0.5" value="0"></div>
         <div class="f-row"><div class="f-label">Reseñas mín. <output id="outRmin">0</output></div><input type="range" id="fRmin" min="0" max="1500" step="50" value="0"></div>
       </div>
       <div class="f-grid">
-        <div class="f-row"><div class="f-label">Nº de juegos</div>
-          <select id="fJmin"><option value="0">Cualquiera</option><option value="50">50+</option><option value="200">200+</option><option value="500">500+</option><option value="1000">1000+</option></select></div>
+        <div class="f-row"><div class="f-label" id="minLabel">Nº de juegos</div>
+          <select id="fNmin"><option value="0">Cualquiera</option><option value="50">50+</option><option value="200">200+</option><option value="500">500+</option><option value="1000">1000+</option></select></div>
         <div class="f-row"><div class="f-label">Ordenar por</div>
           <select id="fOrden">
             <option value="relevancia">Relevancia (valoración + reseñas)</option>
