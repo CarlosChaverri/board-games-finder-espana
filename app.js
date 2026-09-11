@@ -128,7 +128,7 @@ function renderGameDropdown(q){
     list.slice(0,8).forEach(j=>{
       const idx=JUEGOS.indexOf(j);
       const barNames=Object.keys(j.bares).map(id=>BARES.find(b=>b.id===id)?.nombre||id);
-      const badges=Object.entries(j.bares).map(([id,v])=>{const f=FUENTE_BADGE[v.fuente]||FUENTE_BADGE.estimado;return `<span class="badge ${f[1]}">${f[0]}</span>`;}).join(' ');
+      const badges=[...new Set(Object.values(j.bares).map(v=>{const f=FUENTE_BADGE[v.fuente]||FUENTE_BADGE.estimado;return `<span class="badge ${f[1]}">${f[0]}</span>`;}))].join(' ');
       const extra=[j.jugadores?j.jugadores+' jug.':null, j.duracion].filter(Boolean).join(' · ');
       html+=`<div class="gs-item" data-i="${idx}"><div class="nm">${j.nombre}</div><div class="meta"><span>📍 ${barNames.join(' · ')}</span>${badges}${extra?`<span>${extra}</span>`:''}</div></div>`;
     });
