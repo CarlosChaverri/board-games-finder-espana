@@ -52,3 +52,9 @@ Edita `bares.json` y añade un objeto con este formato:
 - Números de juegos de prensa local (Queimada, Archivo Arcano, Txoko Tabulo) marcados como *estimados*.
 - Los campos con evidencia débil se marcan como *estimados* en la propia web.
 - Cuando existe una fuente específica, la ficha muestra su enlace y fecha. Las cifras históricas se describen como tales y no se presentan como inventario actual.
+
+## Vista Cervezas
+
+- `cervezas.json` — locales de cerveza de especialidad e Irish pubs. Además de los campos comunes: `grifos`, `cervezas_total`, `datos_fuente` (`web-oficial`, `perfil`, `prensa`) y las actividades opcionales `billar`, `dardos` y `musica_en_directo`, cada una como `{"fuente": "web-oficial|guia|resenas", "fecha": "AAAA-MM-DD", "url": "...", "detalle": "programación puntual" (solo si aplica)}`. Sin evidencia, el campo no se pone.
+- `marcas.json` — cervezas por local con evidencia por fuente (`carta-actual`, `carta-sin-fecha`, `menu-externo`, `visto-untappd`) y fecha.
+- La vista tiene filtros independientes y combinables de Billar, Dardos y Música en directo (solo muestran locales con evidencia confirmada).
