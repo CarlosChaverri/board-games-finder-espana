@@ -2,7 +2,7 @@
 
 Mapa web de bares, cafés y pubs de **juegos de mesa en España**: explora el mapa, filtra por precio, valoración o número de juegos, y busca un juego concreto (p. ej. *Catán*) para ver en qué locales está disponible.
 
-**Web:** https://carloschaverri.github.io/board-games-finder-madrid/
+**Web:** https://carloschaverri.github.io/board-games-finder-espana/
 
 ## Estructura
 
@@ -35,6 +35,8 @@ Edita `bares.json` y añade un objeto con este formato:
   "descripcion": "Texto corto.",
   "web": "https://...",
   "maps_url": "https://www.google.com/maps/search/?api=1&query=...&query_place_id=...",
+  "evidencia_fecha": "2026-09-11",
+  "evidencia_url": "https://fuente-ejemplo.es/...",
   "actualizado": "2026-09-11"
 }
 ```
@@ -49,3 +51,4 @@ Edita `bares.json` y añade un objeto con este formato:
 - Catálogos de juegos: webs oficiales de Replay Boardgame Cafe (~1.820 juegos), Six Board Game Cafe (585) y El Bardo Borracho (56), extraídos el 11/09/2026. El resto de locales no publica catálogo.
 - Números de juegos de prensa local (Queimada, Archivo Arcano, Txoko Tabulo) marcados como *estimados*.
 - Los campos con evidencia débil se marcan como *estimados* en la propia web.
+- Cuando existe una fuente específica, la ficha muestra su enlace y fecha. Las cifras históricas se describen como tales y no se presentan como inventario actual.

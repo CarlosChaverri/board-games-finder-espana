@@ -156,8 +156,8 @@
     "precio": "desconocido",
     "precio_detalle": "Sin datos publicados",
     "precio_evidencia": "desconocido",
-    "num_juegos": null,
-    "num_juegos_fuente": "sin-catalogo",
+    "num_juegos": 825,
+    "num_juegos_fuente": "estimado",
     "tipos_juego": [
       "estrategia",
       "party",
@@ -171,11 +171,13 @@
       "grupos",
       "casual"
     ],
-    "descripcion": "Pionero en España del formato board game café (nació por crowdfunding). Cocina americana y amplia ludoteca en Vallehermoso.",
+    "descripcion": "Board game café pionero en España. El País documentó 825 juegos en 2017 y una colección en crecimiento; no consta un catálogo público actual, por lo que la cifra se muestra como histórica y estimada.",
     "web": null,
     "maps_url": "https://www.google.com/maps/search/?api=1&query=Epic+Board+Game+Cafe&query_place_id=ChIJxZyJnlEoQg0R6ugzzdTOdMk",
-    "actualizado": "2026-09-11",
-    "ciudad": "Madrid"
+    "actualizado": "2026-09-12",
+    "ciudad": "Madrid",
+    "evidencia_fecha": "2017-05-23",
+    "evidencia_url": "https://english.elpais.com/elpais/2017/05/22/inenglish/1495470510_325477.html"
   },
   {
     "id": "estar",
@@ -304,11 +306,13 @@
       "grupos",
       "eventos"
     ],
-    "descripcion": "Rock gaming pub: consolas, retro arcade y juegos de mesa gratis. Torneos, trivia y comedy nights. El foco principal son los videojuegos.",
+    "descripcion": "Rock gaming pub con PlayStation, Switch, Xbox, retro arcade y juegos de mesa. Su web confirma que el uso es gratuito con consumición; organiza torneos, trivia y otros eventos.",
     "web": "https://meltdownmadrid.com/",
     "maps_url": "https://www.google.com/maps/search/?api=1&query=Meltdown+Madrid&query_place_id=ChIJXa98SIsoQg0R2SwQQdafKYU",
-    "actualizado": "2026-09-11",
-    "ciudad": "Madrid"
+    "actualizado": "2026-09-12",
+    "ciudad": "Madrid",
+    "evidencia_fecha": "2025-02-24",
+    "evidencia_url": "https://meltdownmadrid.com/servicios/"
   },
   {
     "id": "gambit",
@@ -321,9 +325,9 @@
     "lng": -3.7022414,
     "valoracion": 4.6,
     "resenas": 97,
-    "precio": "desconocido",
-    "precio_detalle": "Sin datos publicados",
-    "precio_evidencia": "desconocido",
+    "precio": "cover",
+    "precio_detalle": "3 € para jugar, sin límite de partidas ni tiempo",
+    "precio_evidencia": "confirmado",
     "num_juegos": null,
     "num_juegos_fuente": "sin-catalogo",
     "tipos_juego": [
@@ -334,11 +338,13 @@
       "casual",
       "comunidad"
     ],
-    "descripcion": "El primer café-bar de ajedrez de Madrid: tableros para todos los niveles, clases, torneos y comunidad (incluido grupo de WhatsApp).",
+    "descripcion": "Chess bar de Malasaña con mesas diseñadas para jugar, torneos y encuentros para todos los niveles. Tarifa publicada de 3 € sin límite de partidas ni tiempo; abonos desde 25 €/mes.",
     "web": "https://gambitcafe.es/",
     "maps_url": "https://www.google.com/maps/search/?api=1&query=Gambit+Caf%C3%A9+Madrid&query_place_id=ChIJQ_2T7aEpQg0RiRXgq-rBb0s",
-    "actualizado": "2026-09-11",
-    "ciudad": "Madrid"
+    "actualizado": "2026-09-12",
+    "ciudad": "Madrid",
+    "evidencia_fecha": "2026-01-28",
+    "evidencia_url": "https://www.indisa.es/canal-horeca/abre-gambit-cafe-primer-chess-bar-madrid"
   },
   {
     "id": "da2",
@@ -654,8 +660,8 @@
     "precio": "desconocido",
     "precio_detalle": "Sin datos publicados",
     "precio_evidencia": "desconocido",
-    "num_juegos": null,
-    "num_juegos_fuente": "sin-catalogo",
+    "num_juegos": 200,
+    "num_juegos_fuente": "estimado",
     "tipos_juego": [
       "estrategia",
       "familiar",
@@ -668,10 +674,12 @@
       "grupos",
       "casual"
     ],
-    "descripcion": "Tienda de juegos con cafetería y zona de juego en Málaga, incluida en guías internacionales de board game cafés.",
+    "descripcion": "Tienda y espacio de juego especializado en Málaga. Una fuente local documentó más de 200 juegos en 2023; la cifra se conserva como histórica y estimada porque no hay un catálogo público actual de la ludoteca.",
     "web": "https://www.playplanetjuegos.com/",
     "maps_url": "https://www.google.com/maps/search/?api=1&query=Play+Planet+Coffee+and+Shop&query_place_id=ChIJXel_ZZH3cg0Ret6JdHToR8o",
-    "actualizado": "2026-09-11"
+    "actualizado": "2026-09-12",
+    "evidencia_fecha": "2023-05-26",
+    "evidencia_url": "https://www.diariosur.es/malaga-capital/juegos-mesa-lugar-malagueno-20230526181138-nt.html"
   },
   {
     "id": "continental",
@@ -950,10 +958,10 @@
     "valoracion": 5.0,
     "resenas": 40,
     "precio": "club",
-    "precio_detalle": "Asociación lúdica",
-    "precio_evidencia": "desconocido",
-    "num_juegos": null,
-    "num_juegos_fuente": "sin-catalogo",
+    "precio_detalle": "15 €/mes; hasta 3 visitas gratuitas antes de asociarse",
+    "precio_evidencia": "confirmado",
+    "num_juegos": 150,
+    "num_juegos_fuente": "catalogo-web",
     "tipos_juego": [
       "estrategia",
       "tematico",
@@ -965,10 +973,12 @@
       "comunidad",
       "club"
     ],
-    "descripcion": "Asociación de juegos de mesa de Oviedo con local propio y actividades regulares.",
-    "web": null,
+    "descripcion": "Asociación de Oviedo con local propio de más de 150 m², salas sin horario fijo y ludoteca oficial de más de 150 juegos. El reglamento publica una cuota mensual de 15 € y permite hasta tres visitas gratuitas antes de asociarse.",
+    "web": "https://www.enclavedejuego.com/",
     "maps_url": "https://www.google.com/maps/search/?api=1&query=Asociacion+Enclave+de+Juego&query_place_id=ChIJz3QPH9eNNg0RlaaJ8ju4ATc",
-    "actualizado": "2026-09-11"
+    "actualizado": "2026-09-12",
+    "evidencia_fecha": "2026-09-12",
+    "evidencia_url": "https://www.enclavedejuego.com/"
   },
   {
     "id": "dados",
@@ -999,10 +1009,12 @@
       "grupos",
       "casual"
     ],
-    "descripcion": "Ludoteca-café de Salamanca con estanterías de juegos para jugar en el local.",
+    "descripcion": "Tienda especializada y punto de encuentro de la comunidad lúdica de Salamanca, con eventos, presentaciones y zona para jugar. Publica catálogo de venta, pero no un inventario separado de juegos disponibles en mesa.",
     "web": "https://www.dadosycubitos.es/",
     "maps_url": "https://www.google.com/maps/search/?api=1&query=Dados+%26+Cubitos&query_place_id=ChIJ-bA5GRImPw0RermI5Eag83o",
-    "actualizado": "2026-09-11"
+    "actualizado": "2026-09-12",
+    "evidencia_fecha": "2026-09-12",
+    "evidencia_url": "https://www.dadosycubitos.es/"
   },
   {
     "id": "stranger",
@@ -1032,10 +1044,12 @@
       "comunidad",
       "casual"
     ],
-    "descripcion": "Tienda y café de juegos en Murcia: cartas, mesa y comunidad friki con zona para jugar.",
-    "web": null,
+    "descripcion": "Tienda especializada en juegos de mesa, cartas, wargames y miniaturas, con cafetería y zona de bar con juegos. Su catálogo comercial no permite saber qué títulos están disponibles para jugar, por lo que no se atribuye una ludoteca concreta.",
+    "web": "https://www.strangergamesstore.com/",
     "maps_url": "https://www.google.com/maps/search/?api=1&query=Stranger+Games&query_place_id=ChIJ6V3B9xKDYw0RgF5se0_wfnU",
-    "actualizado": "2026-09-11"
+    "actualizado": "2026-09-12",
+    "evidencia_fecha": "2026-09-12",
+    "evidencia_url": "https://www.strangergamesstore.com/"
   },
   {
     "id": "goblintrader",
@@ -1164,9 +1178,11 @@
       "comunidad",
       "club"
     ],
-    "descripcion": "Asociación de juegos de mesa de Vitoria-Gasteiz.",
-    "web": null,
+    "descripcion": "Asociación BGG de Vitoria-Gasteiz, integrada en Gasteiz Jokoan. Su web confirma local y ludoteca propios, formada por compras y cesiones, pero no publica un inventario completo ni una cifra verificable.",
+    "web": "https://www.gajo.eus/bgg",
     "maps_url": "https://www.google.com/maps/search/?api=1&query=Asociaci%C3%B3n+de+juegos+de+mesa+BGG&query_place_id=ChIJTYLXnlPDTw0RgxnGV_hInrM",
-    "actualizado": "2026-09-11"
+    "actualizado": "2026-09-12",
+    "evidencia_fecha": "2026-09-12",
+    "evidencia_url": "https://www.gajo.eus/bgg"
   }
 ]

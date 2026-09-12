@@ -102,6 +102,12 @@ const normTxt = s => (s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase
 const fmtN = n => n==null ? null : n.toLocaleString('es-ES');
 function score(b, C, m){ return (b.resenas/(b.resenas+m))*b.valoracion + (m/(b.resenas+m))*C; }
 function fmtFecha(f){ if(!f) return null; const [y,m,d]=f.split('-'); return d+'/'+m+'/'+y; }
+function evidenciaHTML(b){
+  if(!b.evidencia_fecha && !b.evidencia_url) return '';
+  const fecha=b.evidencia_fecha ? fmtFecha(b.evidencia_fecha) : null;
+  const fuente=b.evidencia_url ? `<a href="${b.evidencia_url}" target="_blank" rel="noopener">Ver fuente</a>` : '';
+  return `<div class="row evidence-row"><b>Evidencia</b><span>${[fecha,fuente].filter(Boolean).join(' · ')}</span></div>`;
+}
 function fuenteBadge(fuente, fecha, badgeMap){
   const f=badgeMap[fuente]||['Dato estimado','est'];
   const label = fuente==='visto-untappd'||fuente==='resenas'
@@ -357,7 +363,7 @@ function popupHTML(b){
     <div class="tipo-zona">${TIPOS_LOCAL[b.tipo]} · ${b.ciudad}</div>
     <div class="dir">${b.direccion} — ${b.zona}</div>
     <div class="row"><b>Valoración</b><span><span class="stars">★ ${b.valoracion.toFixed(1)}</span> <span class="reviews">(${fmtN(b.resenas)} reseñas en Google)</span></span></div>
-    ${precio}${nj}${juegoInfo}
+    ${precio}${nj}${juegoInfo}${evidenciaHTML(b)}
     <div style="font-size:12.5px;color:var(--muted);margin-top:7px">${b.descripcion}</div>
     <div class="btns"><a class="btn-maps" href="${b.maps_url}" target="_blank" rel="noopener">Cómo llegar (Google Maps)</a>${webBtn}</div>
   </div>`;
