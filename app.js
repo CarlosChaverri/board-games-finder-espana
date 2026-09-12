@@ -45,14 +45,22 @@ const MODES = {
     sortField: 'num_juegos',
     tipoLabel: b => TIPOS_LOCAL[b.tipo],
     hasGameSearch: true,
-    chipState: 'precios'
+    chipState: 'precios',
+    search: {
+      placeholder: 'Busca un juego (p. ej. Catán, Azul, Pandemic…)',
+      bannerLead: 'Bares donde puedes jugar a',
+      urlParam: 'juego',
+      badge: FUENTE_BADGE,
+      match: (j,nq) => normTxt(j.nombre).includes(nq),
+      meta: j => [j.jugadores?j.jugadores+' jug.':null, j.duracion].filter(Boolean).join(' · ')
+    }
   },
   cervezas: {
     brandIcon: '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:-2px;margin-right:5px"><path d="M17 11h1.5a2.5 2.5 0 0 1 0 5H17"/><path d="M5 6h12v12a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2z"/><path d="M7 6V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v1"/></svg>',
-    brandTitle: 'Craft Beer Finder Madrid',
-    brandSub: 'Cervecerías de especialidad en Madrid',
-    docTitle: 'Craft Beer Finder Madrid — Cervecerías de especialidad',
-    files: ['cervezas.json'],
+    brandTitle: 'Craft Beer Finder España',
+    brandSub: 'Cervecerías de especialidad en España',
+    docTitle: 'Craft Beer Finder España — Cervecerías de especialidad en España',
+    files: ['cervezas.json','marcas.json'],
     namePlaceholder: 'Buscar cervecería por nombre o barrio…',
     chipsLabel: 'Tipo de local',
     chips: CERVEZA_TIPOS,
@@ -65,8 +73,16 @@ const MODES = {
     ordenExtra: ['grifos','Nº de grifos'],
     sortField: 'grifos',
     tipoLabel: b => CERVEZA_TIPOS[b.tipo],
-    hasGameSearch: false,
-    chipState: 'tipos'
+    hasGameSearch: true,
+    chipState: 'tipos',
+    search: {
+      placeholder: 'Busca una cerveza (p. ej. Estrella Galicia, Guinness…)',
+      bannerLead: 'Locales donde la tienen',
+      urlParam: 'cerveza',
+      badge: {'carta-actual':['En carta ahora','ok'], 'carta-sin-fecha':['Carta publicada (sin fecha)','est']},
+      match: (j,nq) => normTxt(j.nombre).includes(nq) || normTxt(j.cervecera||'').includes(nq) || (j.alias||[]).some(a=>normTxt(a).includes(nq)),
+      meta: j => [j.cervecera, j.estilo, j.abv!=null?j.abv+'%':null].filter(Boolean).join(' · ')
+    }
   }
 };
 
@@ -110,6 +126,8 @@ function applyModeChrome(){
   $('#brandSub').textContent = CFG.brandSub;
   document.title = CFG.docTitle;
   $('#nameSearch').placeholder = CFG.namePlaceholder;
+  $('#gameInput').placeholder = CFG.search.placeholder;
+  $('#bannerLead').textContent = CFG.search.bannerLead;
   $('#chipsLabel').textContent = CFG.chipsLabel;
   $('#minLabel').textContent = CFG.minLabel;
   $('#gameSearchWrap').style.display = CFG.hasGameSearch ? '' : 'none';
@@ -187,7 +205,7 @@ function bindUI(){
 /* ---------- Game search ---------- */
 function gameMatches(q){
   const nq=normTxt(q); if(nq.length<2) return [];
-  return JUEGOS.filter(j=>normTxt(j.nombre).includes(nq)).slice(0,60);
+  return JUEGOS.filter(j=>CFG.search.match(j,nq)).slice(0,60);
 }
 function renderGameDropdown(q){
   const dd=$('#gsDropdown');
@@ -201,8 +219,8 @@ function renderGameDropdown(q){
     list.slice(0,8).forEach(j=>{
       const idx=JUEGOS.indexOf(j);
       const barNames=Object.keys(j.bares).map(id=>BARES.find(b=>b.id===id)?.nombre||id);
-      const badges=[...new Set(Object.values(j.bares).map(v=>{const f=FUENTE_BADGE[v.fuente]||FUENTE_BADGE.estimado;return `<span class="badge ${f[1]}">${f[0]}</span>`;}))].join(' ');
-      const extra=[j.jugadores?j.jugadores+' jug.':null, j.duracion].filter(Boolean).join(' · ');
+      const badges=[...new Set(Object.values(j.bares).map(v=>{const f=CFG.search.badge[v.fuente]||['Dato estimado','est'];return `<span class="badge ${f[1]}">${f[0]}</span>`;}))].join(' ');
+      const extra=CFG.search.meta(j);
       html+=`<div class="gs-item" data-i="${idx}"><div class="nm">${j.nombre}</div><div class="meta"><span>${barNames.join(' · ')}</span>${badges}${extra?`<span>${extra}</span>`:''}</div></div>`;
     });
   });
@@ -284,7 +302,7 @@ function cardHTML(b){
     else esp = CFG.tipoLabel(b);
     return `<div class="card" data-id="${b.id}">
       <h3>${b.nombre}</h3>
-      <div class="where">${CFG.tipoLabel(b)} · ${b.zona}</div>
+      <div class="where">${CFG.tipoLabel(b)} · ${b.ciudad} — ${b.zona}</div>
       <div class="sub"><span class="stars">★ ${b.valoracion.toFixed(1)}</span> <span class="reviews">(${fmtN(b.resenas)})</span> · ${esp}</div>
     </div>`;
   }
@@ -304,10 +322,13 @@ function popupHTML(b){
     if(b.grifos!=null) esp += `<div class="row"><b>Grifos</b><span>${b.grifos} <span class="badge ${fu[1]}">${fu[0]}</span></span></div>`;
     if(b.cervezas_total!=null) esp += `<div class="row"><b>Referencias</b><span>~${fmtN(b.cervezas_total)} <span class="badge ${fu[1]}">${fu[0]}</span></span></div>`;
     const webBtn = b.web ? `<a class="btn-web" href="${b.web}" target="_blank" rel="noopener">Web</a>` : '';
+    const cervInfo = state.juego && state.juego.bares[b.id]
+      ? `<div class="row"><b>Tu cerveza</b><span>✓ ${state.juego.nombre} disponible <span class="badge ${(CFG.search.badge[state.juego.bares[b.id].fuente]||['','est'])[1]}">${(CFG.search.badge[state.juego.bares[b.id].fuente]||[''])[0]}</span></span></div>` : '';
     return `<div class="pop">
       <h3>${b.nombre}</h3>
-      <div class="tipo-zona">${CFG.tipoLabel(b)} · ${b.zona}</div>
+      <div class="tipo-zona">${CFG.tipoLabel(b)} · ${b.ciudad} — ${b.zona}</div>
       <div class="dir">${b.direccion}</div>
+      ${cervInfo}
       <div class="row"><b>Valoración</b><span><span class="stars">★ ${b.valoracion.toFixed(1)}</span> <span class="reviews">(${fmtN(b.resenas)} reseñas en Google)</span></span></div>
       ${esp}
       <div style="font-size:12.5px;color:var(--muted);margin-top:7px">${b.descripcion}</div>
@@ -360,7 +381,7 @@ function writeURL(){
   if(state.rmin)p.set('rmin',state.rmin);
   if(state.nmin)p.set(CFG.minParam,state.nmin);
   if(state.orden!=='relevancia')p.set('orden',state.orden);
-  if(state.juego)p.set('juego',state.juego.nombre);
+  if(state.juego)p.set(CFG.search.urlParam,state.juego.nombre);
   const c=map.getCenter();
   p.set('lat',c.lat.toFixed(5));p.set('lng',c.lng.toFixed(5));p.set('z',map.getZoom());
   history.replaceState(null,'',location.pathname+'?'+p.toString());
@@ -377,7 +398,7 @@ function readURL(){
   document.querySelectorAll('#chipsFiltro .chip').forEach(ch=>{
     if(state[CFG.chipState].has(ch.dataset.v))ch.classList.add('on');
   });
-  const jn=p.get('juego');
+  const jn=p.get(CFG.search.urlParam);
   if(jn && CFG.hasGameSearch){const j=JUEGOS.find(x=>normTxt(x.nombre)===normTxt(jn))||gameMatches(jn)[0]; if(j)selectGame(j);}
   if(p.get('lat'))map.setView([+p.get('lat'),+p.get('lng')],+p.get('z')||6);
   map.on('moveend',writeURL);

@@ -1,0 +1,1382 @@
+[
+ {
+  "nombre": "Wild Atlantic",
+  "familia": "/galway bay wild atlantic",
+  "cervecera": "Basqueland × Galway Bay",
+  "estilo": "Pilsner",
+  "abv": 4.4,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Adrenalina",
+  "familia": "adrenalina",
+  "cervecera": "Garage Beer Co",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "garage-universitat": {
+    "fuente": "carta-sin-fecha"
+   },
+   "garage-poblenou": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Alhambra Reserva 1925",
+  "familia": "alhambra reserva 1925",
+  "cervecera": "Alhambra",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-mundial": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Altbairisch Dunkel",
+  "familia": "altbairisch dunkel",
+  "cervecera": "Ayinger",
+  "estilo": "Dunkel",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Amiga Märzen",
+  "familia": "amiga marzen",
+  "cervecera": "Yakka",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "yakka-la-alberca": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Amor Lager",
+  "familia": "amor lager",
+  "cervecera": "Yakka",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "yakka-la-alberca": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Amparo Trigo",
+  "familia": "amparo trigo",
+  "cervecera": "Yakka",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "yakka-la-alberca": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Amstel Radler",
+  "familia": "amstel radler",
+  "cervecera": "Amstel",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-mundial": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Amstel Radler 0,0",
+  "familia": "amstel radler 0,0",
+  "cervecera": "Amstel",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-mundial": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Amstel Shandy",
+  "familia": "amstel shandy",
+  "cervecera": "Amstel",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-mundial": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "And Again",
+  "familia": "and again",
+  "cervecera": "Garage Beer Co",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "garage-universitat": {
+    "fuente": "carta-sin-fecha"
+   },
+   "garage-poblenou": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Augustin",
+  "familia": "augustin",
+  "cervecera": "Microbrasserie Jackalhop",
+  "estilo": "Imperial Stout - Barrel Aged (Whisky)",
+  "abv": 11.9,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Badlands",
+  "familia": "badlands",
+  "cervecera": "Oso Brew Co",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-osita": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Basqueland 4Layer Cake Porter",
+  "familia": "basqueland 4layer cake porter",
+  "cervecera": "Basqueland",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-mundial": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Basqueland Arraun Red",
+  "familia": "basqueland arraun red",
+  "cervecera": "Basqueland",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-mundial": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Basqueland Imparable Ipa",
+  "familia": "basqueland imparable ipa",
+  "cervecera": "Basqueland",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-mundial": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Belleza",
+  "familia": "belleza",
+  "cervecera": "Oso Brew Co",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-osita": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Birramisú",
+  "familia": "birramisu",
+  "cervecera": "Río Azul",
+  "estilo": "Imperial Stout",
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "rio-azul": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Black Swan",
+  "familia": "black swan",
+  "cervecera": "Doskiwis",
+  "estilo": "Irish Dry Stout",
+  "abv": 4.6,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Blonde",
+  "familia": "blonde",
+  "cervecera": "Yakka",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "yakka-la-alberca": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "BOMB!",
+  "familia": "bomb!",
+  "cervecera": "Prairie Artisan Ales",
+  "estilo": "Imperial Coffee Stout with Chili Peppers, Chocolate, and Vanilla",
+  "abv": 13.0,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Bonfire",
+  "familia": "bonfire",
+  "cervecera": "Soma Beer",
+  "estilo": "Double IPA",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Bräuweisse",
+  "familia": "brauweisse",
+  "cervecera": "Ayinger",
+  "estilo": "Hefeweizen",
+  "abv": 5.1,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "BrewDog Jack Hammer",
+  "familia": "brewdog jack hammer",
+  "cervecera": "BrewDog",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-mundial": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Brisa Blanca",
+  "familia": "brisa blanca",
+  "cervecera": "Yakka",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "yakka-la-alberca": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Budweiser",
+  "familia": "budweiser",
+  "cervecera": "Budweiser",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-mundial": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Bullseye",
+  "familia": "bullseye",
+  "cervecera": "PINTA",
+  "estilo": "Bitter - Session",
+  "abv": 3.5,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Califato 3×4 × Río Azul",
+  "familia": "califato 3×4 × rio azul",
+  "cervecera": "Río Azul × Califato 3/4",
+  "estilo": "IPA",
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "rio-azul": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Calma Blanca",
+  "familia": "calma blanca",
+  "cervecera": "Yakka",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "yakka-la-alberca": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Calma Tinta",
+  "familia": "calma tinta",
+  "cervecera": "Yakka",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "yakka-la-alberca": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Capitán Pistacho",
+  "familia": "capitan pistacho",
+  "cervecera": "Bee Beer",
+  "estilo": "Stout Con Pistacho Y Sal",
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "beebeer-chueca": {
+    "fuente": "carta-sin-fecha"
+   },
+   "beebeer-debod": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Caramel Fudge Stout",
+  "familia": "caramel fudge stout",
+  "cervecera": "Brouwerij Kees",
+  "estilo": "Stout - Imperial",
+  "abv": 11.5,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Celebrator Doppelbock",
+  "familia": "celebrator doppelbock",
+  "cervecera": "Ayinger",
+  "estilo": "Doppelbock",
+  "abv": 6.7,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Chilling Me Softly",
+  "familia": "chilling me softly",
+  "cervecera": "Basqueland",
+  "estilo": "Cold IPA",
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "basqueland-izakaia": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Cold Store Raw",
+  "familia": "cold store raw",
+  "cervecera": "Garage Beer Co",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "garage-universitat": {
+    "fuente": "carta-sin-fecha"
+   },
+   "garage-poblenou": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Columbus Y Azahar",
+  "familia": "columbus y azahar",
+  "cervecera": "Bee Beer",
+  "estilo": "Honey American Pale Ale",
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "beebeer-chueca": {
+    "fuente": "carta-sin-fecha"
+   },
+   "beebeer-debod": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Coronel Mostaza",
+  "familia": "coronel mostaza",
+  "cervecera": "Bee Beer",
+  "estilo": "Imperial Ipa Con Semillas De Mostaza",
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "beebeer-chueca": {
+    "fuente": "carta-sin-fecha"
+   },
+   "beebeer-debod": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Deus ex",
+  "familia": "deus ex",
+  "cervecera": "Yakka",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "yakka-la-alberca": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Dire Wolf",
+  "familia": "dire wolf",
+  "cervecera": "Basqueland",
+  "estilo": "DDH IPA",
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "basqueland-izakaia": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Dirty Harry (sin gluten)",
+  "familia": "dirty harry (sin gluten)",
+  "cervecera": "3Monos",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "3monos": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Don Perañón",
+  "familia": "don peranon",
+  "cervecera": "Bee Beer",
+  "estilo": "Demi-Sec Iiipa W",
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "beebeer-chueca": {
+    "fuente": "carta-sin-fecha"
+   },
+   "beebeer-debod": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Doomscroll",
+  "familia": "doomscroll",
+  "cervecera": "Soma Beer",
+  "estilo": "IPA",
+  "abv": 7.0,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Doppler",
+  "familia": "doppler",
+  "cervecera": "Adalt Brewing",
+  "estilo": "DDH IPA",
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "adalt-brewing": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Double Negative 2025",
+  "familia": "double negative 2025",
+  "cervecera": "Grimm",
+  "estilo": "Imperial Stout",
+  "abv": 10.0,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Dr Insólito",
+  "familia": "dr insolito",
+  "cervecera": "Bee Beer",
+  "estilo": "Ipa Con Zumo De Pi",
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "beebeer-chueca": {
+    "fuente": "carta-sin-fecha"
+   },
+   "beebeer-debod": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Duquesa de Zarandona",
+  "familia": "duquesa de zarandona",
+  "cervecera": "Yakka",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "yakka-la-alberca": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Easy Now",
+  "familia": "easy now",
+  "cervecera": "Basqueland",
+  "estilo": "DDH Hazy Pale Ale",
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "basqueland-izakaia": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Eazy",
+  "familia": "eazy ipa new england",
+  "cervecera": "Soma",
+  "estilo": "New England IPA",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Eerie",
+  "familia": "eerie",
+  "cervecera": "Soma Beer",
+  "estilo": "Hazy IPA",
+  "abv": 6.5,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Estrella 1906",
+  "familia": "estrella 1906",
+  "cervecera": "Estrella Galicia",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-mundial": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Estrella Galicia",
+  "familia": "estrella galicia",
+  "cervecera": "Estrella Galicia",
+  "estilo": null,
+  "abv": null,
+  "alias": [
+   "estrella"
+  ],
+  "bares": {
+   "la-mundial": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "EuskalIPA",
+  "familia": "euskalipa",
+  "cervecera": "Gross",
+  "estilo": "West Coast IPA",
+  "abv": 6.2,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Far Out",
+  "familia": "far out",
+  "cervecera": "Oso Brew Co",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-osita": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Fish Transistor (2026)",
+  "familia": "fish transistor (2026)",
+  "cervecera": "FUERST WIACEK Berlin",
+  "estilo": "IPA - New England",
+  "abv": 6.8,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Black Currant",
+  "familia": "fluid black currant",
+  "cervecera": "Funky Fluid",
+  "estilo": "Sour Black Currant",
+  "abv": 4.0,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Frenzy",
+  "familia": "frenzy",
+  "cervecera": "Garage Beer Co",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "garage-universitat": {
+    "fuente": "carta-sin-fecha"
+   },
+   "garage-poblenou": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Frosty Lemon",
+  "familia": "frosty lemon",
+  "cervecera": "Basqueland",
+  "estilo": "Pastry Sour",
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "basqueland-izakaia": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Hazy Discovery Groningen",
+  "familia": "hazy discovery groningen",
+  "cervecera": "PINTA",
+  "estilo": "IPA - New England",
+  "abv": 6.5,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Hiena",
+  "familia": "hiena",
+  "cervecera": "Yakka",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "yakka-la-alberca": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Huerta Madre",
+  "familia": "huerta madre",
+  "cervecera": "Yakka",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "yakka-la-alberca": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Iced Pomidor",
+  "familia": "iced pomidor gose tomato garlic",
+  "cervecera": "Ziemia",
+  "estilo": "Gose de tomate y ajo",
+  "abv": 7.0,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "IPA 02",
+  "familia": "ipa 02",
+  "cervecera": "Adalt Brewing",
+  "estilo": "IPA",
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "adalt-brewing": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "La Leche DIPA",
+  "familia": "la leche dipa",
+  "cervecera": "Oso Brew Co",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-osita": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "La Pirata Ay! Carmela Dipa",
+  "familia": "la pirata ay! carmela dipa",
+  "cervecera": "La Pirata",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-mundial": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "La Pirata Viakrucis Ipa",
+  "familia": "la pirata viakrucis ipa",
+  "cervecera": "La Pirata",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-mundial": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Lagunitas Sthumpin’ Ale ⅓",
+  "familia": "lagunitas sthumpin’ ale ⅓",
+  "cervecera": "Lagunitas",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-mundial": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Love is Black",
+  "familia": "love is black",
+  "cervecera": "Naparbier",
+  "estilo": "Schwarzbier",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Mahou 0,0 Tostada",
+  "familia": "mahou 0,0 tostada",
+  "cervecera": "Mahou",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-mundial": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Mahou 5*",
+  "familia": "mahou 5*",
+  "cervecera": "Mahou",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-mundial": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Mahou Sin*",
+  "familia": "mahou sin*",
+  "cervecera": "Mahou",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-mundial": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Marciano",
+  "familia": "marciano",
+  "cervecera": "Basqueland",
+  "estilo": "Triple IPA",
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "basqueland-izakaia": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Mesa",
+  "familia": "mesa",
+  "cervecera": "Beak/Soma",
+  "estilo": "Double IPA",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Ming Mandarín",
+  "familia": "ming mandarin",
+  "cervecera": "Bee Beer",
+  "estilo": "Red Rice Ale Con Mandarina",
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "beebeer-chueca": {
+    "fuente": "carta-sin-fecha"
+   },
+   "beebeer-debod": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Monkey Business (sin gluten)",
+  "familia": "monkey business (sin gluten)",
+  "cervecera": "3Monos",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "3monos": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "NEIPA 01",
+  "familia": "neipa 01",
+  "cervecera": "Adalt Brewing",
+  "estilo": "NEIPA",
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "adalt-brewing": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Outsiders",
+  "familia": "outsiders",
+  "cervecera": "Basqueland",
+  "estilo": "Hazy Pale Ale",
+  "abv": 4.9,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Paradise?",
+  "familia": "paradise?",
+  "cervecera": "Naparbier",
+  "estilo": "Pilsner",
+  "abv": 4.8,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Pilsner (sin gluten)",
+  "familia": "pilsner (sin gluten)",
+  "cervecera": "3Monos",
+  "estilo": "Pilsner",
+  "abv": 4.5,
+  "alias": [],
+  "bares": {
+   "3monos": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Premium Lager",
+  "familia": "premium lager",
+  "cervecera": "Fürstlich Fürstenbergische Brauerei",
+  "estilo": "Lager - Dortmunder",
+  "abv": 5.3,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Querida IPA",
+  "familia": "querida ipa",
+  "cervecera": "Yakka",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "yakka-la-alberca": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Quintuple",
+  "familia": "quintuple",
+  "cervecera": "Yakka",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "yakka-la-alberca": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Rechoncha",
+  "familia": "rechoncha",
+  "cervecera": "Yakka",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "yakka-la-alberca": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Reclaim",
+  "familia": "reclaim",
+  "cervecera": "Garage Beer Co",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "garage-universitat": {
+    "fuente": "carta-sin-fecha"
+   },
+   "garage-poblenou": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Redneck Kajun Ipa",
+  "familia": "redneck kajun ipa",
+  "cervecera": "Redneck",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-mundial": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Render",
+  "familia": "render",
+  "cervecera": "Soma Beer",
+  "estilo": "Double IPA",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Rey Mirras",
+  "familia": "rey mirras",
+  "cervecera": "Bee Beer",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "beebeer-chueca": {
+    "fuente": "carta-sin-fecha"
+   },
+   "beebeer-debod": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Rosé de Gambrinus Lambic",
+  "familia": "rose de gambrinus lambic",
+  "cervecera": "Cantillon",
+  "estilo": "Sour, Raspberry, Tart, Dry",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "San Miguel 0,0 Manzana",
+  "familia": "san miguel 0,0 manzana",
+  "cervecera": "San Miguel",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-mundial": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Sidereal",
+  "familia": "sidereal",
+  "cervecera": "Doskiwis",
+  "estilo": "West Coast IPA",
+  "abv": 7.0,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Sierra Nevada Extra Ipa",
+  "familia": "sierra nevada extra ipa",
+  "cervecera": "Sierra Nevada",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-mundial": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Sierra Nevada Tropical Ipa",
+  "familia": "sierra nevada tropical ipa",
+  "cervecera": "Sierra Nevada",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-mundial": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Smoothie Beer: Mango, Orange, Banana, Marshmallow",
+  "familia": "smoothie beer mango, orange, banana, marshmallow",
+  "cervecera": "Maryensztadt",
+  "estilo": "Smoothie Sour",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Smoothie Bowl: Pina Colada Fluff",
+  "familia": "smoothie bowl: pina colada fluff",
+  "cervecera": "Nepo",
+  "estilo": "Smoothie Sour",
+  "abv": 6.2,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Smoothie Summer Crumble: Strawberry, Peach, Pear, Coconut, Vanilla",
+  "familia": "smoothie summer crumble strawberry, peach, pear,coconut, vanilla",
+  "cervecera": "Maryensztadt",
+  "estilo": "Smoothie Sour",
+  "abv": 4.2,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Sump (2026)",
+  "familia": "sump (2026)",
+  "cervecera": "Perennial",
+  "estilo": "Imperial Coffee Stout",
+  "abv": 10.5,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Terraform",
+  "familia": "terraform",
+  "cervecera": "Soma Beer",
+  "estilo": "Hazy IPA",
+  "abv": 6.0,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Todd - The Axe Man",
+  "familia": "todd - the axe man",
+  "cervecera": "Amager Bryghus",
+  "estilo": "IPA - American",
+  "abv": 6.5,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Trabuca",
+  "familia": "trabuca",
+  "cervecera": "Yakka",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "yakka-la-alberca": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Triangles",
+  "familia": "triangles",
+  "cervecera": "Garage Beer Co",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "garage-universitat": {
+    "fuente": "carta-sin-fecha"
+   },
+   "garage-poblenou": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Triple",
+  "familia": "triple",
+  "cervecera": "Yakka",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "yakka-la-alberca": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Ungespundet Kellerbier",
+  "familia": "ungespundet kellerbier",
+  "cervecera": "Mahr's",
+  "estilo": "Kellerbier",
+  "abv": 5.2,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Voll Damm Doble Malta",
+  "familia": "voll damm doble malta",
+  "cervecera": "Damm",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-mundial": {
+    "fuente": "carta-sin-fecha"
+   }
+  }
+ },
+ {
+  "nombre": "Weizenbock",
+  "familia": "weizenbock weizenbock",
+  "cervecera": "Ayinger",
+  "estilo": "Weizenbock",
+  "abv": 7.1,
+  "alias": [],
+  "bares": {
+   "biercab": {
+    "fuente": "carta-actual"
+   }
+  }
+ }
+]
