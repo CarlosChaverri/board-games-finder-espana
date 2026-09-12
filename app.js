@@ -214,7 +214,7 @@ function bindUI(){
 /* ---------- Game search ---------- */
 function gameMatches(q){
   const nq=normTxt(q); if(nq.length<2) return [];
-  return JUEGOS.filter(j=>CFG.search.match(j,nq)).slice(0,60);
+  return JUEGOS.filter(j=>CFG.search.match(j,nq)).sort((a,b)=>Object.keys(b.bares).length-Object.keys(a.bares).length).slice(0,60);
 }
 function renderGameDropdown(q){
   const dd=$('#gsDropdown');
