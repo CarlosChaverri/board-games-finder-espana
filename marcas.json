@@ -7553,6 +7553,10 @@
    "gallagher-s-irish-tavern-la-zubia": {
     "fuente": "visto-untappd",
     "fecha": "2024-12-31"
+   },
+   "buena-pinta": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -9627,6 +9631,10 @@
    "biddy-mulligan-s-irish-pub-la-cala-de-mijas": {
     "fuente": "visto-untappd",
     "fecha": "2026-09-09"
+   },
+   "fabrica-excepcional": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -9851,6 +9859,10 @@
    "st-patrick-s-irish-tavern-albacete": {
     "fuente": "visto-untappd",
     "fecha": "2026-08-11"
+   },
+   "la-muga": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -10159,6 +10171,10 @@
    "mccarthys-irish-pub-corralejo-corralejo": {
     "fuente": "visto-untappd",
     "fecha": "2026-09-04"
+   },
+   "maquila-bar": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -12857,6 +12873,10 @@
    "the-george-payne-irish-pub-barcelona": {
     "fuente": "visto-untappd",
     "fecha": "2026-09-10"
+   },
+   "la-cueva-del-lupulo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -13173,6 +13193,10 @@
    "kelly-s-donostia": {
     "fuente": "visto-untappd",
     "fecha": "2026-05-26"
+   },
+   "cyclic-beer-farm": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -13929,6 +13953,468 @@
    "the-crow-s-nest-irish-pub-boadilla-del-monte": {
     "fuente": "visto-untappd",
     "fecha": "2026-06-29"
+   }
+  }
+ },
+ {
+  "nombre": "Johnny Crash",
+  "familia": "johnny crash",
+  "cervecera": "Cervesa Espiga",
+  "estilo": "IPA - New England / Hazy",
+  "abv": 6.0,
+  "alias": [],
+  "bares": {
+   "cyclic-beer-farm": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Harvest",
+  "familia": "harvest",
+  "cervecera": "Reptilian Brewery",
+  "estilo": "Pale Ale - Other",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "cyclic-beer-farm": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "IPA",
+  "familia": "ipa",
+  "cervecera": "Mad 91",
+  "estilo": "IPA - American",
+  "abv": 5.8,
+  "alias": [],
+  "bares": {
+   "buena-pinta": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Amiga 24/7 Pale Ale",
+  "familia": "amiga 24 7 pale ale",
+  "cervecera": "AMIGA",
+  "estilo": "Pale Ale - American",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "buena-pinta": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Waikiki",
+  "familia": "waikiki",
+  "cervecera": "Cerveza Salvaje",
+  "estilo": "IPA - Other",
+  "abv": 6.0,
+  "alias": [],
+  "bares": {
+   "bodega-salvaje": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Tostada",
+  "familia": "tostada",
+  "cervecera": "Cerveza Salvaje",
+  "estilo": "Lager - Amber / Red",
+  "abv": 5.2,
+  "alias": [],
+  "bares": {
+   "bodega-salvaje": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Wild 18/24 0825",
+  "familia": "wild 18 24 0825",
+  "cervecera": "Cerveza Salvaje",
+  "estilo": "Lambic - Other",
+  "abv": 5.5,
+  "alias": [],
+  "bares": {
+   "bodega-salvaje": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Descará",
+  "familia": "descara",
+  "cervecera": "La Fábrica Cruzcampo – Cervecería del Soho de Málaga",
+  "estilo": "Spiced / Herbed Beer",
+  "abv": 5.5,
+  "alias": [],
+  "bares": {
+   "la-fabrica-malaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Arrecía",
+  "familia": "arrecia",
+  "cervecera": "La Fábrica Cruzcampo – Cervecería del Soho de Málaga",
+  "estilo": "Märzen",
+  "abv": 5.5,
+  "alias": [],
+  "bares": {
+   "la-fabrica-malaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Strong Ale",
+  "familia": "strong ale",
+  "cervecera": "La Fábrica Cruzcampo – Cervecería del Soho de Málaga",
+  "estilo": "Strong Ale - English",
+  "abv": 5.9,
+  "alias": [],
+  "bares": {
+   "la-fabrica-malaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Wood Ya Honey",
+  "familia": "wood ya honey",
+  "cervecera": "Jackie O’s Brewery",
+  "estilo": "Wheat Beer - Wheat Wine",
+  "abv": 11.5,
+  "alias": [],
+  "bares": {
+   "vivalabirra": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Zundert 10",
+  "familia": "zundert 10",
+  "cervecera": "Trappistenbrouwerij de Kievit",
+  "estilo": "Belgian Quadrupel",
+  "abv": 10.0,
+  "alias": [],
+  "bares": {
+   "vivalabirra": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Serp",
+  "familia": "serp",
+  "cervecera": "Cervesa DMR",
+  "estilo": "Sour - Other",
+  "abv": 7.0,
+  "alias": [],
+  "bares": {
+   "vivalabirra": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Trigotopia",
+  "familia": "trigotopia",
+  "cervecera": "Abirradero",
+  "estilo": "Wheat Beer - Hefeweizen",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "abirradero": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "CitraMango Juice IPA",
+  "familia": "citramango juice ipa",
+  "cervecera": "Abirradero",
+  "estilo": "IPA - Fruited",
+  "abv": 6.0,
+  "alias": [],
+  "bares": {
+   "abirradero": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Abirradero Baluard",
+  "familia": "abirradero baluard",
+  "cervecera": "Abirradero",
+  "estilo": "IPA - American",
+  "abv": 5.5,
+  "alias": [],
+  "bares": {
+   "abirradero": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Iberian APA",
+  "familia": "iberian apa",
+  "cervecera": "La Cervesera Artesana",
+  "estilo": "Pale Ale - American",
+  "abv": 5.5,
+  "alias": [],
+  "bares": {
+   "la-cervesera-artesana": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Iberian Red Sour",
+  "familia": "iberian red sour",
+  "cervecera": "La Cervesera Artesana",
+  "estilo": "Sour - Flanders Red Ale",
+  "abv": 6.5,
+  "alias": [],
+  "bares": {
+   "la-cervesera-artesana": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Iberian IPA",
+  "familia": "iberian ipa",
+  "cervecera": "La Cervesera Artesana",
+  "estilo": "IPA - American",
+  "abv": 6.0,
+  "alias": [],
+  "bares": {
+   "la-cervesera-artesana": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Doble Malta",
+  "familia": "doble malta",
+  "cervecera": "Fábrica Excepcional",
+  "estilo": "Märzen",
+  "abv": 6.0,
+  "alias": [],
+  "bares": {
+   "fabrica-excepcional": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Wam",
+  "familia": "wam",
+  "cervecera": "Fábrica Excepcional",
+  "estilo": "Pale Ale - American",
+  "abv": 5.2,
+  "alias": [],
+  "bares": {
+   "fabrica-excepcional": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Köstritzer Kellerbier",
+  "familia": "kostritzer kellerbier",
+  "cervecera": "Köstritzer Schwarzbierbrauerei",
+  "estilo": "Kellerbier / Zwickelbier - Dunkel",
+  "abv": 5.4,
+  "alias": [],
+  "bares": {
+   "bidassoa-taproom": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Agiña",
+  "familia": "agina",
+  "cervecera": "Bidassoa Basque Brewery",
+  "estilo": "Wheat Beer - Hefeweizen",
+  "abv": 4.7,
+  "alias": [],
+  "bares": {
+   "bidassoa-taproom": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Mc Chouffe",
+  "familia": "mc chouffe",
+  "cervecera": "Brasserie d'Achouffe",
+  "estilo": "Brown Ale - Belgian",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "la-tape": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "SANTAKO",
+  "familia": "santako",
+  "cervecera": "Garage Beer Co.",
+  "estilo": "IPA - American",
+  "abv": 6.0,
+  "alias": [],
+  "bares": {
+   "la-tape": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "IPA4",
+  "familia": "ipa4",
+  "cervecera": "DouGall's",
+  "estilo": "IPA - American",
+  "abv": 6.4,
+  "alias": [],
+  "bares": {
+   "la-tape": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Goma 2",
+  "familia": "goma 2",
+  "cervecera": "Caleya",
+  "estilo": "IPA - American",
+  "abv": 6.3,
+  "alias": [],
+  "bares": {
+   "la-muga": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "18/70 LaRubia",
+  "familia": "18 70 larubia",
+  "cervecera": "Cervezas LaRubia",
+  "estilo": "Lager - Amber / Red",
+  "abv": 6.2,
+  "alias": [],
+  "bares": {
+   "la-muga": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Ølgodbeerlab XXX",
+  "familia": "lgodbeerlab xxx",
+  "cervecera": "ØBL (ØlgodBeerLab)",
+  "estilo": "Pale Ale - Other",
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "kaelderkold": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Wildebeest",
+  "familia": "wildebeest",
+  "cervecera": "ØBL (ØlgodBeerLab)",
+  "estilo": "Farmhouse Ale - Saison",
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "kaelderkold": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Candy Color Vision",
+  "familia": "candy color vision",
+  "cervecera": "ØBL (ØlgodBeerLab)",
+  "estilo": "IPA - New England / Hazy",
+  "abv": 5.4,
+  "alias": [],
+  "bares": {
+   "kaelderkold": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "NARA",
+  "familia": "nara",
+  "cervecera": "Maquila Bar",
+  "estilo": "Pale Ale - American",
+  "abv": 5.7,
+  "alias": [],
+  "bares": {
+   "maquila-bar": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "IPA",
+  "familia": "ipa",
+  "cervecera": "Maquila Bar",
+  "estilo": "IPA - Other",
+  "abv": 6.3,
+  "alias": [],
+  "bares": {
+   "maquila-bar": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
    }
   }
  }
