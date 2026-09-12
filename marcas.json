@@ -1682,6 +1682,32 @@
   }
  },
  {
+  "nombre": "DDH Nelson Sauvin Session IPA",
+  "familia": "/ddh nelson sauvin session ipa",
+  "cervecera": "Ārpus Brewing Co.",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-linterna-ciega": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Nelson Sauvin X Simcoe X Superdelic West Coast IPA",
+  "familia": "/nelson sauvin x simcoe x superdelic west coast ipa",
+  "cervecera": "Ārpus Brewing Co.",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-linterna-ciega": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
   "nombre": "Export Lager",
   "familia": "/export lager",
   "cervecera": "Fürstlich Fürstenbergische Brauerei",
@@ -1748,6 +1774,32 @@
    "beer-joint": {
     "fuente": "menu-externo",
     "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Patterns",
+  "familia": "/patterns",
+  "cervecera": "Factory Brewing",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-cueva-del-lupulo": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "My Precious Southern Cross",
+  "familia": "/my precious southern cross",
+  "cervecera": "Sudden Death Brewing Co.",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-cueva-del-lupulo": {
+    "fuente": "visto-untappd"
    }
   }
  },
@@ -1851,7 +1903,7 @@
  },
  {
   "nombre": "El Camino American IPA",
-  "familia": "/el camino american ipa. ligeramente amarga y floral",
+  "familia": "/el camino american ipa",
   "cervecera": "Basqueland Brewing",
   "estilo": null,
   "abv": 5.5,
@@ -2028,6 +2080,97 @@
    "malte": {
     "fuente": "menu-externo",
     "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Sansa",
+  "familia": "/sansa",
+  "cervecera": "La Pirata Brewing",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "irreale": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Pirate Hill",
+  "familia": "/pirate hill",
+  "cervecera": "La Pirata Brewing",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "irreale": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "La Tremenda",
+  "familia": "/la tremenda",
+  "cervecera": "La Pirata Brewing",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "irreale": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "ESPECIAL - Amber Ale",
+  "familia": "/especial - amber ale",
+  "cervecera": "Cerveza SanFrutos",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "patanel": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Hop Shock",
+  "familia": "/hop shock",
+  "cervecera": "Laugar Brewery",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-craft-tabeerna": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "AUPA TOVARISCH",
+  "familia": "/aupa tovarisch",
+  "cervecera": "Laugar Brewery",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-craft-tabeerna": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Wookiee IPA",
+  "familia": "/wookiee ipa",
+  "cervecera": "Amager Bryghus",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "a-birreria": {
+    "fuente": "visto-untappd"
    }
   }
  },
@@ -2248,6 +2391,19 @@
   }
  },
  {
+  "nombre": "Alhambra Reserva 1925",
+  "familia": "/alhambra reserva 1925",
+  "cervecera": "Grupo Cervezas Alhambra",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "bihotz": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
   "nombre": "Gold Lager",
   "familia": "/gold lager",
   "cervecera": "Oso Brew Co",
@@ -2376,6 +2532,32 @@
    "la-osita": {
     "fuente": "menu-externo",
     "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Perler For Svin Mango Passion",
+  "familia": "/perler for svin mango passion",
+  "cervecera": "LERVIG",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "hops-dreams": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Collab #03 (w/ Marjot & Swaen)",
+  "familia": "/collab #03 (w/ marjot & swaen)",
+  "cervecera": "Maryensztadt",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-craft-bar": {
+    "fuente": "visto-untappd"
    }
   }
  },
@@ -2547,7 +2729,7 @@
  },
  {
   "nombre": "MR",
-  "familia": "/mr. bubbles pilsner",
+  "familia": "/mr",
   "cervecera": "La Quince Brewing Co.",
   "estilo": "Czech / Bohemian",
   "abv": 4.5,
@@ -3401,7 +3583,7 @@
  },
  {
   "nombre": "Reveries Of..",
-  "familia": "/reveries of... nelson sauvin ipa",
+  "familia": "/reveries of..",
   "cervecera": "Factory Brewing",
   "estilo": "New England / Hazy",
   "abv": 7.2,
@@ -3975,7 +4157,7 @@
  },
  {
   "nombre": "3 Fonteinen Intens Rood (season 19|20) Blend No",
-  "familia": "/3 fonteinen intens rood (season 19|20) blend no. 77 lambic",
+  "familia": "/3 fonteinen intens rood (season 19|20) blend no",
   "cervecera": "Brouwerij 3 Fonteinen",
   "estilo": "Kriek",
   "abv": 6.8,
@@ -4017,7 +4199,7 @@
  },
  {
   "nombre": "3 Fonteinen Framboos Oogst 2018 (season 18|19) Blend No",
-  "familia": "/3 fonteinen framboos oogst 2018 (season 18|19) blend no. 74 lambic",
+  "familia": "/3 fonteinen framboos oogst 2018 (season 18|19) blend no",
   "cervecera": "Brouwerij 3 Fonteinen",
   "estilo": "Framboise",
   "abv": 6.3,
@@ -4100,6 +4282,256 @@
    "bornin": {
     "fuente": "menu-externo",
     "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Tusk & Feather",
+  "familia": "/tusk & feather",
+  "cervecera": "Goose Island Beer Co.",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "cimmeria": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Tiki-taka",
+  "familia": "/tiki-taka",
+  "cervecera": "Oso Brew Co",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "cimmeria": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "TDH Single Hop Series Strata DIPA",
+  "familia": "/tdh single hop series strata dipa",
+  "cervecera": "Ārpus Brewing Co.",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "cimmeria": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "KISKALE",
+  "familia": "/kiskale",
+  "cervecera": "Laugar Brewery",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "bierhaus-odeon": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Budweiser Budvar / Czechvar Original",
+  "familia": "/budweiser budvar / czechvar original",
+  "cervecera": "Budějovický Budvar",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "leurope": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Irish Red Nitro",
+  "familia": "/irish red nitro",
+  "cervecera": "O'Hara's Brewery",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "leurope": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Belgian White",
+  "familia": "/belgian white",
+  "cervecera": "Blue Moon Brewing Company",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "leurope": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Orrua",
+  "familia": "/orrua",
+  "cervecera": "Mala Gissona",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "mala-gissona": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "SONS OF THE COMET",
+  "familia": "/sons of the comet",
+  "cervecera": "Laugar Brewery",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "mala-gissona": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Duchesse de Bourgogne",
+  "familia": "/duchesse de bourgogne",
+  "cervecera": "Brouwerij Verhaeghe",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "napargar": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Gangsta's Paradise",
+  "familia": "/gangsta's paradise",
+  "cervecera": "Funky Fluid",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "lartesana": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Lovely Stuff",
+  "familia": "/lovely stuff",
+  "cervecera": "Oso Brew Co",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "flandes": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Gummies",
+  "familia": "/gummies",
+  "cervecera": "Oso Brew Co",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "flandes": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "LA \"NORMAL\"",
+  "familia": "/la \"normal\"",
+  "cervecera": "Gro Brewers",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "forbeer": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Eazy IPA",
+  "familia": "/eazy ipa",
+  "cervecera": "Soma Beer",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "forbeer": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Wild & Funky Everyday: Spontaneous Fermentation Brett Ale",
+  "familia": "/wild & funky everyday: spontaneous fermentation brett ale",
+  "cervecera": "Maryensztadt",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "forbeer": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Skull Candy",
+  "familia": "/skull candy",
+  "cervecera": "Sudden Death Brewing Co.",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "dichosita": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Rolling Wishlist",
+  "familia": "/rolling wishlist",
+  "cervecera": "Doskiwis",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "dichosita": {
+    "fuente": "visto-untappd"
+   },
+   "biercab": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Tous Les Amants",
+  "familia": "/tous les amants",
+  "cervecera": "Birrificio Wild Raccoon",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "dichosita": {
+    "fuente": "visto-untappd"
    }
   }
  },
@@ -4352,6 +4784,97 @@
    "bar-singular": {
     "fuente": "menu-externo",
     "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Kook Town",
+  "familia": "/kook town",
+  "cervecera": "Basqueland Brewing",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "basqueland-izakaia": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Chilling Me Softly",
+  "familia": "/chilling me softly",
+  "cervecera": "Basqueland Brewing",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "basqueland-izakaia": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Dubbelganger",
+  "familia": "/dubbelganger",
+  "cervecera": "Basqueland Brewing",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "basqueland-izakaia": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Aventinus (TAP06)",
+  "familia": "/aventinus (tap06)",
+  "cervecera": "Schneider Weisse G. Schneider & Sohn",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "baden-baden": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Aecht Schlenkerla Eiche – Doppelbock",
+  "familia": "/aecht schlenkerla eiche – doppelbock",
+  "cervecera": "Schlenkerla (\"Heller-Bräu\" Trum)",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "oldenburg": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Whitney (Memorial Series)",
+  "familia": "/whitney (memorial series)",
+  "cervecera": "Drunken Bros",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "2d2dspuma": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Ondarreta",
+  "familia": "/ondarreta",
+  "cervecera": "Basqueland Brewing",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "2d2dspuma": {
+    "fuente": "visto-untappd"
    }
   }
  },
@@ -5098,6 +5621,110 @@
   }
  },
  {
+  "nombre": "Brugse Zot",
+  "familia": "/brugse zot",
+  "cervecera": "Brouwerij De Halve Maan",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "sinduena": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Desítka",
+  "familia": "/desitka",
+  "cervecera": "GROSS Brewery & Taproom",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-mundial": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Algara",
+  "familia": "/algara",
+  "cervecera": "GROSS Brewery & Taproom",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-morrocotuda": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Profondo Viola",
+  "familia": "/profondo viola",
+  "cervecera": "Birrificio Wild Raccoon",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-morrocotuda": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Magic Number",
+  "familia": "/magic number",
+  "cervecera": "Doskiwis",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-morrocotuda": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Trappistes Rochefort Triple Extra",
+  "familia": "/trappistes rochefort triple extra",
+  "cervecera": "Abbaye Notre-Dame de Saint-Rémy",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "liquidos": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Tripel Karmeliet",
+  "familia": "/tripel karmeliet",
+  "cervecera": "Brouwerij Bosteels",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "liquidos": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Celebrator",
+  "familia": "/celebrator",
+  "cervecera": "Ayinger Privatbrauerei",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "liquidos": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
   "nombre": "All On Board IPA",
   "familia": "/all on board ipa",
   "cervecera": "KOM Beer",
@@ -5374,6 +6001,71 @@
    "olhops": {
     "fuente": "menu-externo",
     "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Sin Nombre 09",
+  "familia": "/sin nombre 09",
+  "cervecera": "Castelló Beer Factory",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "casa-lupulo": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "My Citra Krush",
+  "familia": "/my citra krush",
+  "cervecera": "Basqueland Brewing",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "casa-lupulo": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Amor Amargo",
+  "familia": "/amor amargo",
+  "cervecera": "Cerveza Tyris",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "tyris-on-tap": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "IPA",
+  "familia": "/ipa",
+  "cervecera": "Cerveza Tyris",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "tyris-on-tap": {
+    "fuente": "visto-untappd"
+   }
+  }
+ },
+ {
+  "nombre": "Paquita Brown",
+  "familia": "/paquita brown",
+  "cervecera": "Cerveza Tyris",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "tyris-on-tap": {
+    "fuente": "visto-untappd"
    }
   }
  },
