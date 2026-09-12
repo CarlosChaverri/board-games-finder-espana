@@ -14,7 +14,7 @@ const PRECIO = {
   gratis:'Gratis', consumicion:'Con tu consumición',
   cover:'Cover (tarifa de juego)', club:'Cuota de club', desconocido:'Sin datos'
 };
-const FUENTE_BADGE = { 'catalogo-web':['Confirmado en catálogo web','ok'], 'estimado':['Dato estimado','est'], 'desconocido':['Sin datos','est'], 'sin-catalogo':['Catálogo no publicado','est'] };
+const FUENTE_BADGE = { 'catalogo-web':['Confirmado en catálogo web','ok'], 'resenas':['Mencionado en reseñas','warn'], 'estimado':['Dato estimado','est'], 'desconocido':['Sin datos','est'], 'sin-catalogo':['Catálogo no publicado','est'] };
 
 const CERVEZA_TIPOS = {
   'fabrica':      'Fábrica con bar',
@@ -79,7 +79,7 @@ const MODES = {
       placeholder: 'Busca una cerveza (p. ej. Estrella Galicia, Guinness…)',
       bannerLead: 'Locales donde la tienen',
       urlParam: 'cerveza',
-      badge: {'carta-actual':['En carta ahora','ok'], 'carta-sin-fecha':['Carta publicada (sin fecha)','est']},
+      badge: {'carta-actual':['En carta ahora','ok'], 'carta-sin-fecha':['Carta publicada (sin fecha)','est'], 'menu-externo':['Menú de Untappd','mid'], 'visto-untappd':['Visto en Untappd','warn']},
       match: (j,nq) => normTxt(j.nombre).includes(nq) || normTxt(j.cervecera||'').includes(nq) || (j.alias||[]).some(a=>normTxt(a).includes(nq)),
       meta: j => [j.cervecera, j.estilo, j.abv!=null?j.abv+'%':null].filter(Boolean).join(' · ')
     }
@@ -100,6 +100,14 @@ const $ = s => document.querySelector(s);
 const normTxt = s => (s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();
 const fmtN = n => n==null ? null : n.toLocaleString('es-ES');
 function score(b, C, m){ return (b.resenas/(b.resenas+m))*b.valoracion + (m/(b.resenas+m))*C; }
+function fmtFecha(f){ if(!f) return null; const [y,m,d]=f.split('-'); return d+'/'+m+'/'+y; }
+function fuenteBadge(fuente, fecha, badgeMap){
+  const f=badgeMap[fuente]||['Dato estimado','est'];
+  const label = fuente==='visto-untappd'||fuente==='resenas'
+    ? f[0]+(fecha?' · '+fmtFecha(fecha):' · sin fecha')
+    : f[0];
+  return `<span class="badge ${f[1]}">${label}</span>`;
+}
 function toast(msg){ const t=$('#toast'); t.textContent=msg; t.classList.add('show'); setTimeout(()=>t.classList.remove('show'),2200); }
 
 /* ---------- Init ---------- */
@@ -219,7 +227,7 @@ function renderGameDropdown(q){
     list.slice(0,8).forEach(j=>{
       const idx=JUEGOS.indexOf(j);
       const barNames=Object.keys(j.bares).map(id=>BARES.find(b=>b.id===id)?.nombre||id);
-      const badges=[...new Set(Object.values(j.bares).map(v=>{const f=CFG.search.badge[v.fuente]||['Dato estimado','est'];return `<span class="badge ${f[1]}">${f[0]}</span>`;}))].join(' ');
+      const badges=[...new Set(Object.values(j.bares).map(v=>fuenteBadge(v.fuente,v.fecha,CFG.search.badge)))].join(' ');
       const extra=CFG.search.meta(j);
       html+=`<div class="gs-item" data-i="${idx}"><div class="nm">${j.nombre}</div><div class="meta"><span>${barNames.join(' · ')}</span>${badges}${extra?`<span>${extra}</span>`:''}</div></div>`;
     });
@@ -323,7 +331,7 @@ function popupHTML(b){
     if(b.cervezas_total!=null) esp += `<div class="row"><b>Referencias</b><span>~${fmtN(b.cervezas_total)} <span class="badge ${fu[1]}">${fu[0]}</span></span></div>`;
     const webBtn = b.web ? `<a class="btn-web" href="${b.web}" target="_blank" rel="noopener">Web</a>` : '';
     const cervInfo = state.juego && state.juego.bares[b.id]
-      ? `<div class="row"><b>Tu cerveza</b><span>✓ ${state.juego.nombre} disponible <span class="badge ${(CFG.search.badge[state.juego.bares[b.id].fuente]||['','est'])[1]}">${(CFG.search.badge[state.juego.bares[b.id].fuente]||[''])[0]}</span></span></div>` : '';
+      ? `<div class="row"><b>Tu cerveza</b><span>✓ ${state.juego.nombre} ${fuenteBadge(state.juego.bares[b.id].fuente,state.juego.bares[b.id].fecha,CFG.search.badge)}</span></div>` : '';
     return `<div class="pop">
       <h3>${b.nombre}</h3>
       <div class="tipo-zona">${CFG.tipoLabel(b)} · ${b.ciudad} — ${b.zona}</div>
@@ -341,7 +349,7 @@ function popupHTML(b){
   const pEv = FUENTE_BADGE[b.precio_evidencia] || FUENTE_BADGE.estimado;
   const precio = `<div class="row"><b>Precio</b><span>${b.precio_detalle} <span class="badge ${pEv[1]}">${pEv[0]}</span></span></div>`;
   const juegoInfo = state.juego && state.juego.bares[b.id]
-    ? `<div class="row"><b>Tu juego</b><span>✓ ${state.juego.nombre} disponible <span class="badge ok">Confirmado en catálogo web</span></span></div>` : '';
+    ? `<div class="row"><b>Tu juego</b><span>✓ ${state.juego.nombre} ${fuenteBadge(state.juego.bares[b.id].fuente,state.juego.bares[b.id].fecha,FUENTE_BADGE)}</span></div>` : '';
   const webBtn = b.web ? `<a class="btn-web" href="${b.web}" target="_blank" rel="noopener">Web</a>` : '';
   return `<div class="pop">
     <h3>${b.nombre}</h3>

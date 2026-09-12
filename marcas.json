@@ -223,6 +223,9 @@
   "bares": {
    "la-osita": {
     "fuente": "carta-sin-fecha"
+   },
+   "the-craft-tabeerna": {
+    "fuente": "visto-untappd"
    }
   }
  },
@@ -563,6 +566,9 @@
   "bares": {
    "biercab": {
     "fuente": "carta-actual"
+   },
+   "craft-vigo": {
+    "fuente": "visto-untappd"
    }
   }
  },
@@ -1376,6 +1382,4166 @@
   "bares": {
    "biercab": {
     "fuente": "carta-actual"
+   }
+  }
+ },
+ {
+  "nombre": "Hidromiel Frutos Del Bosque Mead",
+  "familia": "/hidromiel frutos del bosque mead",
+  "cervecera": "La Runa Cooperativa",
+  "estilo": "Melomel",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "capitan-amargo": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Hidromiel Dulce Mead",
+  "familia": "/hidromiel dulce mead",
+  "cervecera": "La Runa Cooperativa",
+  "estilo": "Traditional",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "capitan-amargo": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Hidromiel Semiseco Mead",
+  "familia": "/hidromiel semiseco mead",
+  "cervecera": "La Runa Cooperativa",
+  "estilo": "Metheglin",
+  "abv": 11.0,
+  "alias": [],
+  "bares": {
+   "capitan-amargo": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Amarillo Limon IPA",
+  "familia": "/amarillo limon ipa",
+  "cervecera": "Octavo Arte",
+  "estilo": "American",
+  "abv": 7.0,
+  "alias": [],
+  "bares": {
+   "artizanale": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "beerhouse-chamberi": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "COCHINITA IPA",
+  "familia": "/cochinita ipa",
+  "cervecera": "Beerhouse Madrid",
+  "estilo": "New Zealand",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "artizanale": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "TDH Nectaron X Riwaka IPA IPA",
+  "familia": "/tdh nectaron x riwaka ipa ipa",
+  "cervecera": "Ārpus Brewing Co.",
+  "estilo": "New England / Hazy",
+  "abv": 7.5,
+  "alias": [],
+  "bares": {
+   "artizanale": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Belleza IPA",
+  "familia": "/belleza ipa",
+  "cervecera": "Oso Brew Co",
+  "estilo": "New England / Hazy",
+  "abv": 7.0,
+  "alias": [],
+  "bares": {
+   "artizanale": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "La Leche DIPA IPA",
+  "familia": "/la leche dipa ipa",
+  "cervecera": "Oso Brew Co",
+  "estilo": "Imperial / Double Milkshake",
+  "abv": 8.4,
+  "alias": [],
+  "bares": {
+   "artizanale": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Tonka Black Forest Gateau Sour",
+  "familia": "/tonka black forest gateau sour",
+  "cervecera": "Vault City Brewing",
+  "estilo": "Smoothie / Pastry",
+  "abv": 4.5,
+  "alias": [],
+  "bares": {
+   "artizanale": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Daisy & Doris Farmhouse Ale",
+  "familia": "/daisy & doris farmhouse ale",
+  "cervecera": "Thornbridge Brewery",
+  "estilo": "Saison",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "artizanale": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Märzen Märzen",
+  "familia": "/marzen marzen",
+  "cervecera": "Mapache",
+  "estilo": null,
+  "abv": 6.4,
+  "alias": [],
+  "bares": {
+   "artizanale": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Gran Norte Bitter",
+  "familia": "/gran norte bitter",
+  "cervecera": "Basqueland Brewing",
+  "estilo": "Extra Special / Strong (ESB)",
+  "abv": 4.6,
+  "alias": [],
+  "bares": {
+   "artizanale": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Black Swan Stout",
+  "familia": "/black swan stout",
+  "cervecera": "DosKiwis",
+  "estilo": "Irish Dry",
+  "abv": 4.6,
+  "alias": [],
+  "bares": {
+   "artizanale": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Triple-Stacked Lumberjack Stout",
+  "familia": "/triple-stacked lumberjack stout",
+  "cervecera": "Vault City Brewing",
+  "estilo": "Imperial / Double Pastry",
+  "abv": 11.5,
+  "alias": [],
+  "bares": {
+   "artizanale": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Bräuweisse Wheat Beer",
+  "familia": "/brauweisse wheat beer",
+  "cervecera": "Ayinger Privatbrauerei",
+  "estilo": "Hefeweizen",
+  "abv": 5.1,
+  "alias": [],
+  "bares": {
+   "artizanale": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "beerhouse-chamberi": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Gulden Draak Classic Belgian Strong Dark Ale",
+  "familia": "/gulden draak classic belgian strong dark ale",
+  "cervecera": "Brouwerij Van Steenberge",
+  "estilo": null,
+  "abv": 10.5,
+  "alias": [],
+  "bares": {
+   "artizanale": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "birreria": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Blonde Belgian Strong Golden Ale",
+  "familia": "/blonde belgian strong golden ale",
+  "cervecera": "Brasserie d'Achouffe",
+  "estilo": null,
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "artizanale": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Vermut De Grifo",
+  "familia": "/vermut de grifo",
+  "cervecera": "Strange Roots Experimental Ales",
+  "estilo": null,
+  "abv": 15.0,
+  "alias": [],
+  "bares": {
+   "artizanale": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Budvar / Czechvar DARK Lager",
+  "familia": "/budvar / czechvar dark lager",
+  "cervecera": "Budějovický Budvar",
+  "estilo": "Tmavé (Czech Dark)",
+  "abv": 4.7,
+  "alias": [],
+  "bares": {
+   "artizanale": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Budvar / Czechvar Original Pilsner",
+  "familia": "/budvar / czechvar original pilsner",
+  "cervecera": "Budějovický Budvar",
+  "estilo": "Czech / Bohemian",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "artizanale": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Export Lager",
+  "familia": "/export lager",
+  "cervecera": "Fürstlich Fürstenbergische Brauerei",
+  "estilo": "Dortmunder / Export",
+  "abv": 5.3,
+  "alias": [],
+  "bares": {
+   "beer-joint": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Brutalismo IPA",
+  "familia": "/brutalismo ipa",
+  "cervecera": "Joint Brewing",
+  "estilo": "American",
+  "abv": 6.5,
+  "alias": [],
+  "bares": {
+   "beer-joint": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Ollie IPA",
+  "familia": "/ollie ipa",
+  "cervecera": "La Quince Brewing Co.",
+  "estilo": "Session New England / Hazy",
+  "abv": 4.2,
+  "alias": [],
+  "bares": {
+   "beer-joint": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Termopilas Stout",
+  "familia": "/termopilas stout",
+  "cervecera": "Joint Brewing",
+  "estilo": "Coffee",
+  "abv": 7.0,
+  "alias": [],
+  "bares": {
+   "beer-joint": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Macaronesia Sour",
+  "familia": "/macaronesia sour",
+  "cervecera": "Joint Brewing",
+  "estilo": "Smoothie / Pastry",
+  "abv": 4.6,
+  "alias": [],
+  "bares": {
+   "beer-joint": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Santa Clara Helles Lager con lúpulo Tettnanger",
+  "familia": "/santa clara helles lager con lupulo tettnanger",
+  "cervecera": "Basqueland Brewing",
+  "estilo": null,
+  "abv": 4.8,
+  "alias": [],
+  "bares": {
+   "malte": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "1906 Reserva Especial Hellbock / Maibock",
+  "familia": "/1906 reserva especial hellbock / maibock",
+  "cervecera": "Hijos de Rivera",
+  "estilo": null,
+  "abv": 6.5,
+  "alias": [],
+  "bares": {
+   "malte": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Erdinger Weißbier Hefeweizen (trigo alemana)",
+  "familia": "/erdinger weißbier hefeweizen (trigo alemana)",
+  "cervecera": "Erdinger Weissbräu",
+  "estilo": null,
+  "abv": 5.3,
+  "alias": [],
+  "bares": {
+   "malte": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Brugse Zot Dubbel Belgian Dubbel (tostada belga)",
+  "familia": "/brugse zot dubbel belgian dubbel (tostada belga)",
+  "cervecera": "Brouwerij De Halve Maan",
+  "estilo": null,
+  "abv": 7.5,
+  "alias": [],
+  "bares": {
+   "malte": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Straffe Hendrik Brugs Tripel Bier 9° Belgian Tripel (rubia belga)",
+  "familia": "/straffe hendrik brugs tripel bier 9° belgian tripel (rubia belga)",
+  "cervecera": "Brouwerij De Halve Maan",
+  "estilo": null,
+  "abv": 9.0,
+  "alias": [],
+  "bares": {
+   "malte": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "O'Hara's Irish Stout (Nitro) Irish Dry Stout (cerveza negra seca)",
+  "familia": "/o'hara's irish stout (nitro) irish dry stout (cerveza negra seca)",
+  "cervecera": "O'Hara's Brewery",
+  "estilo": null,
+  "abv": 4.3,
+  "alias": [],
+  "bares": {
+   "malte": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Gilda Hazy IPA elaborada con lúpulos Mosaic, Ekuanot, Citra y Cashmere",
+  "familia": "/gilda hazy ipa elaborada con lupulos mosaic, ekuanot, citra y cashmere",
+  "cervecera": "Basqueland Brewing",
+  "estilo": null,
+  "abv": 6.1,
+  "alias": [],
+  "bares": {
+   "malte": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "El Camino American IPA",
+  "familia": "/el camino american ipa. ligeramente amarga y floral",
+  "cervecera": "Basqueland Brewing",
+  "estilo": null,
+  "abv": 5.5,
+  "alias": [],
+  "bares": {
+   "malte": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Sangría",
+  "familia": "/sangria",
+  "cervecera": null,
+  "estilo": "Estrella Galicia Cocktail N/A ABV Medio 3.50 EUR Litro 6.00 EUR",
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "malte": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Razo West Coast IPA con lúpulos Simcoe y Amarillo",
+  "familia": "/razo west coast ipa con lupulos simcoe y amarillo",
+  "cervecera": "Cervexa AleAlé",
+  "estilo": null,
+  "abv": 6.0,
+  "alias": [],
+  "bares": {
+   "malte": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Onda Session IPA sin gluten (Gluten Free)",
+  "familia": "/onda session ipa sin gluten (gluten free)",
+  "cervecera": "Cervexa AleAlé",
+  "estilo": null,
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "malte": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Cascade Dry-Hopped Lambic Lambic con dry-hopped de Cascade",
+  "familia": "/cascade dry-hopped lambic lambic con dry-hopped de cascade",
+  "cervecera": "Oud Beersel",
+  "estilo": null,
+  "abv": 6.8,
+  "alias": [],
+  "bares": {
+   "malte": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Punk IPA American IPA",
+  "familia": "/punk ipa american ipa",
+  "cervecera": "BrewDog",
+  "estilo": null,
+  "abv": 5.2,
+  "alias": [],
+  "bares": {
+   "malte": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Gegenpress NEIPA con lúpulos Idaho 7 y Citra",
+  "familia": "/gegenpress neipa con lupulos idaho 7 y citra",
+  "cervecera": "Oso Brew Co",
+  "estilo": null,
+  "abv": 7.0,
+  "alias": [],
+  "bares": {
+   "malte": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Galipette Cidre Brut Sidra que utiliza manzanas de la Bretaña francesa",
+  "familia": "/galipette cidre brut sidra que utiliza manzanas de la bretana francesa",
+  "cervecera": "Galipette Cidre",
+  "estilo": null,
+  "abv": 4.5,
+  "alias": [],
+  "bares": {
+   "malte": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "EL ECLIPSE Session IPA con lúpulos Ekuanot, Centennial y Citra",
+  "familia": "/el eclipse session ipa con lupulos ekuanot, centennial y citra",
+  "cervecera": "Cerveza SanFrutos",
+  "estilo": null,
+  "abv": 4.3,
+  "alias": [],
+  "bares": {
+   "malte": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Little Red Fruited Smoothie Sour de frutos rojos",
+  "familia": "/little red fruited smoothie sour de frutos rojos",
+  "cervecera": "La Pirata Brewing",
+  "estilo": null,
+  "abv": 4.5,
+  "alias": [],
+  "bares": {
+   "malte": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Tropical Gose Sour Fruited Gose con guayaba, mango y maracuyá",
+  "familia": "/tropical gose sour fruited gose con guayaba, mango y maracuya",
+  "cervecera": "Browar Stu Mostów",
+  "estilo": null,
+  "abv": 3.5,
+  "alias": [],
+  "bares": {
+   "malte": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "LOCKER English Porter (cerveza negra) sin gluten (gluten free)",
+  "familia": "/locker english porter (cerveza negra) sin gluten (gluten free)",
+  "cervecera": "Garage Beer Co.",
+  "estilo": null,
+  "abv": 4.5,
+  "alias": [],
+  "bares": {
+   "malte": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "KOZAC Imperial Stout con notas intensas de espresso, cacao crudo y un toque sutil ahumado",
+  "familia": "/kozac imperial stout con notas intensas de espresso, cacao crudo y un toque sutil ahumado",
+  "cervecera": "Menno Olivier Brewing",
+  "estilo": null,
+  "abv": 13.0,
+  "alias": [],
+  "bares": {
+   "malte": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Movida Pale Ale",
+  "familia": "/movida pale ale",
+  "cervecera": "La Caníbal Brewery",
+  "estilo": "American",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "beerhouse-chamberi": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "beerhouse-latina": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "#Hautes-Plaines Is Trending IPA",
+  "familia": "/#hautes-plaines is trending ipa",
+  "cervecera": "Brasserie du Bas-Canada",
+  "estilo": "Quadruple",
+  "abv": 11.3,
+  "alias": [],
+  "bares": {
+   "beerhouse-chamberi": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Terraform IPA",
+  "familia": "/terraform ipa",
+  "cervecera": "SOMA Beer",
+  "estilo": "New England / Hazy",
+  "abv": 6.0,
+  "alias": [],
+  "bares": {
+   "beerhouse-chamberi": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "brewwild": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Vi IPA",
+  "familia": "/vi ipa",
+  "cervecera": "Lolev Beer",
+  "estilo": "Imperial / Double New England / Hazy",
+  "abv": 8.2,
+  "alias": [],
+  "bares": {
+   "beerhouse-chamberi": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Two Years of Tripping Sour",
+  "familia": "/two years of tripping sour",
+  "cervecera": "Tripping Animals Brewing Co.",
+  "estilo": "Fruited Berliner Weisse",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "beerhouse-chamberi": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "West Ashley Farmhouse Ale",
+  "familia": "/west ashley farmhouse ale",
+  "cervecera": "Sante Adairius Rustic Ales",
+  "estilo": "Saison",
+  "abv": 7.3,
+  "alias": [],
+  "bares": {
+   "beerhouse-chamberi": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Fractional BA Kitchen Sink Strong Ale",
+  "familia": "/fractional ba kitchen sink strong ale",
+  "cervecera": "3 Sons Brewing Co.",
+  "estilo": "Other",
+  "abv": 13.0,
+  "alias": [],
+  "bares": {
+   "beerhouse-chamberi": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Bourbon County Brand Stout (2023) 14.1% Stout",
+  "familia": "/bourbon county brand stout (2023) 14.1% stout",
+  "cervecera": "Goose Island Beer Co.",
+  "estilo": "Imperial / Double",
+  "abv": 14.1,
+  "alias": [],
+  "bares": {
+   "beerhouse-chamberi": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Simancas Lager",
+  "familia": "/simancas lager",
+  "cervecera": "La Caníbal Brewery",
+  "estilo": "Munich Dunkel",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "beerhouse-chamberi": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "beerhouse-latina": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "KISKALE Brown Ale",
+  "familia": "/kiskale brown ale",
+  "cervecera": "Laugar Brewery",
+  "estilo": "American",
+  "abv": 7.3,
+  "alias": [],
+  "bares": {
+   "beerhouse-chamberi": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "beerhouse-latina": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "La Chouffe Blonde Belgian Strong Golden Ale",
+  "familia": "/la chouffe blonde belgian strong golden ale",
+  "cervecera": "Brasserie d'Achouffe",
+  "estilo": null,
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "beerhouse-chamberi": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "beerhouse-latina": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Pilsner Urquell Pilsner",
+  "familia": "/pilsner urquell pilsner",
+  "cervecera": "Plzeňský Prazdroj",
+  "estilo": "Czech / Bohemian",
+  "abv": 4.4,
+  "alias": [],
+  "bares": {
+   "beerhouse-chamberi": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "maripepa": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Gold Lager",
+  "familia": "/gold lager",
+  "cervecera": "Oso Brew Co",
+  "estilo": "Helles",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "la-osita": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Buckaroo IPA",
+  "familia": "/buckaroo ipa",
+  "cervecera": "Oso Brew Co",
+  "estilo": "American",
+  "abv": 6.5,
+  "alias": [],
+  "bares": {
+   "la-osita": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Far Out Pale Ale",
+  "familia": "/far out pale ale",
+  "cervecera": "Oso Brew Co",
+  "estilo": "New Zealand",
+  "abv": 4.6,
+  "alias": [],
+  "bares": {
+   "la-osita": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "brewwild": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "birreria": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Serendipity IPA",
+  "familia": "/serendipity ipa",
+  "cervecera": "Oso Brew Co",
+  "estilo": "New England / Hazy",
+  "abv": 6.0,
+  "alias": [],
+  "bares": {
+   "la-osita": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Boca Boca IPA",
+  "familia": "/boca boca ipa",
+  "cervecera": "Oso Brew Co",
+  "estilo": "New England / Hazy",
+  "abv": 7.0,
+  "alias": [],
+  "bares": {
+   "la-osita": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Hop Slop IPA",
+  "familia": "/hop slop ipa",
+  "cervecera": "Oso Brew Co",
+  "estilo": "Imperial / Double New England / Hazy",
+  "abv": 8.4,
+  "alias": [],
+  "bares": {
+   "la-osita": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "birreria": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Prost Märzen",
+  "familia": "/prost marzen",
+  "cervecera": "Oso Brew Co",
+  "estilo": null,
+  "abv": 5.5,
+  "alias": [],
+  "bares": {
+   "la-osita": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Bigtime Stout",
+  "familia": "/bigtime stout",
+  "cervecera": "Oso Brew Co",
+  "estilo": "Imperial / Double",
+  "abv": 12.5,
+  "alias": [],
+  "bares": {
+   "la-osita": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "LA \"NORMAL\" IPA",
+  "familia": "/la \"normal\" ipa",
+  "cervecera": "Gro Brewers",
+  "estilo": "New England / Hazy",
+  "abv": 5.5,
+  "alias": [],
+  "bares": {
+   "the-market": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Vanilla Black Velvet Stout",
+  "familia": "/vanilla black velvet stout",
+  "cervecera": "Cervesa Guineu",
+  "estilo": "Russian Imperial",
+  "abv": 9.5,
+  "alias": [],
+  "bares": {
+   "the-market": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "brewwild": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Bonito IPA",
+  "familia": "/bonito ipa",
+  "cervecera": "Little Rain Brewing Company",
+  "estilo": "New England / Hazy",
+  "abv": 7.5,
+  "alias": [],
+  "bares": {
+   "the-market": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "SANTAKO IPA",
+  "familia": "/santako ipa",
+  "cervecera": "Garage Beer Co.",
+  "estilo": "American",
+  "abv": 6.0,
+  "alias": [],
+  "bares": {
+   "the-market": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Memory Hole IPA",
+  "familia": "/memory hole ipa",
+  "cervecera": "Castelló Beer Factory",
+  "estilo": "New England / Hazy",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "the-market": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Fuck Ursula Reject Capitalism Sour",
+  "familia": "/fuck ursula reject capitalism sour",
+  "cervecera": "La Calavera",
+  "estilo": "Fruited",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "the-market": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Xe Que Hell Lager",
+  "familia": "/xe que hell lager",
+  "cervecera": "Calderona Lagers by Sáez & Son",
+  "estilo": "Helles",
+  "abv": 5.7,
+  "alias": [],
+  "bares": {
+   "the-market": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "10/20 IPA",
+  "familia": "/10/20 ipa",
+  "cervecera": "DouGall's",
+  "estilo": "New England / Hazy",
+  "abv": 6.4,
+  "alias": [],
+  "bares": {
+   "the-market": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Sant Rock Belgian Dubbel",
+  "familia": "/sant rock belgian dubbel",
+  "cervecera": "Castelló Beer Factory",
+  "estilo": null,
+  "abv": 7.5,
+  "alias": [],
+  "bares": {
+   "the-market": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Weihenstephaner Vitus Bock",
+  "familia": "/weihenstephaner vitus bock",
+  "cervecera": "Bayerische Staatsbrauerei Weihenstephan",
+  "estilo": "Weizenbock",
+  "abv": 7.7,
+  "alias": [],
+  "bares": {
+   "the-market": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "San Blas Lager Lager",
+  "familia": "/san blas lager lager",
+  "cervecera": "La Caníbal Brewery",
+  "estilo": "Helles",
+  "abv": 4.9,
+  "alias": [],
+  "bares": {
+   "brewwild": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "beerhouse-latina": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "MR",
+  "familia": "/mr. bubbles pilsner",
+  "cervecera": "La Quince Brewing Co.",
+  "estilo": "Czech / Bohemian",
+  "abv": 4.5,
+  "alias": [],
+  "bares": {
+   "brewwild": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Oinktober Märzen",
+  "familia": "/oinktober marzen",
+  "cervecera": "La Quince Brewing Co.",
+  "estilo": null,
+  "abv": 5.6,
+  "alias": [],
+  "bares": {
+   "brewwild": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Petit Boulba Table Beer",
+  "familia": "/petit boulba table beer",
+  "cervecera": "Brasserie de la Senne",
+  "estilo": null,
+  "abv": 2.5,
+  "alias": [],
+  "bares": {
+   "brewwild": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Lovely Stuff Stout",
+  "familia": "/lovely stuff stout",
+  "cervecera": "Oso Brew Co",
+  "estilo": "Foreign / Export",
+  "abv": 7.5,
+  "alias": [],
+  "bares": {
+   "brewwild": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "birreria": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Llipa! IPA",
+  "familia": "/llipa! ipa",
+  "cervecera": "La Quince Brewing Co.",
+  "estilo": "American",
+  "abv": 6.4,
+  "alias": [],
+  "bares": {
+   "brewwild": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Dougalls 13/20 IPA",
+  "familia": "/dougalls 13/20 ipa",
+  "cervecera": "DouGall's",
+  "estilo": "Other",
+  "abv": 7.0,
+  "alias": [],
+  "bares": {
+   "brewwild": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Starburster IPA",
+  "familia": "/starburster ipa",
+  "cervecera": "Basqueland Brewing",
+  "estilo": "New England / Hazy",
+  "abv": 6.3,
+  "alias": [],
+  "bares": {
+   "brewwild": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Render IPA",
+  "familia": "/render ipa",
+  "cervecera": "SOMA Beer",
+  "estilo": "Imperial / Double New England / Hazy",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "brewwild": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Trifruit Sour",
+  "familia": "/trifruit sour",
+  "cervecera": "Naparbier",
+  "estilo": "Fruited",
+  "abv": 4.0,
+  "alias": [],
+  "bares": {
+   "brewwild": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Txak Or Lee 2025 Sour",
+  "familia": "/txak or lee 2025 sour",
+  "cervecera": "Mala Gissona",
+  "estilo": "Other Gose",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "brewwild": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Viuda De Angelón Sidra Natural Cider",
+  "familia": "/viuda de angelon sidra natural cider",
+  "cervecera": "Viuda de Angelón",
+  "estilo": "Traditional / Apfelwein",
+  "abv": 5.5,
+  "alias": [],
+  "bares": {
+   "brewwild": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Lollies Sour",
+  "familia": "/lollies sour",
+  "cervecera": "Garage Beer Co.",
+  "estilo": "Fruited Berliner Weisse",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Hidromiel LOKI Mead",
+  "familia": "/hidromiel loki mead",
+  "cervecera": "Odin",
+  "estilo": "Metheglin",
+  "abv": 7.5,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "LA NINFA - Triple Fruit Gose Sour",
+  "familia": "/la ninfa - triple fruit gose sour",
+  "cervecera": "Cerveza SanFrutos",
+  "estilo": "Fruited Gose",
+  "abv": 9.3,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Kopparberg Strawberry & Lime Cider",
+  "familia": "/kopparberg strawberry & lime cider",
+  "cervecera": "Kopparbergs Bryggeri",
+  "estilo": "Other Fruit",
+  "abv": 4.5,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Chouffe Cherry Fruit Beer",
+  "familia": "/chouffe cherry fruit beer",
+  "cervecera": "Brasserie d'Achouffe",
+  "estilo": null,
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Hoegaarden Wit / Blanche Wheat Beer",
+  "familia": "/hoegaarden wit / blanche wheat beer",
+  "cervecera": "Brouwerij Hoegaarden",
+  "estilo": "Witbier / Blanche",
+  "abv": 4.9,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "birreria": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Belgian White Wheat Beer",
+  "familia": "/belgian white wheat beer",
+  "cervecera": "Blue Moon Brewing Company",
+  "estilo": "Witbier / Blanche",
+  "abv": 5.4,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Sonne Wheat Beer",
+  "familia": "/sonne wheat beer",
+  "cervecera": "Arktos Brewing Co.",
+  "estilo": "Hefeweizen",
+  "abv": 5.5,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Zwaan Belgian Blonde",
+  "familia": "/zwaan belgian blonde",
+  "cervecera": "Arktos Brewing Co.",
+  "estilo": null,
+  "abv": 6.3,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Threat Level Midnight Belgian Strong Dark Ale",
+  "familia": "/threat level midnight belgian strong dark ale",
+  "cervecera": "Arktos Brewing Co.",
+  "estilo": null,
+  "abv": 9.5,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Pauwel Kwak Pale Ale",
+  "familia": "/pauwel kwak pale ale",
+  "cervecera": "Brouwerij Bosteels",
+  "estilo": "Belgian",
+  "abv": 8.4,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Leffe Brune / Bruin Brown Ale",
+  "familia": "/leffe brune / bruin brown ale",
+  "cervecera": "Abbaye de Leffe",
+  "estilo": "Belgian",
+  "abv": 6.5,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Leffe Rouge Red Ale",
+  "familia": "/leffe rouge red ale",
+  "cervecera": "Abbaye de Leffe",
+  "estilo": "Other",
+  "abv": 6.6,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "birreria": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Delirium Tremens Belgian Strong Golden Ale",
+  "familia": "/delirium tremens belgian strong golden ale",
+  "cervecera": "Delirium - Huyghe Brewery",
+  "estilo": null,
+  "abv": 8.5,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "birreria": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Charles Quint Rouge Rubis / Keizer Karel Robijn Rood Belgian Strong Dark Ale",
+  "familia": "/charles quint rouge rubis / keizer karel robijn rood belgian strong dark ale",
+  "cervecera": "Brouwerij Haacht Brasserie",
+  "estilo": null,
+  "abv": 8.5,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Misirlou IPA",
+  "familia": "/misirlou ipa",
+  "cervecera": "Arktos Brewing Co.",
+  "estilo": "Session",
+  "abv": 4.2,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "TNT! (DDH IPA) IPA",
+  "familia": "/tnt! (ddh ipa) ipa",
+  "cervecera": "Arktos Brewing Co.",
+  "estilo": "American",
+  "abv": 6.5,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Summertime IPA",
+  "familia": "/summertime ipa",
+  "cervecera": "Arktos Brewing Co.",
+  "estilo": "New England / Hazy",
+  "abv": 6.0,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Triceratops IPA",
+  "familia": "/triceratops ipa",
+  "cervecera": "GROSS Brewery & Taproom",
+  "estilo": "Other",
+  "abv": 7.0,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Hops Unchained - Riwaka IPA",
+  "familia": "/hops unchained - riwaka ipa",
+  "cervecera": "Birrificio Wild Raccoon",
+  "estilo": "Cold",
+  "abv": 6.1,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "942 Pale Ale",
+  "familia": "/942 pale ale",
+  "cervecera": "DouGall's",
+  "estilo": "American",
+  "abv": 4.2,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Pliny the Oncle IPA",
+  "familia": "/pliny the oncle ipa",
+  "cervecera": "The Oncle",
+  "estilo": "American",
+  "abv": 6.5,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Family Values IPA",
+  "familia": "/family values ipa",
+  "cervecera": "El Perrito Brewer",
+  "estilo": "Imperial / Double",
+  "abv": 7.5,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Complete Control Lager",
+  "familia": "/complete control lager",
+  "cervecera": "Arktos Brewing Co.",
+  "estilo": "IPL (India Pale Lager)",
+  "abv": 6.5,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "01/07 Anniversary IPA",
+  "familia": "/01/07 anniversary ipa",
+  "cervecera": "Engorile",
+  "estilo": "Imperial / Double New England / Hazy",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "LAGER - German Pils Pilsner",
+  "familia": "/lager - german pils pilsner",
+  "cervecera": "Cerveza SanFrutos",
+  "estilo": "German",
+  "abv": 4.5,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Bee Happy Honey Ale",
+  "familia": "/bee happy honey ale",
+  "cervecera": "Arktos Brewing Co.",
+  "estilo": null,
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Hello Frank Pilsner",
+  "familia": "/hello frank pilsner",
+  "cervecera": "Arktos Brewing Co.",
+  "estilo": "German",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Xé Qué Bock Bock",
+  "familia": "/xe que bock bock",
+  "cervecera": "Calderona Lagers by Sáez & Son",
+  "estilo": "Hell / Maibock / Lentebock",
+  "abv": 6.0,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Arjé Red Ale",
+  "familia": "/arje red ale",
+  "cervecera": "Arktos Brewing Co.",
+  "estilo": "Other",
+  "abv": 5.8,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Clan Stout",
+  "familia": "/clan stout",
+  "cervecera": "Yria Cervezas",
+  "estilo": "Irish Dry",
+  "abv": 4.8,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "London Black Porter",
+  "familia": "/london black porter",
+  "cervecera": "Anspach & Hobday",
+  "estilo": "English",
+  "abv": 4.4,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "maripepa": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "ALFAJOR TEARS Stout",
+  "familia": "/alfajor tears stout",
+  "cervecera": "Garage Beer Co.",
+  "estilo": "Imperial / Double Pastry",
+  "abv": 10.5,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Sidamo (2026) Stout",
+  "familia": "/sidamo (2026) stout",
+  "cervecera": "Fermentage",
+  "estilo": "Coffee",
+  "abv": 7.0,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Nitro Stout",
+  "familia": "/nitro stout",
+  "cervecera": "Arktos Brewing Co.",
+  "estilo": "Irish Dry",
+  "abv": 4.2,
+  "alias": [],
+  "bares": {
+   "taproom-opera": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "taproom-guzman": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Premium Lager Lager",
+  "familia": "/premium lager lager",
+  "cervecera": "Fürstlich Fürstenbergische Brauerei",
+  "estilo": "Dortmunder / Export",
+  "abv": 5.3,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Ordinary Bitter Bitter",
+  "familia": "/ordinary bitter bitter",
+  "cervecera": "The Kernel Brewery",
+  "estilo": "Session / Ordinary",
+  "abv": 4.2,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "maripepa": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Void Signal IPA IPA",
+  "familia": "/void signal ipa ipa",
+  "cervecera": "Apex Brewing Company",
+  "estilo": "New England / Hazy",
+  "abv": 6.5,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Reveries Of..",
+  "familia": "/reveries of... nelson sauvin ipa",
+  "cervecera": "Factory Brewing",
+  "estilo": "New England / Hazy",
+  "abv": 7.2,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Nectar of Happiness 17 IPA",
+  "familia": "/nectar of happiness 17 ipa",
+  "cervecera": "Pivovar ZICHOVEC",
+  "estilo": "New England / Hazy",
+  "abv": 7.0,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "3 Bean Stout Stout",
+  "familia": "/3 bean stout stout",
+  "cervecera": "LERVIG",
+  "estilo": "Imperial / Double",
+  "abv": 12.0,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Commutatio : Bad Bones IPA",
+  "familia": "/commutatio : bad bones ipa",
+  "cervecera": "Messorem",
+  "estilo": "New England / Hazy",
+  "abv": 6.5,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "DOUBLE LEMON YELLOW SUN IPA",
+  "familia": "/double lemon yellow sun ipa",
+  "cervecera": "Pomona Island Brew Co.",
+  "estilo": "Imperial / Double New England / Hazy",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "HOW DO YOU SPELL RELIEF, JOHN? IPA",
+  "familia": "/how do you spell relief, john? ipa",
+  "cervecera": "Pomona Island Brew Co.",
+  "estilo": "Imperial / Double New England / Hazy",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "COVENANT SUP IPA",
+  "familia": "/covenant sup ipa",
+  "cervecera": "BreWskey",
+  "estilo": "New England / Hazy",
+  "abv": 7.0,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Ghost In The Machine IPA",
+  "familia": "/ghost in the machine ipa",
+  "cervecera": "Parish Brewing Co.",
+  "estilo": "Imperial / Double New England / Hazy",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Envie Pale Ale",
+  "familia": "/envie pale ale",
+  "cervecera": "Parish Brewing Co.",
+  "estilo": "American",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Unlikely Places IPA",
+  "familia": "/unlikely places ipa",
+  "cervecera": "Polly's Brew Co.",
+  "estilo": "New England / Hazy",
+  "abv": 6.6,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Dream Like Sequence IPA",
+  "familia": "/dream like sequence ipa",
+  "cervecera": "Polly's Brew Co.",
+  "estilo": "Imperial / Double",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "My Precious Nelson IPA",
+  "familia": "/my precious nelson ipa",
+  "cervecera": "(4.19) Vegan",
+  "estilo": "Triple New England / Hazy",
+  "abv": 10.3,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "My Precious Riwaka IPA",
+  "familia": "/my precious riwaka ipa",
+  "cervecera": "Sudden Death Brewing Co.",
+  "estilo": "Imperial / Double New England / Hazy",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Coco Nuts IPA",
+  "familia": "/coco nuts ipa",
+  "cervecera": "(3.94) Vegan",
+  "estilo": "New England / Hazy",
+  "abv": 7.0,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Skull Candy IPA",
+  "familia": "/skull candy ipa",
+  "cervecera": "Sudden Death Brewing Co.",
+  "estilo": "New England / Hazy",
+  "abv": 6.5,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "QDH Riwaka X Citra Cryo X Mosaic Cryo X Nectaron TIPA IPA",
+  "familia": "/qdh riwaka x citra cryo x mosaic cryo x nectaron tipa ipa",
+  "cervecera": "Ārpus Brewing Co.",
+  "estilo": "Triple New England / Hazy",
+  "abv": 10.3,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "TDH Galaxy X Citra X Nelson Sauvin DIPA IPA",
+  "familia": "/tdh galaxy x citra x nelson sauvin dipa ipa",
+  "cervecera": "Ārpus Brewing Co.",
+  "estilo": "Imperial / Double New England / Hazy",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Les Granges du Ranch IPA",
+  "familia": "/les granges du ranch ipa",
+  "cervecera": "Fauve",
+  "estilo": "Imperial / Double",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Overland IPA",
+  "familia": "/overland ipa",
+  "cervecera": "Outer Range Brewing Co.",
+  "estilo": "New England / Hazy",
+  "abv": 7.0,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Golden Hour IPA",
+  "familia": "/golden hour ipa",
+  "cervecera": "FrauGruber Brewing",
+  "estilo": "Triple New England / Hazy",
+  "abv": 10.2,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Retro Kid IPA",
+  "familia": "/retro kid ipa",
+  "cervecera": "FrauGruber Brewing",
+  "estilo": "Triple New England / Hazy",
+  "abv": 9.6,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Never Say Never Michelada Tomato Gose Sour",
+  "familia": "/never say never michelada tomato gose sour",
+  "cervecera": "Ārpus Brewing Co.",
+  "estilo": "Tomato / Vegetable Gose",
+  "abv": 5.5,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Imperial Peach & Apricot Pastel De Nata Sour",
+  "familia": "/imperial peach & apricot pastel de nata sour",
+  "cervecera": "Vault City Brewing",
+  "estilo": "Smoothie / Pastry",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Overnight Oats (Raspberry, Blueberry, Pomegranate, Chocolate Chips, Maple Syrup & Coffee) Sour",
+  "familia": "/overnight oats (raspberry, blueberry, pomegranate, chocolate chips, maple syrup & coffee) sour",
+  "cervecera": "Vault City Brewing",
+  "estilo": "Smoothie / Pastry",
+  "abv": 7.6,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "PUNCH: Mandarin, Mango & Pineapple Sour",
+  "familia": "/punch: mandarin, mango & pineapple sour",
+  "cervecera": "Vault City Brewing",
+  "estilo": "Fruited",
+  "abv": 7.0,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Red Berry Waffle Cone Shortcake Triple Scoop Sour",
+  "familia": "/red berry waffle cone shortcake triple scoop sour",
+  "cervecera": "Vault City Brewing",
+  "estilo": "Smoothie / Pastry",
+  "abv": 8.4,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Selene Sour",
+  "familia": "/selene sour",
+  "cervecera": "Ophiussa",
+  "estilo": "Smoothie / Pastry",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Speedway Stout Stout",
+  "familia": "/speedway stout stout",
+  "cervecera": "AleSmith Brewing Company",
+  "estilo": "Imperial / Double Coffee",
+  "abv": 12.0,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Reserve Bourbon County Brand Stout (2018) Stout",
+  "familia": "/reserve bourbon county brand stout (2018) stout",
+  "cervecera": "Goose Island Beer Co.",
+  "estilo": "Imperial / Double",
+  "abv": 15.2,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Export India Porter Porter",
+  "familia": "/export india porter porter",
+  "cervecera": "The Kernel Brewery",
+  "estilo": "India Export",
+  "abv": 6.5,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Fable By Rackhouse Stout",
+  "familia": "/fable by rackhouse stout",
+  "cervecera": "LERVIG",
+  "estilo": "Imperial / Double",
+  "abv": 13.1,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Paragon 2021 By Rackhouse Barleywine",
+  "familia": "/paragon 2021 by rackhouse barleywine",
+  "cervecera": "LERVIG",
+  "estilo": "Other",
+  "abv": 13.8,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Mansueto 2025 Barleywine",
+  "familia": "/mansueto 2025 barleywine",
+  "cervecera": "CRAK Brewery",
+  "estilo": "Other",
+  "abv": 13.0,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Öö Porter",
+  "familia": "/oo porter",
+  "cervecera": "Põhjala",
+  "estilo": "Imperial / Double Baltic",
+  "abv": 10.5,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Coffee Culture (Cellar Series) Stout",
+  "familia": "/coffee culture (cellar series) stout",
+  "cervecera": "Põhjala",
+  "estilo": "Imperial / Double Coffee",
+  "abv": 15.5,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Presence of Another World (2025) Stout",
+  "familia": "/presence of another world (2025) stout",
+  "cervecera": "Bissell Brothers Brewing Company",
+  "estilo": "Imperial / Double",
+  "abv": 12.0,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Monolith Barleywine",
+  "familia": "/monolith barleywine",
+  "cervecera": "Bissell Brothers Brewing Company",
+  "estilo": "American",
+  "abv": 13.8,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Rose of Cimarron Porter",
+  "familia": "/rose of cimarron porter",
+  "cervecera": "Amager Bryghus",
+  "estilo": "Imperial / Double Baltic",
+  "abv": 15.6,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Double Black Mash (2023) Rye Whiskey BA Version Stout",
+  "familia": "/double black mash (2023) rye whiskey ba version stout",
+  "cervecera": "Amager Bryghus",
+  "estilo": "Imperial / Double",
+  "abv": 14.9,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "All I Want For Christmas 2025 By Rackhouse Stout",
+  "familia": "/all i want for christmas 2025 by rackhouse stout",
+  "cervecera": "LERVIG",
+  "estilo": "Imperial / Double Pastry",
+  "abv": 14.8,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Norwegian Nitro Stout",
+  "familia": "/norwegian nitro stout",
+  "cervecera": "LERVIG",
+  "estilo": "Irish Dry",
+  "abv": 4.7,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "3 Fonteinen Intens Rood (season 19|20) Blend No",
+  "familia": "/3 fonteinen intens rood (season 19|20) blend no. 77 lambic",
+  "cervecera": "Brouwerij 3 Fonteinen",
+  "estilo": "Kriek",
+  "abv": 6.8,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Bière De Saison Goldings Farmhouse Ale",
+  "familia": "/biere de saison goldings farmhouse ale",
+  "cervecera": "The Kernel Brewery",
+  "estilo": "Saison",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Framboise - Lambic Lambic",
+  "familia": "/framboise - lambic lambic",
+  "cervecera": "Geuzestekerij De Cam",
+  "estilo": "Framboise",
+  "abv": 6.9,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "3 Fonteinen Framboos Oogst 2018 (season 18|19) Blend No",
+  "familia": "/3 fonteinen framboos oogst 2018 (season 18|19) blend no. 74 lambic",
+  "cervecera": "Brouwerij 3 Fonteinen",
+  "estilo": "Framboise",
+  "abv": 6.3,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Duchesse Cherry Sour",
+  "familia": "/duchesse cherry sour",
+  "cervecera": "Brouwerij Verhaeghe",
+  "estilo": "Flanders Red Ale",
+  "abv": 6.8,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Duchesse de Bourgogne Sour",
+  "familia": "/duchesse de bourgogne sour",
+  "cervecera": "Brouwerij Verhaeghe",
+  "estilo": "Flanders Red Ale",
+  "abv": 6.2,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Weihenstephaner Hefeweissbier Wheat Beer",
+  "familia": "/weihenstephaner hefeweissbier wheat beer",
+  "cervecera": "Bayerische Staatsbrauerei Weihenstephan",
+  "estilo": "Hefeweizen",
+  "abv": 5.4,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Lukas Lager",
+  "familia": "/lukas lager",
+  "cervecera": "Thornbridge Brewery",
+  "estilo": "Helles",
+  "abv": 4.2,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Bitburger 0,0% alkoholfreies Pils Non-Alcoholic",
+  "familia": "/bitburger 0,0% alkoholfreies pils non-alcoholic",
+  "cervecera": "Bitburger Brauerei",
+  "estilo": "Lager N/A ABV",
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "bornin": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "SANTAKO West Coast IPA",
+  "familia": "/santako west coast ipa",
+  "cervecera": "Garage Beer Co.",
+  "estilo": null,
+  "abv": 6.0,
+  "alias": [],
+  "bares": {
+   "bira-bar": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "And Again NEIPA",
+  "familia": "/and again neipa",
+  "cervecera": "Garage Beer Co.",
+  "estilo": null,
+  "abv": 6.6,
+  "alias": [],
+  "bares": {
+   "bira-bar": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Oniria IPA",
+  "familia": "/oniria ipa",
+  "cervecera": "SOMA Beer",
+  "estilo": null,
+  "abv": 7.0,
+  "alias": [],
+  "bares": {
+   "bira-bar": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Porter Porter",
+  "familia": "/porter porter",
+  "cervecera": "Cervesa Espiga",
+  "estilo": null,
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "bira-bar": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Modern Drinking West Coast IPA",
+  "familia": "/modern drinking west coast ipa",
+  "cervecera": "PINTA",
+  "estilo": null,
+  "abv": 6.5,
+  "alias": [],
+  "bares": {
+   "bira-bar": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Side Quest DIPA",
+  "familia": "/side quest dipa",
+  "cervecera": "SOMA Beer",
+  "estilo": null,
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "bira-bar": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Chouffe Cherry Fruit Beer 🍒",
+  "familia": "/chouffe cherry fruit beer 🍒",
+  "cervecera": "Brasserie d'Achouffe",
+  "estilo": null,
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "bira-bar": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Triple Fruited Mango Pastry Sour",
+  "familia": "/triple fruited mango pastry sour",
+  "cervecera": "Vault City Brewing",
+  "estilo": null,
+  "abv": 6.2,
+  "alias": [],
+  "bares": {
+   "bira-bar": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Franziskaner Weissbier Hefeweizen",
+  "familia": "/franziskaner weissbier hefeweizen",
+  "cervecera": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+  "estilo": null,
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "bira-bar": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Alhambra Especial Lager",
+  "familia": "/alhambra especial lager",
+  "cervecera": "Grupo Cervezas Alhambra",
+  "estilo": null,
+  "abv": 5.4,
+  "alias": [],
+  "bares": {
+   "bira-bar": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Dizzy (Memorial Series) Stout",
+  "familia": "/dizzy (memorial series) stout",
+  "cervecera": "Drunken Bros",
+  "estilo": "Russian Imperial",
+  "abv": 11.5,
+  "alias": [],
+  "bares": {
+   "bar-singular": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Fog Dealer IPA",
+  "familia": "/fog dealer ipa",
+  "cervecera": "DosKiwis",
+  "estilo": "Imperial / Double New England / Hazy",
+  "abv": 7.9,
+  "alias": [],
+  "bares": {
+   "bar-singular": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Simulation IPA",
+  "familia": "/simulation ipa",
+  "cervecera": "SOMA Beer",
+  "estilo": "New England / Hazy",
+  "abv": 7.0,
+  "alias": [],
+  "bares": {
+   "bar-singular": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Sum Plum IPA",
+  "familia": "/sum plum ipa",
+  "cervecera": "DosKiwis",
+  "estilo": "New England / Hazy",
+  "abv": 6.2,
+  "alias": [],
+  "bares": {
+   "bar-singular": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Vladimir Pilsner",
+  "familia": "/vladimir pilsner",
+  "cervecera": "Drunken Bros",
+  "estilo": "Czech / Bohemian",
+  "abv": 4.8,
+  "alias": [],
+  "bares": {
+   "bar-singular": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Güito Sour",
+  "familia": "/guito sour",
+  "cervecera": "GROSS Brewery & Taproom",
+  "estilo": "Fruited Gose",
+  "abv": 3.5,
+  "alias": [],
+  "bares": {
+   "bar-singular": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Obaladara aus dem Leinleitertal Lager",
+  "familia": "/obaladara aus dem leinleitertal lager",
+  "cervecera": "Brauerei Ott",
+  "estilo": "Munich Dunkel",
+  "abv": 5.3,
+  "alias": [],
+  "bares": {
+   "bar-singular": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Mc Chouffe Brown Ale",
+  "familia": "/mc chouffe brown ale",
+  "cervecera": "Brasserie d'Achouffe",
+  "estilo": "Belgian",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "bar-singular": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "U Ungespundet Naturtrüb Kellerbier / Zwickelbier",
+  "familia": "/u ungespundet naturtrub kellerbier / zwickelbier",
+  "cervecera": "Mahrs Bräu",
+  "estilo": "Dunkel",
+  "abv": 5.2,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Amber Shock Bock",
+  "familia": "/amber shock bock",
+  "cervecera": "Birrificio Italiano",
+  "estilo": "Doppelbock",
+  "abv": 7.0,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "RIBA Pilsner",
+  "familia": "/riba pilsner",
+  "cervecera": "Garage Beer Co.",
+  "estilo": "German",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Pils Pilsner",
+  "familia": "/pils pilsner",
+  "cervecera": "Mahrs Bräu",
+  "estilo": "German",
+  "abv": 4.9,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Weiherer Hopfenweizen Wheat Beer",
+  "familia": "/weiherer hopfenweizen wheat beer",
+  "cervecera": "Brauerei Kundmüller",
+  "estilo": "Hopfenweisse",
+  "abv": 5.2,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Weizenbock Bock",
+  "familia": "/weizenbock bock",
+  "cervecera": "Ayinger Privatbrauerei",
+  "estilo": "Weizenbock",
+  "abv": 7.1,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Urweisse Wheat Beer",
+  "familia": "/urweisse wheat beer",
+  "cervecera": "Ayinger Privatbrauerei",
+  "estilo": "Dunkelweizen",
+  "abv": 5.8,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Alkoholfrei (TAP03) Non-Alcoholic",
+  "familia": "/alkoholfrei (tap03) non-alcoholic",
+  "cervecera": "Schneider Weisse G. Schneider & Sohn",
+  "estilo": "Wheat",
+  "abv": 0.5,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Calypso Sour",
+  "familia": "/calypso sour",
+  "cervecera": "Segarreta",
+  "estilo": "Fruited",
+  "abv": 5.5,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Raspberry Sorbet Sour",
+  "familia": "/raspberry sorbet sour",
+  "cervecera": "Sibeeria Brewery",
+  "estilo": "Fruited",
+  "abv": 4.4,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Pomelo Del Huerto Sour",
+  "familia": "/pomelo del huerto sour",
+  "cervecera": "Cyclic Beer Farm",
+  "estilo": "Fruited Gose",
+  "abv": 4.0,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Heartbreaker Sour",
+  "familia": "/heartbreaker sour",
+  "cervecera": "DosKiwis",
+  "estilo": "Other",
+  "abv": 4.5,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Fantôme (Saison) Farmhouse Ale",
+  "familia": "/fantome (saison) farmhouse ale",
+  "cervecera": "Brasserie Fantôme",
+  "estilo": "Saison",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Barrel Project 2024 Moscatel Farmhouse Ale",
+  "familia": "/barrel project 2024 moscatel farmhouse ale",
+  "cervecera": "Brouwerij Kees",
+  "estilo": "Saison",
+  "abv": 8.5,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Saison Baron Prune Farmhouse Ale",
+  "familia": "/saison baron prune farmhouse ale",
+  "cervecera": "Brasserie au Baron",
+  "estilo": "Saison",
+  "abv": 6.0,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Saturnales Farmhouse Ale",
+  "familia": "/saturnales farmhouse ale",
+  "cervecera": "Cyclic Beer Farm",
+  "estilo": "Saison",
+  "abv": 6.5,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Orval (2025) Pale Ale",
+  "familia": "/orval (2025) pale ale",
+  "cervecera": "Brasserie d'Orval",
+  "estilo": "Belgian",
+  "abv": 6.2,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Orval (2024) Pale Ale",
+  "familia": "/orval (2024) pale ale",
+  "cervecera": "Brasserie d'Orval",
+  "estilo": "Belgian",
+  "abv": 6.2,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Orangie Farmhouse Ale",
+  "familia": "/orangie farmhouse ale",
+  "cervecera": "Cyclic Beer Farm",
+  "estilo": "Saison",
+  "abv": 4.0,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Zinnebir Pale Ale",
+  "familia": "/zinnebir pale ale",
+  "cervecera": "Brasserie de la Senne",
+  "estilo": "Belgian",
+  "abv": 5.8,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Taras Boulba Belgian Blonde",
+  "familia": "/taras boulba belgian blonde",
+  "cervecera": "Brasserie de la Senne",
+  "estilo": null,
+  "abv": 4.5,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Saison Farmhouse Ale",
+  "familia": "/saison farmhouse ale",
+  "cervecera": "Cyclic Beer Farm",
+  "estilo": "Saison",
+  "abv": 5.8,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Joxe Mari Farmhouse Ale",
+  "familia": "/joxe mari farmhouse ale",
+  "cervecera": "Meta Edabeak",
+  "estilo": "Grisette",
+  "abv": 4.5,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Valley Beer Summer 2022 Farmhouse Ale",
+  "familia": "/valley beer summer 2022 farmhouse ale",
+  "cervecera": "Hudson Valley Brewery",
+  "estilo": "Saison",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Monk Farmhouse Ale",
+  "familia": "/monk farmhouse ale",
+  "cervecera": "Cyclic Beer Farm",
+  "estilo": "Saison",
+  "abv": 5.5,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Xaman Farmhouse Ale",
+  "familia": "/xaman farmhouse ale",
+  "cervecera": "Meta Edabeak",
+  "estilo": "Saison",
+  "abv": 6.0,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Bombo Dos Farmhouse Ale",
+  "familia": "/bombo dos farmhouse ale",
+  "cervecera": "Meta Edabeak",
+  "estilo": "Grisette",
+  "abv": 4.2,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Saison de Coupage Mirabolani 2022 Farmhouse Ale",
+  "familia": "/saison de coupage mirabolani 2022 farmhouse ale",
+  "cervecera": "Cantina Errante",
+  "estilo": "Bière de Coupage",
+  "abv": 7.6,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Raw Ka Kentucky 2022 Farmhouse Ale",
+  "familia": "/raw ka kentucky 2022 farmhouse ale",
+  "cervecera": "Cantina Errante",
+  "estilo": "Kornøl",
+  "abv": 9.5,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Brett Saison Farmhouse Ale",
+  "familia": "/brett saison farmhouse ale",
+  "cervecera": "Brasserie de la Senne",
+  "estilo": "Brett",
+  "abv": 5.3,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "S.SAISON 0724 Farmhouse Ale",
+  "familia": "/s.saison 0724 farmhouse ale",
+  "cervecera": "Cerveza Salvaje",
+  "estilo": "Saison",
+  "abv": 7.8,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Hoppy 6 Grain Saison (Batch #1) Farmhouse Ale",
+  "familia": "/hoppy 6 grain saison (batch #1) farmhouse ale",
+  "cervecera": "Jester King Brewery",
+  "estilo": "Saison",
+  "abv": 4.5,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "The Open Work 2024 Wild Ale",
+  "familia": "/the open work 2024 wild ale",
+  "cervecera": "Grimm Artisanal Ales",
+  "estilo": "American",
+  "abv": 6.0,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Orange Bliss Farmhouse Ale",
+  "familia": "/orange bliss farmhouse ale",
+  "cervecera": "FrauGruber Brewing",
+  "estilo": "Saison",
+  "abv": 6.2,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "La Dalmatienne Farmhouse Ale",
+  "familia": "/la dalmatienne farmhouse ale",
+  "cervecera": "Brasserie Fantôme",
+  "estilo": "Saison",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Saison Station Host Farmhouse Ale",
+  "familia": "/saison station host farmhouse ale",
+  "cervecera": "Hopfenstark",
+  "estilo": "Saison",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "CHANTE - LOUP 2020 Cider",
+  "familia": "/chante - loup 2020 cider",
+  "cervecera": "Brasserie La Malpolon",
+  "estilo": "Graff",
+  "abv": 5.5,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "SUPER GUILLOIRE 2022 Farmhouse Ale",
+  "familia": "/super guilloire 2022 farmhouse ale",
+  "cervecera": "Brasserie La Malpolon",
+  "estilo": "Bière de Coupage",
+  "abv": 6.0,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Cutting Clouds Batch #2 Farmhouse Ale",
+  "familia": "/cutting clouds batch #2 farmhouse ale",
+  "cervecera": "To Øl",
+  "estilo": "Grisette",
+  "abv": 5.1,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "El Cedro Farmhouse Ale",
+  "familia": "/el cedro farmhouse ale",
+  "cervecera": "Jester King Brewery",
+  "estilo": "Other",
+  "abv": 7.8,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Preternatural Cuvée 5 Farmhouse Ale",
+  "familia": "/preternatural cuvee 5 farmhouse ale",
+  "cervecera": "Stillwater Artisanal",
+  "estilo": "Saison",
+  "abv": 9.3,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Cuvée Marquette-Frontenac Farmhouse Ale",
+  "familia": "/cuvee marquette-frontenac farmhouse ale",
+  "cervecera": "LTM - Les Trois Mousquetaires Microbrasserie",
+  "estilo": "Other",
+  "abv": 6.5,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Trappistes Rochefort 10 Belgian Quadrupel",
+  "familia": "/trappistes rochefort 10 belgian quadrupel",
+  "cervecera": "Abbaye Notre-Dame de Saint-Rémy",
+  "estilo": null,
+  "abv": 11.3,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Van Der Lion Belgian Tripel",
+  "familia": "/van der lion belgian tripel",
+  "cervecera": "Zeta Beer",
+  "estilo": null,
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "BRAVAS Belgian Tripel",
+  "familia": "/bravas belgian tripel",
+  "cervecera": "Menno Olivier Brewing",
+  "estilo": null,
+  "abv": 9.2,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Westmalle Trappist Tripel Belgian Tripel",
+  "familia": "/westmalle trappist tripel belgian tripel",
+  "cervecera": "Brouwerij der Trappisten van Westmalle",
+  "estilo": null,
+  "abv": 9.5,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "ABADÍA",
+  "familia": "/abadia",
+  "cervecera": "Cerveza SanFrutos",
+  "estilo": "Belgian Dubbel Belgian Dubbel",
+  "abv": 6.8,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Whistle Monkee (2022) Belgian Quadrupel",
+  "familia": "/whistle monkee (2022) belgian quadrupel",
+  "cervecera": "Firestone Walker Brewing Company",
+  "estilo": null,
+  "abv": 13.0,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "21 Con Sangue Di Drago Lambic",
+  "familia": "/21 con sangue di drago lambic",
+  "cervecera": "Cantina Errante",
+  "estilo": "Fruit",
+  "abv": 6.7,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Trappist Westvleteren 8 Belgian Dubbel",
+  "familia": "/trappist westvleteren 8 belgian dubbel",
+  "cervecera": "Brouwerij De Sint-Sixtusabdij van Westvleteren",
+  "estilo": null,
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Crianza Sour",
+  "familia": "/crianza sour",
+  "cervecera": "Brasserie de la Senne",
+  "estilo": "Flanders Red Ale",
+  "abv": 7.4,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Brett Saison (2022) Farmhouse Ale",
+  "familia": "/brett saison (2022) farmhouse ale",
+  "cervecera": "Brasserie de la Senne",
+  "estilo": "Brett",
+  "abv": 5.3,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Clash of the Titans Grand Reserva Barleywine",
+  "familia": "/clash of the titans grand reserva barleywine",
+  "cervecera": "De Struise Brouwers",
+  "estilo": "Other",
+  "abv": 12.6,
+  "alias": [],
+  "bares": {
+   "mad-brewing": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "All On Board IPA",
+  "familia": "/all on board ipa",
+  "cervecera": "KOM Beer",
+  "estilo": "Imperial / Double New England / Hazy",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "maripepa": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "W/KG IPA",
+  "familia": "/w/kg ipa",
+  "cervecera": "GROSS Brewery & Taproom",
+  "estilo": "New England / Hazy",
+  "abv": 6.7,
+  "alias": [],
+  "bares": {
+   "maripepa": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Fenda IPA",
+  "familia": "/fenda ipa",
+  "cervecera": "Cervexa AleAlé",
+  "estilo": "New England / Hazy N/A ABV",
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "maripepa": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Fourchette Belgian Tripel",
+  "familia": "/fourchette belgian tripel",
+  "cervecera": "Brouwerij Van Steenberge",
+  "estilo": null,
+  "abv": 7.5,
+  "alias": [],
+  "bares": {
+   "maripepa": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Mañanas De Domingo Märzen",
+  "familia": "/mananas de domingo marzen",
+  "cervecera": "Octavo Arte",
+  "estilo": null,
+  "abv": 5.5,
+  "alias": [],
+  "bares": {
+   "maripepa": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Hefeweissbier Naturtrüb (Tap 01) Wheat Beer",
+  "familia": "/hefeweissbier naturtrub (tap 01) wheat beer",
+  "cervecera": "Schneider Weisse G. Schneider & Sohn",
+  "estilo": "Hefeweizen",
+  "abv": 4.9,
+  "alias": [],
+  "bares": {
+   "maripepa": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Aecht Schlenkerla Eiche – Doppelbock Rauchbier",
+  "familia": "/aecht schlenkerla eiche – doppelbock rauchbier",
+  "cervecera": "Schlenkerla (\"Heller-Bräu\" Trum)",
+  "estilo": null,
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "maripepa": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Tous Les Amants Sour",
+  "familia": "/tous les amants sour",
+  "cervecera": "Birrificio Wild Raccoon",
+  "estilo": "Fruited Gose",
+  "abv": 4.5,
+  "alias": [],
+  "bares": {
+   "maripepa": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Sweet Dreams Stout",
+  "familia": "/sweet dreams stout",
+  "cervecera": "Cervesa Espiga",
+  "estilo": "Imperial / Double Pastry",
+  "abv": 12.5,
+  "alias": [],
+  "bares": {
+   "maripepa": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Bombardier Amber Beer/Premium British Ale (Glorious English Ale) Bitter",
+  "familia": "/bombardier amber beer/premium british ale (glorious english ale) bitter",
+  "cervecera": "Eagle Brewery",
+  "estilo": "Best",
+  "abv": 4.1,
+  "alias": [],
+  "bares": {
+   "maripepa": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Medes Pils Pilsner",
+  "familia": "/medes pils pilsner",
+  "cervecera": "DosKiwis",
+  "estilo": "New Zealand",
+  "abv": 5.3,
+  "alias": [],
+  "bares": {
+   "olhops": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Florida Vibes: Sunset Sour",
+  "familia": "/florida vibes: sunset sour",
+  "cervecera": "Funky Fluid",
+  "estilo": "Fruited Berliner Weisse",
+  "abv": 7.2,
+  "alias": [],
+  "bares": {
+   "olhops": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Pink Flamingo Sour",
+  "familia": "/pink flamingo sour",
+  "cervecera": "Basqueland Brewing",
+  "estilo": "Fruited",
+  "abv": 5.2,
+  "alias": [],
+  "bares": {
+   "olhops": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Märzen Märzen",
+  "familia": "/marzen marzen",
+  "cervecera": "Cerveza Tyris",
+  "estilo": null,
+  "abv": 5.5,
+  "alias": [],
+  "bares": {
+   "olhops": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Busy Beavers IPA",
+  "familia": "/busy beavers ipa",
+  "cervecera": "Basqueland Brewing",
+  "estilo": "New England / Hazy",
+  "abv": 6.2,
+  "alias": [],
+  "bares": {
+   "olhops": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Mycelium IPA",
+  "familia": "/mycelium ipa",
+  "cervecera": "SOMA Beer",
+  "estilo": "New England / Hazy",
+  "abv": 6.0,
+  "alias": [],
+  "bares": {
+   "olhops": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Rite IPA",
+  "familia": "/rite ipa",
+  "cervecera": "SOMA Beer",
+  "estilo": "New England / Hazy",
+  "abv": 6.0,
+  "alias": [],
+  "bares": {
+   "olhops": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "All Day IPA IPA",
+  "familia": "/all day ipa ipa",
+  "cervecera": "Founders Brewing Co.",
+  "estilo": "Session",
+  "abv": 4.7,
+  "alias": [],
+  "bares": {
+   "olhops": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Barrel-Aged Ten FIDY® Stout",
+  "familia": "/barrel-aged ten fidy® stout",
+  "cervecera": "Oskar Blues Brewery®",
+  "estilo": "Imperial / Double",
+  "abv": 12.5,
+  "alias": [],
+  "bares": {
+   "olhops": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Porter Porter",
+  "familia": "/porter porter",
+  "cervecera": "Founders Brewing Co.",
+  "estilo": "American",
+  "abv": 6.5,
+  "alias": [],
+  "bares": {
+   "olhops": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "DREAMTHIEF Stout",
+  "familia": "/dreamthief stout",
+  "cervecera": "Laugar Brewery",
+  "estilo": "Russian Imperial",
+  "abv": 11.0,
+  "alias": [],
+  "bares": {
+   "beerhouse-latina": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Raspberry Sour Sour",
+  "familia": "/raspberry sour sour",
+  "cervecera": "Vault City Brewing",
+  "estilo": "Fruited",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "beerhouse-latina": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Wonder Green Sour",
+  "familia": "/wonder green sour",
+  "cervecera": "Sáez & Son",
+  "estilo": "Smoothie / Pastry",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "beerhouse-latina": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Dominion Double Hazy Ipa",
+  "familia": "/dominion double hazy ipa",
+  "cervecera": "Oso Brew Co",
+  "estilo": null,
+  "abv": 8.4,
+  "alias": [],
+  "bares": {
+   "beerhouse-latina": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "El Camino IPA",
+  "familia": "/el camino ipa",
+  "cervecera": "Basqueland Brewing",
+  "estilo": "American",
+  "abv": 5.9,
+  "alias": [],
+  "bares": {
+   "beerhouse-latina": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Juice Cruise IPA",
+  "familia": "/juice cruise ipa",
+  "cervecera": "Sáez & Son",
+  "estilo": "New England / Hazy",
+  "abv": 6.0,
+  "alias": [],
+  "bares": {
+   "beerhouse-latina": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Bräuweisse Wheat Beer - Hefeweizen",
+  "familia": "/brauweisse wheat beer - hefeweizen",
+  "cervecera": "Ayinger Privatbrauerei",
+  "estilo": "Trigo",
+  "abv": 5.1,
+  "alias": [],
+  "bares": {
+   "beerhouse-latina": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Stella Artois Lager",
+  "familia": "/stella artois lager",
+  "cervecera": "Stella Artois",
+  "estilo": "Pale",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "birreria": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Spaten Münchner Hell / Premium Lager Lager",
+  "familia": "/spaten munchner hell / premium lager lager",
+  "cervecera": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+  "estilo": "Helles",
+  "abv": 5.2,
+  "alias": [],
+  "bares": {
+   "birreria": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Leffe Blonde / Blond Belgian Blonde",
+  "familia": "/leffe blonde / blond belgian blonde",
+  "cervecera": "Abbaye de Leffe",
+  "estilo": null,
+  "abv": 6.6,
+  "alias": [],
+  "bares": {
+   "birreria": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Tripel Karmeliet Belgian Tripel",
+  "familia": "/tripel karmeliet belgian tripel",
+  "cervecera": "Brouwerij Bosteels",
+  "estilo": null,
+  "abv": 8.4,
+  "alias": [],
+  "bares": {
+   "birreria": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Badlands IPA",
+  "familia": "/badlands ipa",
+  "cervecera": "Oso Brew Co",
+  "estilo": "American",
+  "abv": 6.5,
+  "alias": [],
+  "bares": {
+   "birreria": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
    }
   }
  }
