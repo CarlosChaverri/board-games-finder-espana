@@ -2148,6 +2148,10 @@
   "bares": {
    "patanel": {
     "fuente": "visto-untappd"
+   },
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -4401,6 +4405,10 @@
   "bares": {
    "leurope": {
     "fuente": "visto-untappd"
+   },
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -4440,6 +4448,10 @@
   "bares": {
    "napargar": {
     "fuente": "visto-untappd"
+   },
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -4466,6 +4478,10 @@
   "bares": {
    "flandes": {
     "fuente": "visto-untappd"
+   },
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -4864,6 +4880,10 @@
   "bares": {
    "baden-baden": {
     "fuente": "visto-untappd"
+   },
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -5658,6 +5678,10 @@
   "bares": {
    "sinduena": {
     "fuente": "visto-untappd"
+   },
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -5736,6 +5760,10 @@
   "bares": {
    "liquidos": {
     "fuente": "visto-untappd"
+   },
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -5749,6 +5777,10 @@
   "bares": {
    "liquidos": {
     "fuente": "visto-untappd"
+   },
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -6406,6 +6438,10 @@
    "collin-s-irish-tavern-madrid": {
     "fuente": "visto-untappd",
     "fecha": "2026-09-09"
+   },
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -6476,6 +6512,10 @@
    "the-cavern-irish-pub-madrid": {
     "fuente": "visto-untappd",
     "fecha": "2026-08-23"
+   },
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -6914,6 +6954,14 @@
    "the-crow-s-nest-irish-pub-boadilla-del-monte": {
     "fuente": "visto-untappd",
     "fecha": "2026-08-11"
+   },
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   },
+   "pool-beer-chamberi": {
+    "fuente": "carta-sin-fecha",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -7081,6 +7129,10 @@
    "irish-corner-pub-cerveceria-salamanca-salamanca": {
     "fuente": "visto-untappd",
     "fecha": "2026-04-27"
+   },
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -7129,6 +7181,10 @@
    "the-square-irish-pub-chipiona": {
     "fuente": "visto-untappd",
     "fecha": "2025-10-12"
+   },
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -7539,6 +7595,10 @@
    "gallagher-s-irish-tavern-la-zubia": {
     "fuente": "visto-untappd",
     "fecha": "2024-12-31"
+   },
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -7945,6 +8005,10 @@
    "o-hara-s-irish-pub-pollenca": {
     "fuente": "visto-untappd",
     "fecha": "2026-08-27"
+   },
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -8105,6 +8169,10 @@
    "red-door-irish-tavern-benidorm": {
     "fuente": "visto-untappd",
     "fecha": "2026-06-15"
+   },
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -9063,6 +9131,10 @@
    "irish-corner-pub-cerveceria-salamanca-salamanca": {
     "fuente": "visto-untappd",
     "fecha": "2026-04-27"
+   },
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -9917,6 +9989,10 @@
    "st-patrick-s-irish-tavern-albacete": {
     "fuente": "visto-untappd",
     "fecha": "2026-06-27"
+   },
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -12133,6 +12209,10 @@
    "the-irish-temple-fuenlabrada": {
     "fuente": "visto-untappd",
     "fecha": "2026-05-30"
+   },
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -13463,6 +13543,10 @@
    "dubliner-playa-de-las-americas": {
     "fuente": "visto-untappd",
     "fecha": "2026-08-01"
+   },
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -13715,6 +13799,10 @@
    "morrigan-irish-pub-lugo": {
     "fuente": "visto-untappd",
     "fecha": "2026-04-03"
+   },
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -14317,6 +14405,10 @@
    "la-tape": {
     "fuente": "visto-untappd",
     "fecha": "2026-09-12"
+   },
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
    }
   }
  },
@@ -14414,6 +14506,1266 @@
   "bares": {
    "maquila-bar": {
     "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Tripel d'Anvers",
+  "familia": "tripel d'anvers",
+  "cervecera": "Brouwerij De Koninck",
+  "estilo": "Belgian Tripel",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Schneider Helles",
+  "familia": "schneider helles",
+  "cervecera": "Schneider's Landbrauerei",
+  "estilo": "Lager - Helles",
+  "abv": 4.9,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Te Deum Amber",
+  "familia": "te deum amber",
+  "cervecera": "Brasserie du Bocq",
+  "estilo": "Red Ale - Other",
+  "abv": 5.9,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Andechser Bergbock Hell",
+  "familia": "andechser bergbock hell",
+  "cervecera": "Klosterbrauerei Andechs",
+  "estilo": "Bock - Hell / Maibock / Lentebock",
+  "abv": 6.9,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Kellerbier",
+  "familia": "kellerbier",
+  "cervecera": "Ayinger Privatbrauerei",
+  "estilo": "Kellerbier / Zwickelbier",
+  "abv": 4.9,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Helles Schlenkerla Lagerbier",
+  "familia": "helles schlenkerla lagerbier",
+  "cervecera": "Schlenkerla (\"Heller-Bräu\" Trum)",
+  "estilo": "Lager - Helles",
+  "abv": 4.3,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Früh Kölsch",
+  "familia": "fruh kolsch",
+  "cervecera": "Cölner Hofbräu Früh",
+  "estilo": "Kölsch",
+  "abv": 4.8,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Hofbräu Original",
+  "familia": "hofbrau original",
+  "cervecera": "Staatliches Hofbräuhaus München",
+  "estilo": "Lager - Helles",
+  "abv": 5.1,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Hofbräu Dunkel / Dunkel Gold",
+  "familia": "hofbrau dunkel / dunkel gold",
+  "cervecera": "Staatliches Hofbräuhaus München",
+  "estilo": "Lager - Munich Dunkel",
+  "abv": 5.5,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Hofbräu Schwarze Weisse / Dark Wheat / Hefeweizen Dunkel",
+  "familia": "hofbrau schwarze weisse / dark wheat / hefeweizen dunkel",
+  "cervecera": "Staatliches Hofbräuhaus München",
+  "estilo": "Wheat Beer - Dunkelweizen",
+  "abv": 5.1,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Jever Pilsener",
+  "familia": "jever pilsener",
+  "cervecera": "Friesisches Brauhaus zu Jever",
+  "estilo": "Pilsner - German",
+  "abv": 4.9,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Schwarzbier",
+  "familia": "schwarzbier",
+  "cervecera": "Köstritzer Schwarzbierbrauerei",
+  "estilo": "Schwarzbier",
+  "abv": 4.8,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Schlösser Alt",
+  "familia": "schlosser alt",
+  "cervecera": "Radeberger Gruppe",
+  "estilo": "Altbier - Traditional",
+  "abv": 4.8,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Original (TAP07)",
+  "familia": "original (tap07)",
+  "cervecera": "Schneider Weisse G. Schneider & Sohn",
+  "estilo": "Wheat Beer - Hefeweizen",
+  "abv": 5.4,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Hopfenweisse (TAP05)",
+  "familia": "hopfenweisse (tap05)",
+  "cervecera": "Schneider Weisse G. Schneider & Sohn",
+  "estilo": "Wheat Beer - Hopfenweisse",
+  "abv": 8.2,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Aventinus Eisbock (TAP09)",
+  "familia": "aventinus eisbock (tap09)",
+  "cervecera": "Schneider Weisse G. Schneider & Sohn",
+  "estilo": "Bock - Eisbock",
+  "abv": 12.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Weihenstephaner Vitus",
+  "familia": "weihenstephaner vitus",
+  "cervecera": "Bayerische Staatsbrauerei Weihenstephan",
+  "estilo": "Bock - Weizenbock",
+  "abv": 7.7,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Weihenstephaner Korbinian",
+  "familia": "weihenstephaner korbinian",
+  "cervecera": "Bayerische Staatsbrauerei Weihenstephan",
+  "estilo": "Bock - Doppelbock",
+  "abv": 7.4,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Achel Superior Dark",
+  "familia": "achel superior dark",
+  "cervecera": "De Achelse Kluis",
+  "estilo": "Belgian Quadrupel",
+  "abv": 9.5,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Charles Quint Rouge Rubis / Keizer Karel Robijn Rood",
+  "familia": "charles quint rouge rubis / keizer karel robijn rood",
+  "cervecera": "Brouwerij Haacht Brasserie",
+  "estilo": "Belgian Strong Dark Ale",
+  "abv": 8.5,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Chimay Dorée (Gold)",
+  "familia": "chimay doree (gold)",
+  "cervecera": "Bières de Chimay",
+  "estilo": "Belgian Enkel / Patersbier",
+  "abv": 4.8,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Chimay Première (Red)",
+  "familia": "chimay premiere (red)",
+  "cervecera": "Bières de Chimay",
+  "estilo": "Belgian Dubbel",
+  "abv": 7.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Chimay Grande Réserve (Blue)",
+  "familia": "chimay grande reserve (blue)",
+  "cervecera": "Bières de Chimay",
+  "estilo": "Belgian Strong Dark Ale",
+  "abv": 9.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Cuvée des Trolls",
+  "familia": "cuvee des trolls",
+  "cervecera": "Brasserie Dubuisson",
+  "estilo": "Belgian Blonde",
+  "abv": 7.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Delirium Tremens",
+  "familia": "delirium tremens",
+  "cervecera": "Delirium - Huyghe Brewery",
+  "estilo": "Belgian Strong Golden Ale",
+  "abv": 8.5,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Delirium Nocturnum",
+  "familia": "delirium nocturnum",
+  "cervecera": "Delirium - Huyghe Brewery",
+  "estilo": "Belgian Strong Dark Ale",
+  "abv": 8.5,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Delirium Red",
+  "familia": "delirium red",
+  "cervecera": "Delirium - Huyghe Brewery",
+  "estilo": "Fruit Beer",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Delirium Black Barrel Aged",
+  "familia": "delirium black barrel aged",
+  "cervecera": "Delirium - Huyghe Brewery",
+  "estilo": "Belgian Strong Dark Ale",
+  "abv": 11.5,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "DeuS (Brut des Flandres)",
+  "familia": "deus (brut des flandres)",
+  "cervecera": "Brouwerij Bosteels",
+  "estilo": "Bière de Champagne / Bière Brut",
+  "abv": 11.5,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Duvel 6,66%",
+  "familia": "duvel 6,66%",
+  "cervecera": "Duvel Moortgat",
+  "estilo": "Belgian Blonde",
+  "abv": 6.7,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Duvel Tripel Hop Citra",
+  "familia": "duvel tripel hop citra",
+  "cervecera": "Duvel Moortgat",
+  "estilo": "IPA - Belgian",
+  "abv": 9.5,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Gulden Draak Classic",
+  "familia": "gulden draak classic",
+  "cervecera": "Brouwerij Van Steenberge",
+  "estilo": "Belgian Strong Dark Ale",
+  "abv": 10.5,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Gulden Draak 9000 Quadruple",
+  "familia": "gulden draak 9000 quadruple",
+  "cervecera": "Brouwerij Van Steenberge",
+  "estilo": "Belgian Quadrupel",
+  "abv": 10.5,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Gouden Carolus Classic",
+  "familia": "gouden carolus classic",
+  "cervecera": "Brouwerij Het Anker",
+  "estilo": "Belgian Strong Dark Ale",
+  "abv": 8.5,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Kasteel Tripel",
+  "familia": "kasteel tripel",
+  "cervecera": "Kasteel Brouwerij Vanhonsebrouck",
+  "estilo": "Belgian Tripel",
+  "abv": 11.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Kasteel Rouge",
+  "familia": "kasteel rouge",
+  "cervecera": "Kasteel Brouwerij Vanhonsebrouck",
+  "estilo": "Fruit Beer",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Kasteel Barista",
+  "familia": "kasteel barista",
+  "cervecera": "Kasteel Brouwerij Vanhonsebrouck",
+  "estilo": "Belgian Quadrupel",
+  "abv": 11.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Orval",
+  "familia": "orval",
+  "cervecera": "Brasserie d'Orval",
+  "estilo": "Pale Ale - Belgian",
+  "abv": 6.2,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Paix Dieu Triple",
+  "familia": "paix dieu triple",
+  "cervecera": "Brasserie Caulier",
+  "estilo": "Belgian Tripel",
+  "abv": 10.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Piraat",
+  "familia": "piraat",
+  "cervecera": "Brouwerij Van Steenberge",
+  "estilo": "Belgian Strong Golden Ale",
+  "abv": 10.5,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Trappistes Rochefort 8",
+  "familia": "trappistes rochefort 8",
+  "cervecera": "Abbaye Notre-Dame de Saint-Rémy",
+  "estilo": "Belgian Strong Dark Ale",
+  "abv": 9.2,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Rodenbach Grand Cru",
+  "familia": "rodenbach grand cru",
+  "cervecera": "Brouwerij Rodenbach",
+  "estilo": "Sour - Flanders Red Ale",
+  "abv": 6.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Saison Dupont",
+  "familia": "saison dupont",
+  "cervecera": "Brasserie Dupont",
+  "estilo": "Farmhouse Ale - Saison",
+  "abv": 6.5,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Abt 12",
+  "familia": "abt 12",
+  "cervecera": "Brouwerij St.Bernardus",
+  "estilo": "Belgian Quadrupel",
+  "abv": 10.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Straffe Hendrik Heritage",
+  "familia": "straffe hendrik heritage",
+  "cervecera": "Brouwerij De Halve Maan",
+  "estilo": "Belgian Quadrupel",
+  "abv": 11.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Straffe Hendrik Brugs Quadrupel Bier 11°",
+  "familia": "straffe hendrik brugs quadrupel bier 11°",
+  "cervecera": "Brouwerij De Halve Maan",
+  "estilo": "Belgian Quadrupel",
+  "abv": 11.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "La Divine",
+  "familia": "la divine",
+  "cervecera": "Brasserie de Silly",
+  "estilo": "Belgian Strong Golden Ale",
+  "abv": 9.5,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Scotch Silly",
+  "familia": "scotch silly",
+  "cervecera": "Brasserie de Silly",
+  "estilo": "Scotch Ale / Wee Heavy",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Unic",
+  "familia": "unic",
+  "cervecera": "Brasserie de l'Abbaye du Val-Dieu",
+  "estilo": "Belgian Blonde",
+  "abv": 4.3,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Val-Dieu Triple",
+  "familia": "val-dieu triple",
+  "cervecera": "Brasserie de l'Abbaye du Val-Dieu",
+  "estilo": "Belgian Tripel",
+  "abv": 9.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Westmalle Trappist Dubbel",
+  "familia": "westmalle trappist dubbel",
+  "cervecera": "Brouwerij der Trappisten van Westmalle",
+  "estilo": "Belgian Dubbel",
+  "abv": 7.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Westmalle Trappist Tripel",
+  "familia": "westmalle trappist tripel",
+  "cervecera": "Brouwerij der Trappisten van Westmalle",
+  "estilo": "Belgian Tripel",
+  "abv": 9.5,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Trappist Westvleteren 12",
+  "familia": "trappist westvleteren 12",
+  "cervecera": "Brouwerij De Sint-Sixtusabdij van Westvleteren",
+  "estilo": "Belgian Quadrupel",
+  "abv": 10.2,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Grand Cru Bruocsella Lambic Bio",
+  "familia": "grand cru bruocsella lambic bio",
+  "cervecera": "Brasserie Cantillon",
+  "estilo": "Lambic - Traditional",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Gueuze 100% Lambic Bio",
+  "familia": "gueuze 100% lambic bio",
+  "cervecera": "Brasserie Cantillon",
+  "estilo": "Lambic - Gueuze",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Kriek 100% Lambic",
+  "familia": "kriek 100% lambic",
+  "cervecera": "Brasserie Cantillon",
+  "estilo": "Lambic - Kriek",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Barbãr",
+  "familia": "barbar",
+  "cervecera": "Brasserie Lefebvre",
+  "estilo": "Honey Beer",
+  "abv": 8.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Kriek",
+  "familia": "kriek",
+  "cervecera": "Brouwerij Lindemans",
+  "estilo": "Lambic - Kriek",
+  "abv": 3.5,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Framboise",
+  "familia": "framboise",
+  "cervecera": "Brouwerij Lindemans",
+  "estilo": "Lambic - Framboise",
+  "abv": 2.5,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Pecheresse",
+  "familia": "pecheresse",
+  "cervecera": "Brouwerij Lindemans",
+  "estilo": "Lambic - Fruit",
+  "abv": 2.5,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Mongozo Coconut",
+  "familia": "mongozo coconut",
+  "cervecera": "Mongozo",
+  "estilo": "Fruit Beer",
+  "abv": 3.6,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Dubbel",
+  "familia": "dubbel",
+  "cervecera": "Monasterio San Pedro de Cardeña",
+  "estilo": "Belgian Dubbel",
+  "abv": 6.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Tripel",
+  "familia": "tripel",
+  "cervecera": "Monasterio San Pedro de Cardeña",
+  "estilo": "Belgian Tripel",
+  "abv": 7.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Bishops Finger",
+  "familia": "bishops finger",
+  "cervecera": "Shepherd Neame",
+  "estilo": "Bitter - Extra Special / Strong (ESB)",
+  "abv": 5.2,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Kozel Premium Lager / Kozel 11",
+  "familia": "kozel premium lager / kozel 11",
+  "cervecera": "Pivovar Velké Popovice",
+  "estilo": "Pilsner - Czech / Bohemian",
+  "abv": 4.6,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Kozel Černý / Dark",
+  "familia": "kozel cerny / dark",
+  "cervecera": "Pivovar Velké Popovice",
+  "estilo": "Lager - Tmavé (Czech Dark)",
+  "abv": 3.8,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Sparkling Ale",
+  "familia": "sparkling ale",
+  "cervecera": "Coopers",
+  "estilo": "Australian Sparkling Ale",
+  "abv": 5.8,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Samichlaus Classic",
+  "familia": "samichlaus classic",
+  "cervecera": "Schloss Eggenberg",
+  "estilo": "Malt Liquor",
+  "abv": 14.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "La Trappe Quadrupel",
+  "familia": "la trappe quadrupel",
+  "cervecera": "Bierbrouwerij de Koningshoeven",
+  "estilo": "Belgian Quadrupel",
+  "abv": 10.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "India Ale",
+  "familia": "india ale",
+  "cervecera": "Samuel Smith",
+  "estilo": "IPA - English",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Nut Brown Ale",
+  "familia": "nut brown ale",
+  "cervecera": "Samuel Smith",
+  "estilo": "Brown Ale - English",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Taddy Porter",
+  "familia": "taddy porter",
+  "cervecera": "Samuel Smith",
+  "estilo": "Porter - English",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Tynt Meadow Blond",
+  "familia": "tynt meadow blond",
+  "cervecera": "Mount Saint Bernard Abbey",
+  "estilo": "Blonde / Golden Ale - English",
+  "abv": 5.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "LAGER - German Pils",
+  "familia": "lager - german pils",
+  "cervecera": "Cerveza SanFrutos",
+  "estilo": "Pilsner - German",
+  "abv": 4.5,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Invasion",
+  "familia": "invasion",
+  "cervecera": "Cerveza SanFrutos",
+  "estilo": "IPA - Imperial / Double",
+  "abv": 8.4,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "2020 Barley Wine",
+  "familia": "2020 barley wine",
+  "cervecera": "Cerveza SanFrutos",
+  "estilo": "Barleywine - Other",
+  "abv": 12.2,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Öö",
+  "familia": "oo",
+  "cervecera": "Põhjala",
+  "estilo": "Porter - Imperial / Double Baltic",
+  "abv": 10.5,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "ZENIT - India Pale Ale",
+  "familia": "zenit - india pale ale",
+  "cervecera": "Zenit Beer",
+  "estilo": "Non-Alcoholic - IPA",
+  "abv": 0.5,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "ZENIT American Amber Ale",
+  "familia": "zenit american amber ale",
+  "cervecera": "Zenit Beer",
+  "estilo": "Non-Alcoholic - Pale Ale",
+  "abv": 0.5,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Krombacher 0,0% Pils",
+  "familia": "krombacher 0,0% pils",
+  "cervecera": "Krombacher Gruppe",
+  "estilo": "Non-Alcoholic - Lager",
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Alkoholfrei (TAP03)",
+  "familia": "alkoholfrei (tap03)",
+  "cervecera": "Schneider Weisse G. Schneider & Sohn",
+  "estilo": "Non-Alcoholic - Wheat",
+  "abv": 0.5,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Big Bunny",
+  "familia": "big bunny",
+  "cervecera": "Kinnegar Brewing",
+  "estilo": "IPA - New England / Hazy",
+  "abv": 6.0,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Rustbucket",
+  "familia": "rustbucket",
+  "cervecera": "Kinnegar Brewing",
+  "estilo": "IPA - Rye",
+  "abv": 5.1,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Thirst Trap",
+  "familia": "thirst trap",
+  "cervecera": "Oso Brew Co",
+  "estilo": "IPA - Session",
+  "abv": 4.6,
+  "alias": [],
+  "bares": {
+   "cuatro-gatos": {
+    "fuente": "menu-externo",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Foster's",
+  "familia": "foster's",
+  "cervecera": "Heineken",
+  "estilo": "Lager - Pale",
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pool-beer-chamberi": {
+    "fuente": "carta-sin-fecha",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Paulaner",
+  "familia": "paulaner",
+  "cervecera": "Paulaner Brauerei",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pool-beer-chamberi": {
+    "fuente": "carta-sin-fecha",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Affligem",
+  "familia": "affligem",
+  "cervecera": "Affligem Brouwerij",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pool-beer-chamberi": {
+    "fuente": "carta-sin-fecha",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Calvin's",
+  "familia": "calvin's",
+  "cervecera": "Calvin's",
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pool-beer-chamberi": {
+    "fuente": "carta-sin-fecha",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Desperados",
+  "familia": "desperados",
+  "cervecera": "Heineken",
+  "estilo": "Lager - Other",
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pool-beer-chamberi": {
+    "fuente": "carta-sin-fecha",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Franziskaner",
+  "familia": "franziskaner",
+  "cervecera": "Spaten-Franziskaner-Löwenbräu-Gruppe",
+  "estilo": "Wheat Beer - Hefeweizen",
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pool-beer-chamberi": {
+    "fuente": "carta-sin-fecha",
     "fecha": "2026-09-12"
    }
   }

@@ -25,6 +25,8 @@ const CERVEZA_TIPOS = {
   'irish':        'Irish pub'
 };
 const CERVEZA_FUENTE = { 'web-oficial':['Según su web','ok'], 'prensa':['Según prensa','est'], 'perfil':['Según guía cervecera','est'] };
+const ACTIVIDADES = { billar:'Billar', dardos:'Dardos', musica_en_directo:'Música en directo' };
+const ACT_FUENTE = { 'web-oficial':['Según su web','ok'], 'untappd':['Según Untappd','mid'], 'guia':['Según guía','est'], 'resenas':['Mencionado en reseñas','warn'], 'prensa':['Según prensa','est'] };
 
 const MODES = {
   juegos: {
@@ -76,6 +78,7 @@ const MODES = {
     tipoLabel: b => CERVEZA_TIPOS[b.tipo],
     hasGameSearch: true,
     chipState: 'tipos',
+    actChips: ACTIVIDADES,
     search: {
       placeholder: 'Busca una cerveza (p. ej. Estrella Galicia, Guinness…)',
       bannerLead: 'Locales donde la tienen',
@@ -92,7 +95,7 @@ let BARES = [], JUEGOS = [];
 let markers = {}, map, userMarker = null;
 
 const state = {
-  q:'', precios:new Set(), tipos:new Set(),
+  q:'', precios:new Set(), tipos:new Set(), actividades:new Set(),
   vmin:0, rmin:0, nmin:0, orden:'relevancia', juego:null
 };
 
@@ -163,7 +166,7 @@ function switchMode(m){
   MODE = m;
   Object.values(markers).forEach(mk=>map.removeLayer(mk)); markers={};
   if(userMarker){map.removeLayer(userMarker);userMarker=null;}
-  state.q=''; state.precios.clear(); state.tipos.clear();
+  state.q=''; state.precios.clear(); state.tipos.clear(); state.actividades.clear();
   state.vmin=0; state.rmin=0; state.nmin=0; state.orden='relevancia';
   clearGame(true);
   $('#nameSearch').value='';
@@ -193,6 +196,17 @@ function buildFilters(){
     set.has(v)?set.delete(v):set.add(v);
     ch.classList.toggle('on'); apply(); writeURL();
   }));
+  const actRow=$('#actRow');
+  if(CFG.actChips){
+    actRow.style.display='';
+    const ac=$('#actChips');
+    ac.innerHTML=Object.entries(CFG.actChips).map(([v,t])=>`<button class="chip" data-v="${v}">${t}</button>`).join('');
+    ac.querySelectorAll('.chip').forEach(ch=>ch.addEventListener('click',()=>{
+      const v=ch.dataset.v;
+      state.actividades.has(v)?state.actividades.delete(v):state.actividades.add(v);
+      ch.classList.toggle('on'); apply(); writeURL();
+    }));
+  } else actRow.style.display='none';
 }
 
 let uiBound = false;
@@ -271,6 +285,7 @@ function visibleBars(){
       if(!normTxt(b.nombre).includes(nq) && !normTxt(b.ciudad||'').includes(nq) && !normTxt(b.zona||'').includes(nq)) return false;
     }
     if(chipSet.size && !chipSet.has(b[CFG.chipField])) return false;
+    if(MODE==='cervezas') for(const a of state.actividades){ if(!b[a]) return false; }
     if(b.valoracion < state.vmin) return false;
     if(b.resenas < state.rmin) return false;
     if(state.nmin>0 && (b[CFG.minField]==null || b[CFG.minField] < state.nmin)) return false;
@@ -336,6 +351,8 @@ function popupHTML(b){
     let esp='';
     if(b.grifos!=null) esp += `<div class="row"><b>Grifos</b><span>${b.grifos} <span class="badge ${fu[1]}">${fu[0]}</span></span></div>`;
     if(b.cervezas_total!=null) esp += `<div class="row"><b>Referencias</b><span>~${fmtN(b.cervezas_total)} <span class="badge ${fu[1]}">${fu[0]}</span></span></div>`;
+    const acts=Object.keys(ACTIVIDADES).filter(a=>b[a]);
+    const actRow = acts.length ? `<div class="row"><b>Actividades</b><span>${acts.map(a=>{const f=ACT_FUENTE[b[a].fuente]||['Dato estimado','est'];return `${ACTIVIDADES[a]}${b[a].detalle?` <span class="score-flag">(${b[a].detalle})</span>`:''} <span class="badge ${f[1]}">${f[0]}</span>`;}).join(' ')}</span></div>` : '';
     const webBtn = b.web ? `<a class="btn-web" href="${b.web}" target="_blank" rel="noopener">Web</a>` : '';
     const cervInfo = state.juego && state.juego.bares[b.id]
       ? `<div class="row"><b>Tu cerveza</b><span>✓ ${state.juego.nombre} ${fuenteBadge(state.juego.bares[b.id].fuente,state.juego.bares[b.id].fecha,CFG.search.badge)}</span></div>` : '';
@@ -346,6 +363,7 @@ function popupHTML(b){
       ${cervInfo}
       <div class="row"><b>Valoración</b><span><span class="stars">★ ${b.valoracion.toFixed(1)}</span> <span class="reviews">(${fmtN(b.resenas)} reseñas en Google)</span></span></div>
       ${esp}
+      ${actRow}
       <div style="font-size:12.5px;color:var(--muted);margin-top:7px">${b.descripcion}</div>
       <div class="btns"><a class="btn-maps" href="${b.maps_url}" target="_blank" rel="noopener">Cómo llegar (Google Maps)</a>${webBtn}</div>
     </div>`;
@@ -392,6 +410,7 @@ function writeURL(){
   if(state.q)p.set('q',state.q);
   const chipSet=state[CFG.chipState];
   if(chipSet.size)p.set(MODE==='cervezas'?'tipos':'precios',[...chipSet].join('|'));
+  if(MODE==='cervezas'&&state.actividades.size)p.set('act',[...state.actividades].join('|'));
   if(state.vmin)p.set('vmin',state.vmin);
   if(state.rmin)p.set('rmin',state.rmin);
   if(state.nmin)p.set(CFG.minParam,state.nmin);
@@ -410,8 +429,12 @@ function readURL(){
   $('#fVmin').value=state.vmin;$('#outVmin').textContent=state.vmin+'★';
   $('#fRmin').value=state.rmin;$('#outRmin').textContent=state.rmin;
   $('#fNmin').value=state.nmin;$('#fOrden').value=state.orden;
+  (p.get('act')||'').split('|').filter(Boolean).forEach(v=>{ if(CFG.actChips && CFG.actChips[v]) state.actividades.add(v); });
   document.querySelectorAll('#chipsFiltro .chip').forEach(ch=>{
     if(state[CFG.chipState].has(ch.dataset.v))ch.classList.add('on');
+  });
+  document.querySelectorAll('#actChips .chip').forEach(ch=>{
+    if(state.actividades.has(ch.dataset.v))ch.classList.add('on');
   });
   const jn=p.get(CFG.search.urlParam);
   if(jn && CFG.hasGameSearch){const j=JUEGOS.find(x=>normTxt(x.nombre)===normTxt(jn))||gameMatches(jn)[0]; if(j)selectGame(j);}
