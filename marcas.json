@@ -145,6 +145,10 @@
    },
    "garage-poblenou": {
     "fuente": "carta-sin-fecha"
+   },
+   "cervexaria-o-flanagan-s-santiago-de-compostela": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-09"
    }
   }
  },
@@ -265,6 +269,14 @@
   "bares": {
    "yakka-la-alberca": {
     "fuente": "carta-sin-fecha"
+   },
+   "galway-irish-tavern-o-milladoiro": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-28"
+   },
+   "galway-irish-tavern-ciempozuelos-ciempozuelos": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-28"
    }
   }
  },
@@ -343,6 +355,10 @@
   "bares": {
    "la-mundial": {
     "fuente": "carta-sin-fecha"
+   },
+   "o-higgins-irish-bar-sant-antoni-de-calonge": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-03-15"
    }
   }
  },
@@ -2400,6 +2416,10 @@
   "bares": {
    "bihotz": {
     "fuente": "visto-untappd"
+   },
+   "hannigan-sons-irish-pub-granada": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-21"
    }
   }
  },
@@ -4347,6 +4367,14 @@
   "bares": {
    "leurope": {
     "fuente": "visto-untappd"
+   },
+   "special-horse-irish-pub-paterna": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "barry-s-irish-pub-leon": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-25"
    }
   }
  },
@@ -6053,6 +6081,82 @@
   "bares": {
    "tyris-on-tap": {
     "fuente": "visto-untappd"
+   },
+   "james-joyce-irish-pub-madrid-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-02"
+   },
+   "the-trinity-irish-bar-chipiona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-12"
+   },
+   "the-square-irish-pub-chipiona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-12"
+   },
+   "antiquary-irish-pub-rota-rota": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-19"
+   },
+   "gallagher-s-irish-tavern-la-zubia": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-04-19"
+   },
+   "daly-s-the-cobblestone-granada": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-11"
+   },
+   "shamrock-palma-palma": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-12"
+   },
+   "the-wild-irish-pub-sant-vicent-del-raspeig": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-07"
+   },
+   "cafe-rock-irlandes-malaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-08-23"
+   },
+   "old-dublin-alcazar-de-san-juan": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-08"
+   },
+   "cerveceria-la-celtica-leon": {
+    "fuente": "visto-untappd",
+    "fecha": "2024-04-06"
+   },
+   "the-shamrock-bar-eatery-puerto-de-santa-maria-el-puerto-de-sta-maria": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-05"
+   },
+   "taberna-shamrock-hoznayo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-07"
+   },
+   "the-irish-temple-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-05"
+   },
+   "dublin-bar-logrono": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-08"
+   },
+   "the-irish-temple-fuenlabrada": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-05"
+   },
+   "irishman-old-town-marbella-marbella": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-01"
+   },
+   "pub-la-perla-negra-irish-club-salamanca-salamanca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-01"
+   },
+   "kelly-s-donostia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-26"
    }
   }
  },
@@ -6234,6 +6338,7597 @@
    "birreria": {
     "fuente": "menu-externo",
     "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Karlsquell Craft Beer Artesana",
+  "familia": "karlsquell craft beer artesana",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "james-joyce-irish-pub-madrid-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-06"
+   }
+  }
+ },
+ {
+  "nombre": "Guinness Foreign Extra Stout",
+  "familia": "guinness foreign extra stout",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "james-joyce-irish-pub-madrid-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-29"
+   }
+  }
+ },
+ {
+  "nombre": "Madrí Excepcional",
+  "familia": "madri excepcional",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "james-joyce-irish-pub-madrid-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-24"
+   },
+   "the-all-blacks-irish-pub-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-08"
+   },
+   "flahertys-irish-bar-ibiza-sant-antoni-de-portmany": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-22"
+   },
+   "murphy-s-ibiza-sant-josep-de-sa-talaia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-22"
+   }
+  }
+ },
+ {
+  "nombre": "Weihenstephaner Hefeweissbier",
+  "familia": "weihenstephaner hefeweissbier",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "collin-s-irish-tavern-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-09"
+   }
+  }
+ },
+ {
+  "nombre": "O'Hara's Irish Red",
+  "familia": "o'hara's irish red",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "collin-s-irish-tavern-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-09"
+   }
+  }
+ },
+ {
+  "nombre": "Imperial Russian Stout",
+  "familia": "imperial russian stout",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "collin-s-irish-tavern-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-05"
+   }
+  }
+ },
+ {
+  "nombre": "Santa's Cat",
+  "familia": "santa's cat",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "collin-s-irish-tavern-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-05"
+   }
+  }
+ },
+ {
+  "nombre": "Mahou Clásica",
+  "familia": "mahou clasica",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-cavern-irish-pub-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   }
+  }
+ },
+ {
+  "nombre": "Blanche de Namur",
+  "familia": "blanche de namur",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-cavern-irish-pub-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-23"
+   }
+  }
+ },
+ {
+  "nombre": "Chouffe Framboise",
+  "familia": "chouffe framboise",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-cavern-irish-pub-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-14"
+   }
+  }
+ },
+ {
+  "nombre": "Chouffe Cherry",
+  "familia": "chouffe cherry",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-cavern-irish-pub-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-14"
+   }
+  }
+ },
+ {
+  "nombre": "Jackpot Hazy IPA",
+  "familia": "jackpot hazy ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-cavern-irish-pub-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-10"
+   },
+   "tramore-irish-tavern-leganes": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-04-12"
+   }
+  }
+ },
+ {
+  "nombre": "Hop House 13 Lager",
+  "familia": "hop house 13 lager",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-irish-rover-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "gallagher-s-irish-tavern-la-zubia": {
+    "fuente": "visto-untappd",
+    "fecha": "2024-12-31"
+   },
+   "the-museum-pub-irlandes-malaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-08"
+   },
+   "flahertys-irish-bar-ibiza-sant-antoni-de-portmany": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-19"
+   },
+   "mckiernans-girona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-03"
+   },
+   "o-briens-toledo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-05"
+   },
+   "irish-pub-perfiles-aranjuez": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-09"
+   },
+   "irish-pub-people-don-benito": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-05"
+   },
+   "dubliner-s-alacant": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-23"
+   },
+   "pub-dubliners-alicante-alacant": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-23"
+   },
+   "dubliner-s-rambla-alicante": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-23"
+   },
+   "murphy-s-ibiza-sant-josep-de-sa-talaia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-19"
+   },
+   "morrigan-taverna-irlandesa-figueres": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-03"
+   },
+   "hannigan-sons-irish-pub-granada": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-30"
+   }
+  }
+ },
+ {
+  "nombre": "Guinness Draught",
+  "familia": "guinness draught",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-irish-rover-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-09"
+   },
+   "o-donoghue-s-jerez-de-la-frontera": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-12-09"
+   },
+   "o-donoghue-s-jerez-centro-jerez-de-la-frontera": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-12-09"
+   },
+   "o-donoghue-s-el-puerto-de-sta-maria": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-12-09"
+   },
+   "leo-s-irish-pub-estepona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-04"
+   },
+   "daly-s-the-cobblestone-granada": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-02-14"
+   },
+   "the-irish-table-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2024-01-16"
+   },
+   "the-claddagh-irish-bar-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2024-01-16"
+   },
+   "vip-irish-tavern-sport-pub-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2024-01-16"
+   },
+   "irish-ana-s-bar-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2024-01-16"
+   },
+   "irish-pub-sant-agusti": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-04"
+   },
+   "murphy-s-irish-pub-lanzarote-la-playa": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-07"
+   },
+   "the-harp-playa-blanca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-18"
+   },
+   "finnegans-wake-bar-kitchen-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-21"
+   },
+   "the-big-tree-irish-pub-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-27"
+   },
+   "nellys-irish-bar-lanzarote": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-27"
+   },
+   "old-irish-pub-lloret-de-mar": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-01"
+   },
+   "classic-irish-pub-oviedo": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-01-31"
+   },
+   "the-1916-irish-pub-cerdanyola-del-valles": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-02"
+   },
+   "o-briens-toledo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-13"
+   },
+   "irish-pub-perfiles-aranjuez": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-09"
+   },
+   "irish-pub-people-don-benito": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-13"
+   },
+   "the-wild-irish-pub-sant-vicent-del-raspeig": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-20"
+   },
+   "connemara-irish-pub-huesca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "tir-na-nog-irish-bar-grill-torrevieja": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "paddy-flaherty-irish-tavern-valladolid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   },
+   "the-molly-malone-puerto-de-la-cruz": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-10-19"
+   },
+   "j-mullin-s-gastro-torrevieja": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-11"
+   },
+   "old-town-irish-pub-night-club-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-30"
+   },
+   "biddy-mulligan-s-irish-pub-la-cala-de-mijas": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "saint-anthony-s-irish-pub-valencia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-27"
+   },
+   "paddy-s-point-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-09-27"
+   },
+   "the-temple-bar-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "o-reilly-s-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "o-neill-s-bar-palmanova": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-28"
+   },
+   "flanagan-s-irish-pub-el-campello": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-22"
+   },
+   "the-irish-oak-l-a-playa-de-las-americas": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-07-01"
+   },
+   "the-dubliner-salou": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   },
+   "mccarthy-s-bar-barcelona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-24"
+   },
+   "molly-malone-valladolid": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-10-19"
+   },
+   "slattery-s-traditional-irish-bar-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-04"
+   },
+   "claddagh-irish-bar-playa-de-las-americas": {
+    "fuente": "visto-untappd",
+    "fecha": "2024-01-16"
+   },
+   "the-new-coffee-irish-pub-nuevo-portil": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-16"
+   },
+   "scruffy-murphy-s-benalmadena": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-31"
+   },
+   "pub-dublin-road-jaca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-02"
+   },
+   "the-guinness-bar-benidorm": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-07"
+   },
+   "molly-malone-s-malaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-10-19"
+   },
+   "dublin-house-castello-de-la-plana": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   },
+   "st-patrick-el-puerto-de-sta-maria": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-09"
+   },
+   "murphy-s-bar-bistro-salou": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   },
+   "taberna-shamrock-hoznayo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-27"
+   },
+   "grace-o-malley-irish-pub-colmenar-viejo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-06"
+   },
+   "galway-irish-tavern-o-milladoiro": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-08"
+   },
+   "la-fontana-de-oro-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-16"
+   },
+   "cafe-dublin-vitoria-gasteiz": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-01"
+   },
+   "irish-pub-brendan-s-isle-moreaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2019-11-27"
+   },
+   "restaurante-pipers-irish-algorta": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-22"
+   },
+   "hole-in-the-wall-irish-pub-playa-de-las-americas": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-03"
+   },
+   "special-horse-irish-pub-paterna": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-31"
+   },
+   "the-blacksmith-irish-pub-baiona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-19"
+   },
+   "dublin-irish-tavern-ceuta-ceuta": {
+    "fuente": "visto-untappd",
+    "fecha": "2024-10-01"
+   },
+   "belfast-donostia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-09"
+   },
+   "cafe-dublin-irish-pub-zaragoza": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   },
+   "the-donegal-irish-pub-portugalete": {
+    "fuente": "visto-untappd",
+    "fecha": "2019-04-21"
+   },
+   "gaelic-irish-pub-coll-den-rabassa": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-18"
+   },
+   "bar-molly-malone-salamanca": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-10-19"
+   },
+   "the-dubliner-santa-cruz-de-tenerife": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-06"
+   },
+   "brown-s-irish-tavern-punta-umbria": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-29"
+   },
+   "temple-bar-salou": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "galway-irish-tavern-ciempozuelos-ciempozuelos": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-08"
+   },
+   "molly-malones-san-bartolome-de-tirajana": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-29"
+   },
+   "hannigan-sons-irish-pub-granada": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   },
+   "kelly-s-donostia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-26"
+   },
+   "shamrock-irish-bar-valladolid": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-03-21"
+   },
+   "dubliner-playa-de-las-americas": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-26"
+   },
+   "o-connell-st-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-20"
+   },
+   "hogan-s-irish-tavern-vizcaya": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "pub-the-irish-viking-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-23"
+   },
+   "the-crow-s-nest-irish-pub-boadilla-del-monte": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-11"
+   }
+  }
+ },
+ {
+  "nombre": "Heineken",
+  "familia": "heineken",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-irish-rover-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-08"
+   },
+   "morrissey-s-irish-pub-malaga": {
+    "fuente": "visto-untappd"
+   },
+   "toms-irish-bar-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-25"
+   },
+   "shamrock-irish-tavern-galapagar-galapagar": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-07"
+   },
+   "the-temple-bar-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "o-malleys-restaurant-l-estartit": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-31"
+   },
+   "taberna-shamrock-hoznayo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-27"
+   },
+   "healy-s-irish-bar-estepona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-22"
+   },
+   "temple-bar-salou": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   }
+  }
+ },
+ {
+  "nombre": "Münchner Hell / Münchner Lager / Original Munich Lager",
+  "familia": "munchner hell / munchner lager / original munich lager",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-irish-rover-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-08"
+   }
+  }
+ },
+ {
+  "nombre": "Dorada Pilsen",
+  "familia": "dorada pilsen",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-donoghue-s-jerez-de-la-frontera": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-25"
+   },
+   "o-donoghue-s-jerez-centro-jerez-de-la-frontera": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-25"
+   },
+   "o-donoghue-s-el-puerto-de-sta-maria": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-25"
+   },
+   "paddy-s-beach-bar-maspalomas": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-02"
+   },
+   "the-harp-playa-blanca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-05"
+   },
+   "the-big-tree-irish-pub-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-02"
+   },
+   "nellys-irish-bar-lanzarote": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-02"
+   },
+   "paddys-bar-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-02"
+   }
+  }
+ },
+ {
+  "nombre": "Desperados Original",
+  "familia": "desperados original",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-donoghue-s-jerez-de-la-frontera": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-30"
+   },
+   "o-donoghue-s-jerez-centro-jerez-de-la-frontera": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-30"
+   },
+   "o-donoghue-s-el-puerto-de-sta-maria": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-30"
+   }
+  }
+ },
+ {
+  "nombre": "Kopparberg Mixed Fruit (4.0%)",
+  "familia": "kopparberg mixed fruit (4.0%)",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-donoghue-s-jerez-de-la-frontera": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-30"
+   },
+   "o-donoghue-s-jerez-centro-jerez-de-la-frontera": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-30"
+   },
+   "o-donoghue-s-el-puerto-de-sta-maria": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-30"
+   }
+  }
+ },
+ {
+  "nombre": "Pauwel Kwak",
+  "familia": "pauwel kwak",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-trinity-irish-bar-chipiona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-07"
+   },
+   "the-square-irish-pub-chipiona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-07"
+   },
+   "irish-corner-pub-cerveceria-salamanca-salamanca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-27"
+   }
+  }
+ },
+ {
+  "nombre": "Hefe-Weißbier / Hefe-Weizen / Weissbier",
+  "familia": "hefe-weißbier / hefe-weizen / weissbier",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-trinity-irish-bar-chipiona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-24"
+   },
+   "the-square-irish-pub-chipiona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-24"
+   },
+   "shamrock-palma-palma": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-06"
+   },
+   "the-1916-irish-pub-cerdanyola-del-valles": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-10-24"
+   },
+   "dubliner-playa-de-las-americas": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-16"
+   }
+  }
+ },
+ {
+  "nombre": "Imparable",
+  "familia": "imparable",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-trinity-irish-bar-chipiona": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-10-12"
+   },
+   "the-square-irish-pub-chipiona": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-10-12"
+   }
+  }
+ },
+ {
+  "nombre": "Murphy's Irish Red",
+  "familia": "murphy's irish red",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "antiquary-irish-pub-rota-rota": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-21"
+   },
+   "morrissey-s-irish-pub-malaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-06"
+   },
+   "shamrock-palma-palma": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-19"
+   },
+   "the-irish-tavern-port-d-alcudia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-07"
+   },
+   "toms-irish-bar-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-14"
+   },
+   "old-irish-pub-lloret-de-mar": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   },
+   "mckiernans-girona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-29"
+   },
+   "o-briens-toledo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-13"
+   },
+   "the-irish-tavern-badajoz-badajoz": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-07"
+   },
+   "irish-pub-people-don-benito": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-13"
+   },
+   "the-irish-tavern-l-alfas-del-pi": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-07"
+   },
+   "the-wild-irish-pub-sant-vicent-del-raspeig": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-22"
+   },
+   "red-door-irish-tavern-benidorm": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-07"
+   },
+   "the-shamrock-irish-pub-benidorm-benidorm": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "morrigan-taverna-irlandesa-figueres": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-29"
+   }
+  }
+ },
+ {
+  "nombre": "El Águila Sin Filtrar",
+  "familia": "el aguila sin filtrar",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "antiquary-irish-pub-rota-rota": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-10"
+   },
+   "the-guinness-house-palma": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "bar-molly-malone-palma": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-25"
+   },
+   "dubliner-s-alacant": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-01"
+   },
+   "o-hara-alacant": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-28"
+   },
+   "o-hara-irish-pub-alacant": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-28"
+   },
+   "pub-dubliners-alicante-alacant": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-01"
+   },
+   "irish-tavern-alicante": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-28"
+   },
+   "dubliner-s-rambla-alicante": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-01"
+   },
+   "dan-o-hara-irish-pub-zaragoza": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-28"
+   },
+   "o-hara-s-irish-pub-pollenca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-28"
+   }
+  }
+ },
+ {
+  "nombre": "1906 Red Vintage",
+  "familia": "1906 red vintage",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "antiquary-irish-pub-rota-rota": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-03-03"
+   },
+   "sherlock-holmes-pub-irish-pub-malaga-malaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-04"
+   },
+   "the-irish-tavern-port-d-alcudia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-24"
+   },
+   "the-irish-tavern-badajoz-badajoz": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-24"
+   },
+   "the-irish-tavern-l-alfas-del-pi": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-24"
+   },
+   "red-door-irish-tavern-benidorm": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-24"
+   }
+  }
+ },
+ {
+  "nombre": "Cruzcampo Pilsen",
+  "familia": "cruzcampo pilsen",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "antiquary-irish-pub-rota-rota": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-03-03"
+   },
+   "sherlock-holmes-pub-irish-pub-malaga-malaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-04"
+   },
+   "the-museum-pub-irlandes-malaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-11"
+   },
+   "the-all-blacks-irish-pub-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-09"
+   },
+   "mucky-o-marras-irish-bar-alcudia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-07"
+   }
+  }
+ },
+ {
+  "nombre": "15&30 TOSTADA",
+  "familia": "15&30 tostada",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-taberna-irlandesa-prado-del-rey": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-11-04"
+   },
+   "la-taberna-irlandesa-gijon": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-11-04"
+   }
+  }
+ },
+ {
+  "nombre": "15&30 Blonde",
+  "familia": "15&30 blonde",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-taberna-irlandesa-prado-del-rey": {
+    "fuente": "visto-untappd",
+    "fecha": "2021-08-06"
+   },
+   "la-taberna-irlandesa-gijon": {
+    "fuente": "visto-untappd",
+    "fecha": "2021-08-06"
+   }
+  }
+ },
+ {
+  "nombre": "La Caperucita",
+  "familia": "la caperucita",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-taberna-irlandesa-prado-del-rey": {
+    "fuente": "visto-untappd",
+    "fecha": "2021-08-06"
+   },
+   "la-taberna-irlandesa-gijon": {
+    "fuente": "visto-untappd",
+    "fecha": "2021-08-06"
+   }
+  }
+ },
+ {
+  "nombre": "Original Ale",
+  "familia": "original ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "leo-s-irish-pub-estepona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-17"
+   },
+   "irish-pub-sant-agusti": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-17"
+   }
+  }
+ },
+ {
+  "nombre": "Magners Original Irish Cider",
+  "familia": "magners original irish cider",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "leo-s-irish-pub-estepona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-04"
+   },
+   "old-town-irish-pub-malaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-08-07"
+   },
+   "casey-duke-s-irish-bar-benalmadena": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-08-07"
+   },
+   "irish-pub-sant-agusti": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-04"
+   },
+   "healy-s-irish-bar-estepona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-31"
+   }
+  }
+ },
+ {
+  "nombre": "Mongozo Mango",
+  "familia": "mongozo mango",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pub-sevilla-este-o-david-s-pub-sevilla": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-13"
+   }
+  }
+ },
+ {
+  "nombre": "Kilkenny",
+  "familia": "kilkenny",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pub-sevilla-este-o-david-s-pub-sevilla": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-13"
+   },
+   "the-harp-playa-blanca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-03"
+   },
+   "molly-malone-s-irish-bar-mataro": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-28"
+   },
+   "michael-collins-barcelona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-07"
+   },
+   "st-patrick-el-puerto-de-sta-maria": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "murphy-s-bar-bistro-salou": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-10"
+   },
+   "galway-irish-tavern-o-milladoiro": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "healy-s-irish-bar-estepona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-19"
+   },
+   "galway-irish-tavern-ciempozuelos-ciempozuelos": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   }
+  }
+ },
+ {
+  "nombre": "Valhalla Aesir",
+  "familia": "valhalla aesir",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pub-sevilla-este-o-david-s-pub-sevilla": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-28"
+   }
+  }
+ },
+ {
+  "nombre": "Ambar Export",
+  "familia": "ambar export",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pub-sevilla-este-o-david-s-pub-sevilla": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-28"
+   },
+   "dublin-house-pamplona-pamplona": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-10-13"
+   }
+  }
+ },
+ {
+  "nombre": "WAYAN",
+  "familia": "wayan",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pub-sevilla-este-o-david-s-pub-sevilla": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-28"
+   }
+  }
+ },
+ {
+  "nombre": "Chimay Cinq Cents (White)",
+  "familia": "chimay cinq cents (white)",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "gallagher-s-irish-tavern-la-zubia": {
+    "fuente": "visto-untappd",
+    "fecha": "2024-12-31"
+   }
+  }
+ },
+ {
+  "nombre": "Märzen",
+  "familia": "marzen",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "gallagher-s-irish-tavern-la-zubia": {
+    "fuente": "visto-untappd",
+    "fecha": "2024-12-31"
+   }
+  }
+ },
+ {
+  "nombre": "Zurbagan",
+  "familia": "zurbagan",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "daly-s-the-cobblestone-granada": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-11"
+   }
+  }
+ },
+ {
+  "nombre": "Coors Banquet",
+  "familia": "coors banquet",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-irish-table-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-04-05"
+   },
+   "the-claddagh-irish-bar-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-04-05"
+   },
+   "vip-irish-tavern-sport-pub-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-04-05"
+   },
+   "irish-ana-s-bar-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-04-05"
+   },
+   "the-emerald-bar-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-29"
+   },
+   "toms-irish-bar-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-19"
+   },
+   "trinity-tavern-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-17"
+   },
+   "claddagh-irish-bar-playa-de-las-americas": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-04-05"
+   },
+   "heaven-irish-tavern-ronda": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-09"
+   }
+  }
+ },
+ {
+  "nombre": "Amstel",
+  "familia": "amstel",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-irish-table-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-06-10"
+   },
+   "old-town-irish-pub-malaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-09-18"
+   },
+   "the-claddagh-irish-bar-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-06-10"
+   },
+   "vip-irish-tavern-sport-pub-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-06-10"
+   },
+   "irish-ana-s-bar-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-06-10"
+   },
+   "casey-duke-s-irish-bar-benalmadena": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-09-18"
+   },
+   "the-guinness-house-palma": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-22"
+   },
+   "harp-and-shamrock-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-22"
+   },
+   "rocky-o-sullivans-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-06"
+   },
+   "saint-anthony-s-irish-pub-valencia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "o-malleys-restaurant-l-estartit": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-09"
+   },
+   "claddagh-irish-bar-playa-de-las-americas": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-06-10"
+   }
+  }
+ },
+ {
+  "nombre": "San Miguel Premium Especial",
+  "familia": "san miguel premium especial",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "wild-rover-irish-bar-los-boliches-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "saint-patrick-s-pub-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "mediterraneo-by-saint-patricks-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "murphy-s-irish-pub-lanzarote-la-playa": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-07"
+   }
+  }
+ },
+ {
+  "nombre": "Stella Artois",
+  "familia": "stella artois",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "wild-rover-irish-bar-los-boliches-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-02"
+   },
+   "saint-patrick-s-pub-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-02"
+   },
+   "mediterraneo-by-saint-patricks-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-02"
+   },
+   "flahertys-irish-bar-ibiza-sant-antoni-de-portmany": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-22"
+   },
+   "o-hara-alacant": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-03"
+   },
+   "o-hara-irish-pub-alacant": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-03"
+   },
+   "irish-tavern-alicante": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-03"
+   },
+   "murphy-s-ibiza-sant-josep-de-sa-talaia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-22"
+   },
+   "nelly-mc-s-irish-bar-marbella": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-05"
+   },
+   "dan-o-hara-irish-pub-zaragoza": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-03"
+   },
+   "morrigan-irish-pub-lugo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-03"
+   },
+   "o-hara-s-irish-pub-pollenca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-03"
+   }
+  }
+ },
+ {
+  "nombre": "El Águila Dorada",
+  "familia": "el aguila dorada",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "morrissey-s-irish-pub-malaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-05"
+   },
+   "mucky-o-marras-irish-bar-alcudia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-06"
+   },
+   "cervexaria-o-flanagan-s-santiago-de-compostela": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "taberna-shamrock-hoznayo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-28"
+   }
+  }
+ },
+ {
+  "nombre": "Orchard Thieves Cider Apple",
+  "familia": "orchard thieves cider apple",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "old-town-irish-pub-malaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2018-09-19"
+   },
+   "casey-duke-s-irish-bar-benalmadena": {
+    "fuente": "visto-untappd",
+    "fecha": "2018-09-19"
+   },
+   "dublin-bay-valladolid": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-03-13"
+   }
+  }
+ },
+ {
+  "nombre": "Strongbow",
+  "familia": "strongbow",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "old-town-irish-pub-malaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2017-06-17"
+   },
+   "casey-duke-s-irish-bar-benalmadena": {
+    "fuente": "visto-untappd",
+    "fecha": "2017-06-17"
+   },
+   "harp-and-shamrock-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-22"
+   },
+   "the-1916-irish-pub-cerdanyola-del-valles": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-10-24"
+   },
+   "tir-na-nog-irish-bar-grill-torrevieja": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   }
+  }
+ },
+ {
+  "nombre": "Lambic Kriek",
+  "familia": "lambic kriek",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "sherlock-holmes-pub-irish-pub-malaga-malaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-06"
+   }
+  }
+ },
+ {
+  "nombre": "Alhambra Verde",
+  "familia": "alhambra verde",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "sherlock-holmes-pub-irish-pub-malaga-malaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-06"
+   }
+  }
+ },
+ {
+  "nombre": "Alhambra Reserva Roja",
+  "familia": "alhambra reserva roja",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "sherlock-holmes-pub-irish-pub-malaga-malaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-06"
+   }
+  }
+ },
+ {
+  "nombre": "Cruzcampo Especial",
+  "familia": "cruzcampo especial",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-museum-pub-irlandes-malaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-06"
+   },
+   "irishman-old-town-marbella-marbella": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-06"
+   }
+  }
+ },
+ {
+  "nombre": "Sheen",
+  "familia": "sheen",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-museum-pub-irlandes-malaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-02"
+   }
+  }
+ },
+ {
+  "nombre": "La Chouffe Blonde",
+  "familia": "la chouffe blonde",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-hara-irish-pub-malaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-14"
+   },
+   "o-hara-alacant": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-27"
+   },
+   "o-hara-irish-pub-alacant": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-27"
+   },
+   "irish-tavern-alicante": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-27"
+   },
+   "dan-o-hara-irish-pub-zaragoza": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-27"
+   },
+   "o-hara-s-irish-pub-pollenca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-27"
+   }
+  }
+ },
+ {
+  "nombre": "El Alcázar (6%)",
+  "familia": "el alcazar (6%)",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-hara-irish-pub-malaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-14"
+   }
+  }
+ },
+ {
+  "nombre": "O'Hara's Irish Stout",
+  "familia": "o'hara's irish stout",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-hara-irish-pub-malaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-14"
+   }
+  }
+ },
+ {
+  "nombre": "Estrella Galicia Especial",
+  "familia": "estrella galicia especial",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-all-blacks-irish-pub-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-09"
+   },
+   "kelly-s-donostia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-24"
+   }
+  }
+ },
+ {
+  "nombre": "Punk IPA",
+  "familia": "punk ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-all-blacks-irish-pub-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-07"
+   }
+  }
+ },
+ {
+  "nombre": "Palang",
+  "familia": "palang",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-tavern-pub-guinness-sports-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-06"
+   }
+  }
+ },
+ {
+  "nombre": "Jamba",
+  "familia": "jamba",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-tavern-pub-guinness-sports-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-03"
+   }
+  }
+ },
+ {
+  "nombre": "Unreal",
+  "familia": "unreal",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-tavern-pub-guinness-sports-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-31"
+   }
+  }
+ },
+ {
+  "nombre": "Foster's Lager",
+  "familia": "foster's lager",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "shamrock-palma-palma": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-12"
+   }
+  }
+ },
+ {
+  "nombre": "Classic Apple",
+  "familia": "classic apple",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "bar-molly-malone-palma": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-09-07"
+   },
+   "la-fontana-de-oro-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-22"
+   }
+  }
+ },
+ {
+  "nombre": "Organic Chocolate Stout",
+  "familia": "organic chocolate stout",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-irish-tavern-port-d-alcudia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-15"
+   },
+   "the-irish-tavern-badajoz-badajoz": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-15"
+   },
+   "the-irish-tavern-l-alfas-del-pi": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-15"
+   },
+   "red-door-irish-tavern-benidorm": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-15"
+   }
+  }
+ },
+ {
+  "nombre": "Paulaner Hefe-Weißbier Dunkel / Weissbier Dunkel",
+  "familia": "paulaner hefe-weißbier dunkel / weissbier dunkel",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-irish-tavern-port-d-alcudia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-15"
+   },
+   "the-irish-tavern-badajoz-badajoz": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-15"
+   },
+   "the-irish-tavern-l-alfas-del-pi": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-15"
+   },
+   "red-door-irish-tavern-benidorm": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-15"
+   }
+  }
+ },
+ {
+  "nombre": "El Águila",
+  "familia": "el aguila",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "mucky-o-marras-irish-bar-alcudia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "old-irish-pub-lloret-de-mar": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-09"
+   },
+   "dubliner-s-alacant": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-23"
+   },
+   "pub-dubliners-alicante-alacant": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-23"
+   },
+   "dubliner-s-rambla-alicante": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-23"
+   },
+   "irishman-old-town-marbella-marbella": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-03"
+   }
+  }
+ },
+ {
+  "nombre": "Amstel 0.0",
+  "familia": "amstel 0.0",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "mucky-o-marras-irish-bar-alcudia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-07"
+   }
+  }
+ },
+ {
+  "nombre": "Busch Light",
+  "familia": "busch light",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-emerald-bar-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-10"
+   }
+  }
+ },
+ {
+  "nombre": "Budweiser Zero",
+  "familia": "budweiser zero",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-emerald-bar-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-29"
+   }
+  }
+ },
+ {
+  "nombre": "Wingman Session IPA",
+  "familia": "wingman session ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "harp-and-shamrock-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-27"
+   },
+   "molly-malone-s-irish-bar-mataro": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-03"
+   }
+  }
+ },
+ {
+  "nombre": "Summer Ale",
+  "familia": "summer ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "harp-and-shamrock-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-02-21"
+   },
+   "the-dublin-bar-rocafort": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-26"
+   }
+  }
+ },
+ {
+  "nombre": "Rambler’s Black Dunkel Style",
+  "familia": "rambler’s black dunkel style",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "rocky-o-sullivans-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   }
+  }
+ },
+ {
+  "nombre": "Corona Extra",
+  "familia": "corona extra",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "toms-irish-bar-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-19"
+   },
+   "cafe-dublin-vitoria-gasteiz": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-28"
+   },
+   "the-dubliner-santa-cruz-de-tenerife": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-07"
+   },
+   "finnegan-s-live-music-irish-pub-magaluf": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-09-06"
+   }
+  }
+ },
+ {
+  "nombre": "Caffrey's Premium Irish Ale",
+  "familia": "caffrey's premium irish ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "toms-irish-bar-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-19"
+   },
+   "paddy-s-beach-bar-maspalomas": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-07"
+   },
+   "paddys-bar-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-07"
+   },
+   "the-red-lion-irish-pub-huelva-huelva": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-16"
+   }
+  }
+ },
+ {
+  "nombre": "Birra Moretti L'Autentica / Ricetta Originale",
+  "familia": "birra moretti l'autentica / ricetta originale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "flahertys-irish-bar-ibiza-sant-antoni-de-portmany": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-22"
+   },
+   "murphy-s-ibiza-sant-josep-de-sa-talaia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-22"
+   },
+   "taberna-shamrock-hoznayo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-04"
+   },
+   "molly-malones-san-bartolome-de-tirajana": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-29"
+   }
+  }
+ },
+ {
+  "nombre": "Victoria Málaga",
+  "familia": "victoria malaga",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "paddy-s-beach-bar-maspalomas": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-03-01"
+   },
+   "paddys-bar-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-03-01"
+   },
+   "irishman-old-town-marbella-marbella": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-15"
+   }
+  }
+ },
+ {
+  "nombre": "Kopparberg Strawberry & Lime",
+  "familia": "kopparberg strawberry & lime",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "murphy-s-irish-pub-lanzarote-la-playa": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-15"
+   }
+  }
+ },
+ {
+  "nombre": "Mahou Cinco Estrellas",
+  "familia": "mahou cinco estrellas",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "murphy-s-irish-pub-lanzarote-la-playa": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-15"
+   },
+   "o-neill-s-bar-palmanova": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-07"
+   }
+  }
+ },
+ {
+  "nombre": "Affligem Dubbel",
+  "familia": "affligem dubbel",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "dublin-irish-pub-arrasate-mondragon": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-03-14"
+   },
+   "dublin-irish-pub-sant-joan-despi": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-03-14"
+   },
+   "irish-corner-pub-cerveceria-salamanca-salamanca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-23"
+   },
+   "pub-dublin-house-gasteiz-araba-vitoria-gasteiz": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-03-14"
+   },
+   "the-irish-temple-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-07"
+   },
+   "the-irish-temple-fuenlabrada": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-07"
+   }
+  }
+ },
+ {
+  "nombre": "Aiako Harria / Peñas De Aia",
+  "familia": "aiako harria / penas de aia",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "dublin-irish-pub-arrasate-mondragon": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-11-15"
+   },
+   "dublin-irish-pub-sant-joan-despi": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-11-15"
+   },
+   "pub-dublin-house-gasteiz-araba-vitoria-gasteiz": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-11-15"
+   }
+  }
+ },
+ {
+  "nombre": "Boost",
+  "familia": "boost",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "dublin-irish-pub-arrasate-mondragon": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-05-09"
+   },
+   "dublin-irish-pub-sant-joan-despi": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-05-09"
+   },
+   "pub-dublin-house-gasteiz-araba-vitoria-gasteiz": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-05-09"
+   }
+  }
+ },
+ {
+  "nombre": "Gilda",
+  "familia": "gilda",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "dublin-irish-pub-arrasate-mondragon": {
+    "fuente": "visto-untappd",
+    "fecha": "2024-08-01"
+   },
+   "dublin-irish-pub-sant-joan-despi": {
+    "fuente": "visto-untappd",
+    "fecha": "2024-08-01"
+   },
+   "pub-dublin-house-gasteiz-araba-vitoria-gasteiz": {
+    "fuente": "visto-untappd",
+    "fecha": "2024-08-01"
+   }
+  }
+ },
+ {
+  "nombre": "Snapper Rocks",
+  "familia": "snapper rocks",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "dublin-irish-pub-arrasate-mondragon": {
+    "fuente": "visto-untappd",
+    "fecha": "2024-07-31"
+   },
+   "dublin-irish-pub-sant-joan-despi": {
+    "fuente": "visto-untappd",
+    "fecha": "2024-07-31"
+   },
+   "pub-dublin-house-gasteiz-araba-vitoria-gasteiz": {
+    "fuente": "visto-untappd",
+    "fecha": "2024-07-31"
+   }
+  }
+ },
+ {
+  "nombre": "Tropical",
+  "familia": "tropical",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "finnegans-wake-bar-kitchen-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-29"
+   },
+   "the-big-tree-irish-pub-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-24"
+   },
+   "nellys-irish-bar-lanzarote": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-24"
+   }
+  }
+ },
+ {
+  "nombre": "Molly's \"Lighter\" Lager",
+  "familia": "molly's \"lighter\" lager",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "molly-malone-s-irish-bar-mataro": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-25"
+   }
+  }
+ },
+ {
+  "nombre": "Grimbergen Blonde",
+  "familia": "grimbergen blonde",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "molly-malone-s-irish-bar-mataro": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-28"
+   },
+   "galway-irish-tavern-o-milladoiro": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-28"
+   },
+   "galway-irish-tavern-ciempozuelos-ciempozuelos": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-28"
+   },
+   "o-connell-st-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-26"
+   }
+  }
+ },
+ {
+  "nombre": "18/70",
+  "familia": "18/70",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "mckiernans-girona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-02"
+   },
+   "o-briens-toledo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-27"
+   },
+   "cervexaria-o-flanagan-s-santiago-de-compostela": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "irish-pub-people-don-benito": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-27"
+   },
+   "dubliner-s-alacant": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-26"
+   },
+   "pub-dubliners-alicante-alacant": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-26"
+   },
+   "dubliner-s-rambla-alicante": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-26"
+   },
+   "the-irish-temple-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "morrigan-taverna-irlandesa-figueres": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-02"
+   },
+   "the-irish-temple-fuenlabrada": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   }
+  }
+ },
+ {
+  "nombre": "St. Johns River IPA",
+  "familia": "st. johns river ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "classic-irish-pub-oviedo": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-01-05"
+   }
+  }
+ },
+ {
+  "nombre": "Red Ale",
+  "familia": "red ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "classic-irish-pub-oviedo": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-01-05"
+   },
+   "hogan-s-irish-tavern-vizcaya": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   }
+  }
+ },
+ {
+  "nombre": "Pumpkinhead Ale",
+  "familia": "pumpkinhead ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "classic-irish-pub-oviedo": {
+    "fuente": "visto-untappd",
+    "fecha": "2024-11-02"
+   }
+  }
+ },
+ {
+  "nombre": "Odin",
+  "familia": "odin",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-1916-irish-pub-cerdanyola-del-valles": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-08-02"
+   }
+  }
+ },
+ {
+  "nombre": "Amstel Oro 0,0 Tostada",
+  "familia": "amstel oro 0,0 tostada",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-briens-toledo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-06"
+   },
+   "irish-pub-people-don-benito": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-06"
+   }
+  }
+ },
+ {
+  "nombre": "Franciscaner",
+  "familia": "franciscaner",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "tramore-irish-tavern-leganes": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-21"
+   }
+  }
+ },
+ {
+  "nombre": "Capaz",
+  "familia": "capaz",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "tramore-irish-tavern-leganes": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-19"
+   }
+  }
+ },
+ {
+  "nombre": "Go Mary!",
+  "familia": "go mary!",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "tramore-irish-tavern-leganes": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-12-19"
+   }
+  }
+ },
+ {
+  "nombre": "Tipo Trigo",
+  "familia": "tipo trigo",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "tramore-irish-tavern-leganes": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-06-10"
+   }
+  }
+ },
+ {
+  "nombre": "51st State IPA",
+  "familia": "51st state ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "irish-pub-perfiles-aranjuez": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-06"
+   }
+  }
+ },
+ {
+  "nombre": "Cherry Fruited Gose",
+  "familia": "cherry fruited gose",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "cervexaria-o-flanagan-s-santiago-de-compostela": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   }
+  }
+ },
+ {
+  "nombre": "Amstel Original Turrón",
+  "familia": "amstel original turron",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "dubliner-s-alacant": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-19"
+   },
+   "pub-dubliners-alicante-alacant": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-19"
+   },
+   "dubliner-s-rambla-alicante": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-19"
+   }
+  }
+ },
+ {
+  "nombre": "Rivera Reposada",
+  "familia": "rivera reposada",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-hara-alacant": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   },
+   "o-hara-irish-pub-alacant": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   },
+   "irish-tavern-alicante": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   },
+   "dan-o-hara-irish-pub-zaragoza": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   },
+   "o-hara-s-irish-pub-pollenca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   }
+  }
+ },
+ {
+  "nombre": "Chouffe IPA",
+  "familia": "chouffe ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-hara-alacant": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-27"
+   },
+   "o-hara-irish-pub-alacant": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-27"
+   },
+   "irish-tavern-alicante": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-27"
+   },
+   "dan-o-hara-irish-pub-zaragoza": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-27"
+   },
+   "o-hara-s-irish-pub-pollenca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-27"
+   }
+  }
+ },
+ {
+  "nombre": "Paulaner Salvator",
+  "familia": "paulaner salvator",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-wild-irish-pub-sant-vicent-del-raspeig": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   }
+  }
+ },
+ {
+  "nombre": "PIP - Super IPA DDH",
+  "familia": "pip - super ipa ddh",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "connemara-irish-pub-huesca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-20"
+   }
+  }
+ },
+ {
+  "nombre": "NEIPA",
+  "familia": "neipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "connemara-irish-pub-huesca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-19"
+   }
+  }
+ },
+ {
+  "nombre": "Connemara Gold Ale",
+  "familia": "connemara gold ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "connemara-irish-pub-huesca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-19"
+   }
+  }
+ },
+ {
+  "nombre": "Guinness Draught 0.0",
+  "familia": "guinness draught 0.0",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "connemara-irish-pub-huesca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-11"
+   }
+  }
+ },
+ {
+  "nombre": "Voodoo Ranger Atomic Pumpkin",
+  "familia": "voodoo ranger atomic pumpkin",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "tir-na-nog-irish-bar-grill-torrevieja": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-09"
+   }
+  }
+ },
+ {
+  "nombre": "Mortal Bloom",
+  "familia": "mortal bloom",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "tir-na-nog-irish-bar-grill-torrevieja": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-29"
+   }
+  }
+ },
+ {
+  "nombre": "L'Angelus Triple",
+  "familia": "l'angelus triple",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pub-the-irish-corner-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-20"
+   }
+  }
+ },
+ {
+  "nombre": "Paix Dieu Nova",
+  "familia": "paix dieu nova",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pub-the-irish-corner-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-03-31"
+   }
+  }
+ },
+ {
+  "nombre": "SUPER 8 Export",
+  "familia": "super 8 export",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pub-the-irish-corner-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-03-30"
+   }
+  }
+ },
+ {
+  "nombre": "Kasteel Tropical",
+  "familia": "kasteel tropical",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pub-the-irish-corner-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-03-27"
+   }
+  }
+ },
+ {
+  "nombre": "Paddy's House Stout",
+  "familia": "paddy's house stout",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "paddy-flaherty-irish-tavern-valladolid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Pichón",
+  "familia": "pichon",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "irish-corner-pub-cerveceria-salamanca-salamanca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-07"
+   }
+  }
+ },
+ {
+  "nombre": "Pilsner Urquell",
+  "familia": "pilsner urquell",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "irish-corner-pub-cerveceria-salamanca-salamanca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-27"
+   }
+  }
+ },
+ {
+  "nombre": "Mandanga",
+  "familia": "mandanga",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "irish-corner-pub-cerveceria-salamanca-salamanca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-23"
+   }
+  }
+ },
+ {
+  "nombre": "Fiddlehead IPA",
+  "familia": "fiddlehead ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-dublin-bar-rocafort": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-30"
+   },
+   "murph-s-torrevieja": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-24"
+   }
+  }
+ },
+ {
+  "nombre": "New England Juicy IPA",
+  "familia": "new england juicy ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-dublin-bar-rocafort": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-07"
+   }
+  }
+ },
+ {
+  "nombre": "Mango Cart",
+  "familia": "mango cart",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-dublin-bar-rocafort": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-16"
+   },
+   "scanlons-shamrock-irish-pub-benalmadena": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-23"
+   }
+  }
+ },
+ {
+  "nombre": "Hoppy Lager",
+  "familia": "hoppy lager",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "cafe-rock-irlandes-malaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-08-23"
+   }
+  }
+ },
+ {
+  "nombre": "Bali Hai",
+  "familia": "bali hai",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-celt-irish-bar-los-alcazares": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-11-01"
+   }
+  }
+ },
+ {
+  "nombre": "San Miguel Pale Pilsen",
+  "familia": "san miguel pale pilsen",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-celt-irish-bar-los-alcazares": {
+    "fuente": "visto-untappd",
+    "fecha": "2019-11-07"
+   },
+   "cafetal-reina-fabiola-molly-malone-s-irish-pub-port-de-sagunt": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-15"
+   },
+   "molly-malone-s-irish-pub-leon": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-15"
+   },
+   "pub-molly-malone-bilbao": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-15"
+   }
+  }
+ },
+ {
+  "nombre": "Prost",
+  "familia": "prost",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-celt-irish-bar-los-alcazares": {
+    "fuente": "visto-untappd",
+    "fecha": "2019-11-06"
+   }
+  }
+ },
+ {
+  "nombre": "Bintang Pilsener",
+  "familia": "bintang pilsener",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-celt-irish-bar-los-alcazares": {
+    "fuente": "visto-untappd",
+    "fecha": "2019-09-18"
+   }
+  }
+ },
+ {
+  "nombre": "Cute Hoor Irish Pale Ale",
+  "familia": "cute hoor irish pale ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-molly-malone-puerto-de-la-cruz": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-01-18"
+   },
+   "molly-malone-valladolid": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-01-18"
+   },
+   "molly-malone-s-malaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-01-18"
+   },
+   "bar-molly-malone-salamanca": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-01-18"
+   }
+  }
+ },
+ {
+  "nombre": "Beekon Honey Refresher",
+  "familia": "beekon honey refresher",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-molly-malone-puerto-de-la-cruz": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-09-05"
+   },
+   "molly-malone-valladolid": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-09-05"
+   },
+   "molly-malone-s-malaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-09-05"
+   },
+   "bar-molly-malone-salamanca": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-09-05"
+   }
+  }
+ },
+ {
+  "nombre": "Copper Alt",
+  "familia": "copper alt",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-bailey-irish-pub-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-29"
+   }
+  }
+ },
+ {
+  "nombre": "Citra Pale Ale",
+  "familia": "citra pale ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-bailey-irish-pub-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-20"
+   }
+  }
+ },
+ {
+  "nombre": "Myrcenary Double IPA",
+  "familia": "myrcenary double ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-bailey-irish-pub-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-14"
+   }
+  }
+ },
+ {
+  "nombre": "Townie",
+  "familia": "townie",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-bailey-irish-pub-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-12"
+   }
+  }
+ },
+ {
+  "nombre": "Easy Eddy",
+  "familia": "easy eddy",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-bailey-irish-pub-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-12"
+   }
+  }
+ },
+ {
+  "nombre": "Sculpin",
+  "familia": "sculpin",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "j-mullin-s-gastro-torrevieja": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-01"
+   }
+  }
+ },
+ {
+  "nombre": "Cali Squeeze Blood Orange",
+  "familia": "cali squeeze blood orange",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "j-mullin-s-gastro-torrevieja": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-02"
+   }
+  }
+ },
+ {
+  "nombre": "Breakaway",
+  "familia": "breakaway",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "murph-s-torrevieja": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-28"
+   }
+  }
+ },
+ {
+  "nombre": "Forged Irish Stout",
+  "familia": "forged irish stout",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "murph-s-torrevieja": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-28"
+   }
+  }
+ },
+ {
+  "nombre": "How's It Gose? Key Lime",
+  "familia": "how's it gose? key lime",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "murph-s-torrevieja": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-23"
+   }
+  }
+ },
+ {
+  "nombre": "Murphy's Irish Stout",
+  "familia": "murphy's irish stout",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "murph-s-torrevieja": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-19"
+   },
+   "o-malleys-restaurant-l-estartit": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-06"
+   },
+   "scruffy-murphy-s-benalmadena": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-01"
+   },
+   "the-shamrock-irish-pub-benidorm-benidorm": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "pub-o-connors-vitoria-gasteiz": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-31"
+   }
+  }
+ },
+ {
+  "nombre": "Carlsberg",
+  "familia": "carlsberg",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "old-town-irish-pub-night-club-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-13"
+   },
+   "grace-o-malley-irish-pub-colmenar-viejo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-09"
+   },
+   "special-horse-irish-pub-paterna": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-09"
+   },
+   "dubliner-playa-de-las-americas": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-02"
+   },
+   "pub-the-irish-viking-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-26"
+   }
+  }
+ },
+ {
+  "nombre": "Sidekick IPA",
+  "familia": "sidekick ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "old-dublin-alcazar-de-san-juan": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "dublin-bar-logrono": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   }
+  }
+ },
+ {
+  "nombre": "Coastal IPA",
+  "familia": "coastal ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "old-dublin-alcazar-de-san-juan": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "dublin-bar-logrono": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   }
+  }
+ },
+ {
+  "nombre": "Neck Oil",
+  "familia": "neck oil",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "old-dublin-alcazar-de-san-juan": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "o-malleys-restaurant-l-estartit": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-07"
+   },
+   "o-neill-s-bar-palmanova": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-01"
+   },
+   "scruffy-murphy-s-benalmadena": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-26"
+   },
+   "the-blacksmith-irish-pub-baiona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-05"
+   },
+   "dublin-bar-logrono": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "molly-malones-san-bartolome-de-tirajana": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-16"
+   }
+  }
+ },
+ {
+  "nombre": "Smithwick's",
+  "familia": "smithwick's",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "old-dublin-alcazar-de-san-juan": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   },
+   "flanagan-s-irish-pub-el-campello": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-23"
+   },
+   "mccarthy-s-bar-barcelona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-04"
+   },
+   "slattery-s-traditional-irish-bar-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-04"
+   },
+   "the-new-coffee-irish-pub-nuevo-portil": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-16"
+   },
+   "nelly-mc-s-irish-bar-marbella": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-05"
+   },
+   "grace-o-malley-irish-pub-colmenar-viejo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-05"
+   },
+   "belfast-donostia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   },
+   "bar-deicy-reilly-s-ciudad-real": {
+    "fuente": "visto-untappd",
+    "fecha": "2018-01-19"
+   },
+   "dublin-bar-logrono": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   },
+   "paddy-s-irish-pub-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-09"
+   }
+  }
+ },
+ {
+  "nombre": "Bavarian Pilsner",
+  "familia": "bavarian pilsner",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "biddy-mulligan-s-irish-pub-la-cala-de-mijas": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   }
+  }
+ },
+ {
+  "nombre": "Lager Beer",
+  "familia": "lager beer",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "biddy-mulligan-s-irish-pub-la-cala-de-mijas": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-09"
+   }
+  }
+ },
+ {
+  "nombre": "Session IPA",
+  "familia": "session ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "biddy-mulligan-s-irish-pub-la-cala-de-mijas": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-09"
+   }
+  }
+ },
+ {
+  "nombre": "Lager",
+  "familia": "lager",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "biddy-mulligan-s-irish-pub-la-cala-de-mijas": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-09"
+   },
+   "the-donegal-irish-pub-portugalete": {
+    "fuente": "visto-untappd",
+    "fecha": "2019-02-09"
+   },
+   "pub-o-connors-vitoria-gasteiz": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-12"
+   },
+   "kelly-s-donostia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-21"
+   }
+  }
+ },
+ {
+  "nombre": "Alexander Keith's Galaxy Hop Ale",
+  "familia": "alexander keith's galaxy hop ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "maguires-irish-bar-restaurant-puerto-del-carmen": {
+    "fuente": "visto-untappd",
+    "fecha": "2015-05-10"
+   }
+  }
+ },
+ {
+  "nombre": "Goose IPA",
+  "familia": "goose ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "maguires-irish-bar-restaurant-puerto-del-carmen": {
+    "fuente": "visto-untappd",
+    "fecha": "2015-04-12"
+   },
+   "paddy-s-point-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-09-27"
+   }
+  }
+ },
+ {
+  "nombre": "Strawberry Lager",
+  "familia": "strawberry lager",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "maguires-irish-bar-restaurant-puerto-del-carmen": {
+    "fuente": "visto-untappd",
+    "fecha": "2015-02-26"
+   }
+  }
+ },
+ {
+  "nombre": "Celtic Cream Ale",
+  "familia": "celtic cream ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "maguires-irish-bar-restaurant-puerto-del-carmen": {
+    "fuente": "visto-untappd",
+    "fecha": "2015-02-21"
+   }
+  }
+ },
+ {
+  "nombre": "Turia Stark",
+  "familia": "turia stark",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "saint-anthony-s-irish-pub-valencia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-13"
+   }
+  }
+ },
+ {
+  "nombre": "Tre Cuori",
+  "familia": "tre cuori",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "shamrock-irish-tavern-galapagar-galapagar": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-07"
+   }
+  }
+ },
+ {
+  "nombre": "Cristal",
+  "familia": "cristal",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "shamrock-irish-tavern-galapagar-galapagar": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-05"
+   },
+   "o-higgins-irish-bar-sant-antoni-de-calonge": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-09-19"
+   }
+  }
+ },
+ {
+  "nombre": "Ichnusa Metodo Lento",
+  "familia": "ichnusa metodo lento",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "shamrock-irish-tavern-galapagar-galapagar": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-05"
+   }
+  }
+ },
+ {
+  "nombre": "Duck Duck Goose",
+  "familia": "duck duck goose",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "paddy-s-point-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-11-06"
+   }
+  }
+ },
+ {
+  "nombre": "Toasted Lager",
+  "familia": "toasted lager",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "paddy-s-point-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-09-06"
+   }
+  }
+ },
+ {
+  "nombre": "Ball Lightning Pilsner",
+  "familia": "ball lightning pilsner",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "paddy-s-point-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-06-06"
+   }
+  }
+ },
+ {
+  "nombre": "Maltings Irish Ale",
+  "familia": "maltings irish ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-temple-bar-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   },
+   "temple-bar-salou": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Frida",
+  "familia": "frida",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "saint-patrick-s-tabern-cadiz": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-11"
+   },
+   "st-patrick-s-irish-tavern-albacete": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-11"
+   }
+  }
+ },
+ {
+  "nombre": "Dragon Slayer",
+  "familia": "dragon slayer",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "saint-patrick-s-tabern-cadiz": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-01"
+   },
+   "st-patrick-s-irish-tavern-albacete": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-01"
+   }
+  }
+ },
+ {
+  "nombre": "Nordra DDH Session Hazy IPA",
+  "familia": "nordra ddh session hazy ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "saint-patrick-s-tabern-cadiz": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-01"
+   },
+   "st-patrick-s-irish-tavern-albacete": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-01"
+   }
+  }
+ },
+ {
+  "nombre": "Trappistes Rochefort 10",
+  "familia": "trappistes rochefort 10",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "saint-patrick-s-tabern-cadiz": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-27"
+   },
+   "st-patrick-s-irish-tavern-albacete": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-27"
+   }
+  }
+ },
+ {
+  "nombre": "Peña Blanca",
+  "familia": "pena blanca",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "saint-patrick-s-tabern-cadiz": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-18"
+   },
+   "st-patrick-s-irish-tavern-albacete": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-18"
+   }
+  }
+ },
+ {
+  "nombre": "No Coast IPA",
+  "familia": "no coast ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "trinity-tavern-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-05"
+   }
+  }
+ },
+ {
+  "nombre": "Hopadillo Texas IPA",
+  "familia": "hopadillo texas ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "trinity-tavern-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-27"
+   }
+  }
+ },
+ {
+  "nombre": "Half-Life",
+  "familia": "half-life",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "trinity-tavern-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-05"
+   }
+  }
+ },
+ {
+  "nombre": "Amadeo",
+  "familia": "amadeo",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "trinity-tavern-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-11"
+   }
+  }
+ },
+ {
+  "nombre": "Clásica",
+  "familia": "clasica",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-higgins-irish-bar-sant-antoni-de-calonge": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-04-06"
+   }
+  }
+ },
+ {
+  "nombre": "Tübinger Summer Ale",
+  "familia": "tubinger summer ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-higgins-irish-bar-sant-antoni-de-calonge": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-09-19"
+   }
+  }
+ },
+ {
+  "nombre": "Henninger Premium Lager",
+  "familia": "henninger premium lager",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-reilly-s-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-09"
+   }
+  }
+ },
+ {
+  "nombre": "Maisel & Friends URBAN IPA",
+  "familia": "maisel & friends urban ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-reilly-s-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-09"
+   }
+  }
+ },
+ {
+  "nombre": "Kloster-Gold Dunkel",
+  "familia": "kloster-gold dunkel",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-reilly-s-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-07"
+   }
+  }
+ },
+ {
+  "nombre": "Estrella Damm",
+  "familia": "estrella damm",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-reilly-s-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-06"
+   },
+   "dubliner-bar-santa-ponca-costa-de-la-calma": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-07-29"
+   }
+  }
+ },
+ {
+  "nombre": "Wheat Ale",
+  "familia": "wheat ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-neill-s-irish-pub-corralejo-corralejo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-06"
+   },
+   "mccarthys-irish-pub-corralejo-corralejo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-06"
+   }
+  }
+ },
+ {
+  "nombre": "Brow Ale",
+  "familia": "brow ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-neill-s-irish-pub-corralejo-corralejo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-04"
+   },
+   "mccarthys-irish-pub-corralejo-corralejo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-04"
+   }
+  }
+ },
+ {
+  "nombre": "Golden Ale",
+  "familia": "golden ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-neill-s-irish-pub-corralejo-corralejo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-04"
+   },
+   "mccarthys-irish-pub-corralejo-corralejo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-04"
+   }
+  }
+ },
+ {
+  "nombre": "Pale Ale",
+  "familia": "pale ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-neill-s-irish-pub-corralejo-corralejo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-04"
+   },
+   "mccarthy-s-bar-barcelona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-02"
+   },
+   "cafetal-reina-fabiola-molly-malone-s-irish-pub-port-de-sagunt": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-21"
+   },
+   "molly-malone-s-irish-pub-leon": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-21"
+   },
+   "pub-molly-malone-bilbao": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-21"
+   },
+   "paddy-s-point-irish-bar-restaurant-la-zenia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-20"
+   },
+   "mccarthys-irish-pub-corralejo-corralejo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-04"
+   }
+  }
+ },
+ {
+  "nombre": "Beer cut with Peach",
+  "familia": "beer cut with peach",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-neill-s-bar-palmanova": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   },
+   "murphys-on-the-park-torrevieja": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-09"
+   }
+  }
+ },
+ {
+  "nombre": "Alpacalypse",
+  "familia": "alpacalypse",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-neill-s-bar-palmanova": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-07"
+   }
+  }
+ },
+ {
+  "nombre": "Sant Erwann IPA",
+  "familia": "sant erwann ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "guinness-tavern-salou": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-12-30"
+   }
+  }
+ },
+ {
+  "nombre": "La Bête Blonde",
+  "familia": "la bete blonde",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "guinness-tavern-salou": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-12-28"
+   }
+  }
+ },
+ {
+  "nombre": "La Bête Blanche",
+  "familia": "la bete blanche",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "guinness-tavern-salou": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-12-28"
+   }
+  }
+ },
+ {
+  "nombre": "Vedett Extra IPA",
+  "familia": "vedett extra ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "guinness-tavern-salou": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-12-18"
+   }
+  }
+ },
+ {
+  "nombre": "Lagerbier Hell",
+  "familia": "lagerbier hell",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "michael-collins-barcelona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-07"
+   }
+  }
+ },
+ {
+  "nombre": "Maisel & Friends IPA",
+  "familia": "maisel & friends ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "michael-collins-barcelona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-07"
+   }
+  }
+ },
+ {
+  "nombre": "Clwb Tropica",
+  "familia": "clwb tropica",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "michael-collins-barcelona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-07"
+   }
+  }
+ },
+ {
+  "nombre": "Grisette Bio Blanche",
+  "familia": "grisette bio blanche",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "michael-collins-barcelona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-30"
+   }
+  }
+ },
+ {
+  "nombre": "Miller Lite",
+  "familia": "miller lite",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "flanagan-s-irish-pub-el-campello": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-29"
+   }
+  }
+ },
+ {
+  "nombre": "M-43 N.E. India Pale Ale",
+  "familia": "m-43 n.e. india pale ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "scanlons-shamrock-irish-pub-benalmadena": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   }
+  }
+ },
+ {
+  "nombre": "Summerfest",
+  "familia": "summerfest",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "scanlons-shamrock-irish-pub-benalmadena": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-04"
+   }
+  }
+ },
+ {
+  "nombre": "Golden",
+  "familia": "golden",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "el-irlandes-the-beer-house-la-solana": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-07-26"
+   },
+   "el-irlandes-trobajo-del-camino": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-07-26"
+   }
+  }
+ },
+ {
+  "nombre": "Let Sherry Mælk",
+  "familia": "let sherry mælk",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "el-irlandes-the-beer-house-la-solana": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-07-26"
+   },
+   "el-irlandes-trobajo-del-camino": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-07-26"
+   }
+  }
+ },
+ {
+  "nombre": "Omnipollos Hatt IPA",
+  "familia": "omnipollos hatt ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "el-irlandes-the-beer-house-la-solana": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-07-26"
+   },
+   "el-irlandes-trobajo-del-camino": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-07-26"
+   }
+  }
+ },
+ {
+  "nombre": "El Retorno del IBU West Coast IPA",
+  "familia": "el retorno del ibu west coast ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "el-irlandes-the-beer-house-la-solana": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-07-26"
+   },
+   "el-irlandes-trobajo-del-camino": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-07-26"
+   }
+  }
+ },
+ {
+  "nombre": "Rare Frog",
+  "familia": "rare frog",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "el-irlandes-the-beer-house-la-solana": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-07-25"
+   },
+   "el-irlandes-trobajo-del-camino": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-07-25"
+   }
+  }
+ },
+ {
+  "nombre": "Big Wave",
+  "familia": "big wave",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-irish-oak-l-a-playa-de-las-americas": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-04-01"
+   }
+  }
+ },
+ {
+  "nombre": "Spiteful IPA",
+  "familia": "spiteful ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-irish-oak-l-a-playa-de-las-americas": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-07-03"
+   }
+  }
+ },
+ {
+  "nombre": "Modelo Especial",
+  "familia": "modelo especial",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-irish-oak-l-a-playa-de-las-americas": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-07-01"
+   },
+   "mulligan-s-irish-tavern-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-17"
+   },
+   "pub-the-shannon-irish-tavern-villanueva-del-pardillo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   },
+   "hogan-s-live-music-sports-bar-restaurant-palma": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-30"
+   },
+   "sean-o-brians-valencia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   }
+  }
+ },
+ {
+  "nombre": "Cloud Candy IPA",
+  "familia": "cloud candy ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-dubliner-salou": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   }
+  }
+ },
+ {
+  "nombre": "How's She Cuttin'",
+  "familia": "how's she cuttin'",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-dubliner-salou": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   }
+  }
+ },
+ {
+  "nombre": "Lunch",
+  "familia": "lunch",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-dubliner-salou": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   }
+  }
+ },
+ {
+  "nombre": "Béal Bán - Whiskey Cask Aged",
+  "familia": "beal ban - whiskey cask aged",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "mccarthy-s-bar-barcelona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-07"
+   }
+  }
+ },
+ {
+  "nombre": "Blue Rose",
+  "familia": "blue rose",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "mccarthy-s-bar-barcelona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-30"
+   }
+  }
+ },
+ {
+  "nombre": "Yellow Rose",
+  "familia": "yellow rose",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-irish-anvil-bar-playa-blanca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-22"
+   }
+  }
+ },
+ {
+  "nombre": "Amber Ale",
+  "familia": "amber ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-irish-anvil-bar-playa-blanca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-03-22"
+   }
+  }
+ },
+ {
+  "nombre": "Buckle Bunny",
+  "familia": "buckle bunny",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-irish-anvil-bar-playa-blanca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-03-15"
+   }
+  }
+ },
+ {
+  "nombre": "La Rubia",
+  "familia": "la rubia",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "murphy-s-irish-pub-orihuela-costa-la-zenia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-07"
+   }
+  }
+ },
+ {
+  "nombre": "Ambar IPA",
+  "familia": "ambar ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "murphy-s-irish-pub-orihuela-costa-la-zenia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-07"
+   }
+  }
+ },
+ {
+  "nombre": "Sr. Mendrugo Pilsen",
+  "familia": "sr. mendrugo pilsen",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "murphy-s-irish-pub-orihuela-costa-la-zenia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-06"
+   }
+  }
+ },
+ {
+  "nombre": "Cerdos Voladores Pale Ale",
+  "familia": "cerdos voladores pale ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "murphy-s-irish-pub-orihuela-costa-la-zenia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-06"
+   }
+  }
+ },
+ {
+  "nombre": "Turia",
+  "familia": "turia",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "murphy-s-irish-pub-orihuela-costa-la-zenia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-06"
+   }
+  }
+ },
+ {
+  "nombre": "Zero Sugar Citrus",
+  "familia": "zero sugar citrus",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "slattery-s-traditional-irish-bar-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-19"
+   }
+  }
+ },
+ {
+  "nombre": "Midtown Pub Lager",
+  "familia": "midtown pub lager",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "slattery-s-traditional-irish-bar-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-28"
+   }
+  }
+ },
+ {
+  "nombre": "Imperial Stout",
+  "familia": "imperial stout",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "cerveceria-la-celtica-leon": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-12-26"
+   },
+   "the-white-clover-irish-bar-tui": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-04"
+   }
+  }
+ },
+ {
+  "nombre": "...Y Gracias Por Los Lúpulos",
+  "familia": "...y gracias por los lupulos",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "cerveceria-la-celtica-leon": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-12-26"
+   }
+  }
+ },
+ {
+  "nombre": "Barley Wine",
+  "familia": "barley wine",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "cerveceria-la-celtica-leon": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-12-11"
+   }
+  }
+ },
+ {
+  "nombre": "Crispy Citra Sour",
+  "familia": "crispy citra sour",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-shamrock-bar-eatery-puerto-de-santa-maria-el-puerto-de-sta-maria": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-05"
+   }
+  }
+ },
+ {
+  "nombre": "Doble NEIPA",
+  "familia": "doble neipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-shamrock-bar-eatery-puerto-de-santa-maria-el-puerto-de-sta-maria": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-05"
+   }
+  }
+ },
+ {
+  "nombre": "Shapes Hazy IPA",
+  "familia": "shapes hazy ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-shamrock-bar-eatery-puerto-de-santa-maria-el-puerto-de-sta-maria": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-01"
+   }
+  }
+ },
+ {
+  "nombre": "Tuborg Guld/Gold",
+  "familia": "tuborg guld/gold",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-blue-corner-irish-pub-caceres": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-05"
+   }
+  }
+ },
+ {
+  "nombre": "Frederik NEIPA",
+  "familia": "frederik neipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-blue-corner-irish-pub-caceres": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-31"
+   }
+  }
+ },
+ {
+  "nombre": "Lost",
+  "familia": "lost",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-blue-corner-irish-pub-caceres": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-31"
+   }
+  }
+ },
+ {
+  "nombre": "Tuborg Grøn",
+  "familia": "tuborg grøn",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-blue-corner-irish-pub-caceres": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-15"
+   }
+  }
+ },
+ {
+  "nombre": "Carlsberg Luna",
+  "familia": "carlsberg luna",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-blue-corner-irish-pub-caceres": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-07"
+   }
+  }
+ },
+ {
+  "nombre": "Dragon’s Milk Reserve: Stroopwafel (2021)",
+  "familia": "dragon’s milk reserve: stroopwafel (2021)",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-irish-parrot-cerveceria-grinon": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-09-21"
+   }
+  }
+ },
+ {
+  "nombre": "Open Head",
+  "familia": "open head",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-irish-parrot-cerveceria-grinon": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-12-23"
+   }
+  }
+ },
+ {
+  "nombre": "Burgkopf Pineapple",
+  "familia": "burgkopf pineapple",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-irish-parrot-cerveceria-grinon": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-08-20"
+   }
+  }
+ },
+ {
+  "nombre": "Conway's Irish Ale",
+  "familia": "conway's irish ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-irish-parrot-cerveceria-grinon": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-03-15"
+   },
+   "jackson-irish-tavern-elche": {
+    "fuente": "visto-untappd",
+    "fecha": "2020-03-14"
+   }
+  }
+ },
+ {
+  "nombre": "Parrot of Paradise",
+  "familia": "parrot of paradise",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-irish-parrot-cerveceria-grinon": {
+    "fuente": "visto-untappd",
+    "fecha": "2020-08-08"
+   }
+  }
+ },
+ {
+  "nombre": "BrightCider",
+  "familia": "brightcider",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-donnell-valladolid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-06"
+   }
+  }
+ },
+ {
+  "nombre": "High Life",
+  "familia": "high life",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-donnell-valladolid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-17"
+   }
+  }
+ },
+ {
+  "nombre": "Pollyanna Pils",
+  "familia": "pollyanna pils",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-donnell-valladolid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-12"
+   }
+  }
+ },
+ {
+  "nombre": "Elvis Juice",
+  "familia": "elvis juice",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-donnell-valladolid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-11"
+   }
+  }
+ },
+ {
+  "nombre": "Cold Beer",
+  "familia": "cold beer",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-donnell-valladolid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-03-22"
+   }
+  }
+ },
+ {
+  "nombre": "Bitter",
+  "familia": "bitter",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "grandee-o-donnells-oasis-del-sur": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-14"
+   }
+  }
+ },
+ {
+  "nombre": "Falcon Manx Lager",
+  "familia": "falcon manx lager",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "grandee-o-donnells-oasis-del-sur": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-14"
+   }
+  }
+ },
+ {
+  "nombre": "MPA",
+  "familia": "mpa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "grandee-o-donnells-oasis-del-sur": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-01"
+   }
+  }
+ },
+ {
+  "nombre": "Schneider Helles Alkoholfrei",
+  "familia": "schneider helles alkoholfrei",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pub-dublin-road-jaca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   }
+  }
+ },
+ {
+  "nombre": "Brogue Irish Red Ale",
+  "familia": "brogue irish red ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pub-dublin-road-jaca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   }
+  }
+ },
+ {
+  "nombre": "Tegernseer Hell Alkoholfrei",
+  "familia": "tegernseer hell alkoholfrei",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pub-dublin-road-jaca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-07"
+   }
+  }
+ },
+ {
+  "nombre": "Halifax Haze",
+  "familia": "halifax haze",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "nelly-mc-s-irish-bar-marbella": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   }
+  }
+ },
+ {
+  "nombre": "FRIG OFF",
+  "familia": "frig off",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "nelly-mc-s-irish-bar-marbella": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-09"
+   }
+  }
+ },
+ {
+  "nombre": "Galaxy",
+  "familia": "galaxy",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "nelly-mc-s-irish-bar-marbella": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-06"
+   }
+  }
+ },
+ {
+  "nombre": "Jai Alai®",
+  "familia": "jai alai®",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-thirty-three-irish-pub-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-09"
+   }
+  }
+ },
+ {
+  "nombre": "Citrus Kolsch",
+  "familia": "citrus kolsch",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-thirty-three-irish-pub-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-08"
+   }
+  }
+ },
+ {
+  "nombre": "Road Jam",
+  "familia": "road jam",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-thirty-three-irish-pub-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-05"
+   }
+  }
+ },
+ {
+  "nombre": "Sea Hag IPA",
+  "familia": "sea hag ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-thirty-three-irish-pub-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-02"
+   },
+   "christy-s-irish-gastropub-sports-lounge-fuengirola-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2020-03-11"
+   }
+  }
+ },
+ {
+  "nombre": "Mass Haze•teria",
+  "familia": "mass haze•teria",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "mccoy-s-irish-bar-playa-flamenca": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-04-26"
+   }
+  }
+ },
+ {
+  "nombre": "False Pattern",
+  "familia": "false pattern",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "mccoy-s-irish-bar-playa-flamenca": {
+    "fuente": "visto-untappd",
+    "fecha": "2024-03-31"
+   }
+  }
+ },
+ {
+  "nombre": "Size 7 - West Coast Style IPA",
+  "familia": "size 7 - west coast style ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "mccoy-s-irish-bar-playa-flamenca": {
+    "fuente": "visto-untappd",
+    "fecha": "2024-03-30"
+   }
+  }
+ },
+ {
+  "nombre": "Espionage Pale Ale",
+  "familia": "espionage pale ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-guinness-bar-benidorm": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   }
+  }
+ },
+ {
+  "nombre": "Covent Classic Session IPA",
+  "familia": "covent classic session ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-guinness-bar-benidorm": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-07"
+   }
+  }
+ },
+ {
+  "nombre": "1911 Hard Cider",
+  "familia": "1911 hard cider",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "dublin-house-castello-de-la-plana": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-05"
+   }
+  }
+ },
+ {
+  "nombre": "Head High",
+  "familia": "head high",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "dublin-house-castello-de-la-plana": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-04"
+   }
+  }
+ },
+ {
+  "nombre": "1911 Honeycrisp Hard Cider",
+  "familia": "1911 honeycrisp hard cider",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "dublin-house-castello-de-la-plana": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-25"
+   }
+  }
+ },
+ {
+  "nombre": "Bucur - Bere De Bulevard Blondă",
+  "familia": "bucur - bere de bulevard blonda",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "st-patrick-el-puerto-de-sta-maria": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-02"
+   }
+  }
+ },
+ {
+  "nombre": "HAWAIIPA",
+  "familia": "hawaiipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "st-patrick-el-puerto-de-sta-maria": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-29"
+   }
+  }
+ },
+ {
+  "nombre": "Harp Premium Lager",
+  "familia": "harp premium lager",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "murphy-s-bar-bistro-salou": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-01"
+   },
+   "irish-pub-brendan-s-isle-moreaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2019-11-27"
+   },
+   "belfast-donostia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-07"
+   },
+   "shenanigans-irish-bar-rojales": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-08"
+   }
+  }
+ },
+ {
+  "nombre": "Omakase IPA",
+  "familia": "omakase ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "murphy-s-bar-bistro-salou": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-02"
+   }
+  }
+ },
+ {
+  "nombre": "Pivo Pils",
+  "familia": "pivo pils",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "murphy-s-bar-bistro-salou": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-19"
+   }
+  }
+ },
+ {
+  "nombre": "Steinlager Pure",
+  "familia": "steinlager pure",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "cafetal-reina-fabiola-molly-malone-s-irish-pub-port-de-sagunt": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-25"
+   },
+   "molly-malone-s-irish-pub-leon": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-25"
+   },
+   "pub-molly-malone-bilbao": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-25"
+   }
+  }
+ },
+ {
+  "nombre": "Fine Lean Beer",
+  "familia": "fine lean beer",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "cafetal-reina-fabiola-molly-malone-s-irish-pub-port-de-sagunt": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-24"
+   },
+   "molly-malone-s-irish-pub-leon": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-24"
+   },
+   "pub-molly-malone-bilbao": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-24"
+   }
+  }
+ },
+ {
+  "nombre": "Summertime Ale",
+  "familia": "summertime ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "grace-o-malley-irish-pub-colmenar-viejo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-06"
+   }
+  }
+ },
+ {
+  "nombre": "Free Verse",
+  "familia": "free verse",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "grace-o-malley-irish-pub-colmenar-viejo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-28"
+   }
+  }
+ },
+ {
+  "nombre": "Phaze",
+  "familia": "phaze",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "mulligan-s-irish-tavern-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-07"
+   }
+  }
+ },
+ {
+  "nombre": "Old Brown Dog Ale",
+  "familia": "old brown dog ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "mulligan-s-irish-tavern-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-01"
+   }
+  }
+ },
+ {
+  "nombre": "Little Wizard",
+  "familia": "little wizard",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "mulligan-s-irish-tavern-torremolinos": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-22"
+   }
+  }
+ },
+ {
+  "nombre": "Judas",
+  "familia": "judas",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "la-fontana-de-oro-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   }
+  }
+ },
+ {
+  "nombre": "Newcastle Brown Ale",
+  "familia": "newcastle brown ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-shamrock-irish-pub-benidorm-benidorm": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-08"
+   }
+  }
+ },
+ {
+  "nombre": "Elevation Pale Ale",
+  "familia": "elevation pale ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "cafe-dublin-vitoria-gasteiz": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-09"
+   }
+  }
+ },
+ {
+  "nombre": "Brendan's IPA",
+  "familia": "brendan's ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "irish-pub-brendan-s-isle-moreaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2019-12-04"
+   }
+  }
+ },
+ {
+  "nombre": "Gobshite Galway Hooker IPA",
+  "familia": "gobshite galway hooker ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "irish-pub-brendan-s-isle-moreaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2019-12-03"
+   }
+  }
+ },
+ {
+  "nombre": "Kilkenny 3.5%",
+  "familia": "kilkenny 3.5%",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "irish-pub-brendan-s-isle-moreaga": {
+    "fuente": "visto-untappd",
+    "fecha": "2019-11-22"
+   }
+  }
+ },
+ {
+  "nombre": "Honey Wheat Ale",
+  "familia": "honey wheat ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "mcguire-s-irish-bar-costa-adeje": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Irish Pale Ale (IPA)",
+  "familia": "irish pale ale (ipa)",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "mcguire-s-irish-bar-costa-adeje": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Irish Red Ale",
+  "familia": "irish red ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "mcguire-s-irish-bar-costa-adeje": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Nice Coconuts",
+  "familia": "nice coconuts",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "mcguire-s-irish-bar-costa-adeje": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   }
+  }
+ },
+ {
+  "nombre": "McGuire's Porter",
+  "familia": "mcguire's porter",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "mcguire-s-irish-bar-costa-adeje": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   }
+  }
+ },
+ {
+  "nombre": "Armada Ale",
+  "familia": "armada ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-harp-bar-lounge-calahonda": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-07"
+   }
+  }
+ },
+ {
+  "nombre": "Tequila Soda - Hibiscus & Lime",
+  "familia": "tequila soda - hibiscus & lime",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-harp-bar-lounge-calahonda": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-01"
+   }
+  }
+ },
+ {
+  "nombre": "Key Lime Vodka Soda",
+  "familia": "key lime vodka soda",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-harp-bar-lounge-calahonda": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-01"
+   }
+  }
+ },
+ {
+  "nombre": "Staropramen Premium / Ležák 12",
+  "familia": "staropramen premium / lezak 12",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-harp-bar-lounge-calahonda": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-01"
+   }
+  }
+ },
+ {
+  "nombre": "Krombacher Weizen",
+  "familia": "krombacher weizen",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-white-clover-irish-bar-tui": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-04"
+   }
+  }
+ },
+ {
+  "nombre": "Bombardier",
+  "familia": "bombardier",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-white-clover-irish-bar-tui": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-04"
+   }
+  }
+ },
+ {
+  "nombre": "11/20",
+  "familia": "11/20",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-white-clover-irish-bar-tui": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-28"
+   }
+  }
+ },
+ {
+  "nombre": "Fireside",
+  "familia": "fireside",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-white-clover-irish-bar-tui": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-03-26"
+   }
+  }
+ },
+ {
+  "nombre": "Mango Zinger",
+  "familia": "mango zinger",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "christy-s-irish-gastropub-sports-lounge-fuengirola-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2020-02-02"
+   }
+  }
+ },
+ {
+  "nombre": "Original Blend",
+  "familia": "original blend",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "christy-s-irish-gastropub-sports-lounge-fuengirola-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2020-01-18"
+   }
+  }
+ },
+ {
+  "nombre": "Luponic Distortion No. 13",
+  "familia": "luponic distortion no. 13",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "christy-s-irish-gastropub-sports-lounge-fuengirola-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2020-01-12"
+   }
+  }
+ },
+ {
+  "nombre": "BRIG",
+  "familia": "brig",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "christy-s-irish-gastropub-sports-lounge-fuengirola-fuengirola": {
+    "fuente": "visto-untappd",
+    "fecha": "2020-01-11"
+   }
+  }
+ },
+ {
+  "nombre": "Super Bock",
+  "familia": "super bock",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "restaurante-pipers-irish-algorta": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-08"
+   }
+  }
+ },
+ {
+  "nombre": "Coruja IPA",
+  "familia": "coruja ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "restaurante-pipers-irish-algorta": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-08"
+   }
+  }
+ },
+ {
+  "nombre": "Lamp Lighter Amber Ale",
+  "familia": "lamp lighter amber ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pub-the-shannon-irish-tavern-villanueva-del-pardillo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "1919",
+  "familia": "1919",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pub-the-shannon-irish-tavern-villanueva-del-pardillo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-30"
+   }
+  }
+ },
+ {
+  "nombre": "Erdinger Dunkel",
+  "familia": "erdinger dunkel",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pub-the-shannon-irish-tavern-villanueva-del-pardillo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-06"
+   }
+  }
+ },
+ {
+  "nombre": "Juicii",
+  "familia": "juicii",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pub-the-shannon-irish-tavern-villanueva-del-pardillo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-06"
+   }
+  }
+ },
+ {
+  "nombre": "Coors Light",
+  "familia": "coors light",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "hogan-s-live-music-sports-bar-restaurant-palma": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-07"
+   },
+   "bar-deicy-reilly-s-ciudad-real": {
+    "fuente": "visto-untappd",
+    "fecha": "2018-07-07"
+   }
+  }
+ },
+ {
+  "nombre": "Sunshine City",
+  "familia": "sunshine city",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "hogan-s-live-music-sports-bar-restaurant-palma": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-27"
+   }
+  }
+ },
+ {
+  "nombre": "Real American Beer Light",
+  "familia": "real american beer light",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "hogan-s-live-music-sports-bar-restaurant-palma": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-25"
+   }
+  }
+ },
+ {
+  "nombre": "Broken Skull American Lager",
+  "familia": "broken skull american lager",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "hogan-s-live-music-sports-bar-restaurant-palma": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-24"
+   }
+  }
+ },
+ {
+  "nombre": "Beamish Irish Stout",
+  "familia": "beamish irish stout",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "hole-in-the-wall-irish-pub-playa-de-las-americas": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-23"
+   },
+   "hogan-s-irish-tavern-vizcaya": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-08"
+   }
+  }
+ },
+ {
+  "nombre": "Bulmers Original Cider",
+  "familia": "bulmers original cider",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "hole-in-the-wall-irish-pub-playa-de-las-americas": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-23"
+   }
+  }
+ },
+ {
+  "nombre": "Tuborg Classic",
+  "familia": "tuborg classic",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "special-horse-irish-pub-paterna": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-18"
+   }
+  }
+ },
+ {
+  "nombre": "Amen",
+  "familia": "amen",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "derry-irish-tavern-leganes": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   }
+  }
+ },
+ {
+  "nombre": "Stipan Hawking",
+  "familia": "stipan hawking",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "derry-irish-tavern-leganes": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-03-23"
+   }
+  }
+ },
+ {
+  "nombre": "Very Ape",
+  "familia": "very ape",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "derry-irish-tavern-leganes": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-02-26"
+   }
+  }
+ },
+ {
+  "nombre": "Trombée",
+  "familia": "trombee",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "derry-irish-tavern-leganes": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-02-09"
+   }
+  }
+ },
+ {
+  "nombre": "Sunny Side",
+  "familia": "sunny side",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "derry-irish-tavern-leganes": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-02-09"
+   }
+  }
+ },
+ {
+  "nombre": "Gastro Reserva Tostada",
+  "familia": "gastro reserva tostada",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-irish-temple-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-05"
+   },
+   "the-irish-temple-fuenlabrada": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-05"
+   }
+  }
+ },
+ {
+  "nombre": "Aecht Schlenkerla Rauchbier – Märzen",
+  "familia": "aecht schlenkerla rauchbier – marzen",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-irish-temple-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-30"
+   },
+   "the-irish-temple-fuenlabrada": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-30"
+   }
+  }
+ },
+ {
+  "nombre": "Cornish Golden Cider",
+  "familia": "cornish golden cider",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-blacksmith-irish-pub-baiona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-29"
+   }
+  }
+ },
+ {
+  "nombre": "Porter",
+  "familia": "porter",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-irish-rover-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   },
+   "the-irish-rover-las-palmas-de-gran-canaria": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   }
+  }
+ },
+ {
+  "nombre": "Tullamore D.E.W. Original Irish Whiskey",
+  "familia": "tullamore d.e.w. original irish whiskey",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-irish-rover-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   },
+   "the-irish-rover-las-palmas-de-gran-canaria": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   }
+  }
+ },
+ {
+  "nombre": "Oktoberfest - Hoppebräu (2026)",
+  "familia": "oktoberfest - hoppebrau (2026)",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-irish-rover-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-05"
+   },
+   "the-irish-rover-las-palmas-de-gran-canaria": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-05"
+   }
+  }
+ },
+ {
+  "nombre": "Prickled Pink",
+  "familia": "prickled pink",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-irish-rover-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-04"
+   },
+   "the-irish-rover-las-palmas-de-gran-canaria": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-04"
+   }
+  }
+ },
+ {
+  "nombre": "Powers John's Lane Cask Strength",
+  "familia": "powers john's lane cask strength",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-irish-rover-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-03"
+   },
+   "the-irish-rover-las-palmas-de-gran-canaria": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-03"
+   }
+  }
+ },
+ {
+  "nombre": "India Pale Ale",
+  "familia": "india pale ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "st-patrick-s-irish-pub-sant-joan-d-alacant": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-16"
+   },
+   "saint-patrick-s-irish-pub-bar-de-copas-zaragoza-zaragoza": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-16"
+   }
+  }
+ },
+ {
+  "nombre": "Indio",
+  "familia": "indio",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "st-patrick-s-irish-pub-sant-joan-d-alacant": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-19"
+   },
+   "saint-patrick-s-irish-pub-bar-de-copas-zaragoza-zaragoza": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-19"
+   }
+  }
+ },
+ {
+  "nombre": "Bohemia Vienna",
+  "familia": "bohemia vienna",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "st-patrick-s-irish-pub-sant-joan-d-alacant": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-19"
+   },
+   "saint-patrick-s-irish-pub-bar-de-copas-zaragoza-zaragoza": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-19"
+   }
+  }
+ },
+ {
+  "nombre": "Bohemia Cristal",
+  "familia": "bohemia cristal",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "st-patrick-s-irish-pub-sant-joan-d-alacant": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-19"
+   },
+   "saint-patrick-s-irish-pub-bar-de-copas-zaragoza-zaragoza": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-19"
+   }
+  }
+ },
+ {
+  "nombre": "Tiger",
+  "familia": "tiger",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "healy-s-irish-bar-estepona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-01"
+   }
+  }
+ },
+ {
+  "nombre": "Flor Imperial",
+  "familia": "flor imperial",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "dublin-irish-tavern-ceuta-ceuta": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-04-10"
+   }
+  }
+ },
+ {
+  "nombre": "DinoSOURia",
+  "familia": "dinosouria",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "dublin-irish-tavern-ceuta-ceuta": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-02-14"
+   }
+  }
+ },
+ {
+  "nombre": "Sierra Madre Pale Ale",
+  "familia": "sierra madre pale ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "dublin-irish-tavern-ceuta-ceuta": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-02-14"
+   }
+  }
+ },
+ {
+  "nombre": "Turaca",
+  "familia": "turaca",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "dublin-irish-tavern-ceuta-ceuta": {
+    "fuente": "visto-untappd",
+    "fecha": "2020-09-06"
+   }
+  }
+ },
+ {
+  "nombre": "Rockshore Apple Cider",
+  "familia": "rockshore apple cider",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "belfast-donostia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-02"
+   }
+  }
+ },
+ {
+  "nombre": "Nordlys",
+  "familia": "nordlys",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "cafe-dublin-irish-pub-zaragoza": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   }
+  }
+ },
+ {
+  "nombre": "Anyday IPA",
+  "familia": "anyday ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "cafe-dublin-irish-pub-zaragoza": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   }
+  }
+ },
+ {
+  "nombre": "ZZ Hop",
+  "familia": "zz hop",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "cafe-dublin-irish-pub-zaragoza": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   }
+  }
+ },
+ {
+  "nombre": "1664 Blanc",
+  "familia": "1664 blanc",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "bar-deicy-reilly-s-ciudad-real": {
+    "fuente": "visto-untappd",
+    "fecha": "2018-07-07"
+   },
+   "paddy-s-corner-pamplona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-16"
+   }
+  }
+ },
+ {
+  "nombre": "Smithwick’s Pale Ale",
+  "familia": "smithwick’s pale ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "bar-deicy-reilly-s-ciudad-real": {
+    "fuente": "visto-untappd",
+    "fecha": "2018-07-07"
+   }
+  }
+ },
+ {
+  "nombre": "Sol",
+  "familia": "sol",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "bar-deicy-reilly-s-ciudad-real": {
+    "fuente": "visto-untappd",
+    "fecha": "2015-06-15"
+   }
+  }
+ },
+ {
+  "nombre": "George's Lager",
+  "familia": "george's lager",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-donegal-irish-pub-portugalete": {
+    "fuente": "visto-untappd",
+    "fecha": "2019-09-20"
+   }
+  }
+ },
+ {
+  "nombre": "Hoegaarden Wit / Blanche",
+  "familia": "hoegaarden wit / blanche",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-donegal-irish-pub-portugalete": {
+    "fuente": "visto-untappd",
+    "fecha": "2019-07-10"
+   }
+  }
+ },
+ {
+  "nombre": "Last Best IPA",
+  "familia": "last best ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-donegal-irish-pub-portugalete": {
+    "fuente": "visto-untappd",
+    "fecha": "2019-01-30"
+   }
+  }
+ },
+ {
+  "nombre": "Dream Fluff",
+  "familia": "dream fluff",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "gaelic-irish-pub-coll-den-rabassa": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-20"
+   }
+  }
+ },
+ {
+  "nombre": "Spider Silk",
+  "familia": "spider silk",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "gaelic-irish-pub-coll-den-rabassa": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-17"
+   }
+  }
+ },
+ {
+  "nombre": "Blackberry Kolsch",
+  "familia": "blackberry kolsch",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "gaelic-irish-pub-coll-den-rabassa": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-17"
+   }
+  }
+ },
+ {
+  "nombre": "Ace Pineapple Zero",
+  "familia": "ace pineapple zero",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "gaelic-irish-pub-coll-den-rabassa": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-01"
+   }
+  }
+ },
+ {
+  "nombre": "Piper",
+  "familia": "piper",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "two-sisters-irish-pub-dos-hermanas": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-20"
+   }
+  }
+ },
+ {
+  "nombre": "Féile",
+  "familia": "feile",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "two-sisters-irish-pub-dos-hermanas": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-29"
+   }
+  }
+ },
+ {
+  "nombre": "Bulmers Irish Cider - 0.0%",
+  "familia": "bulmers irish cider - 0.0%",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "two-sisters-irish-pub-dos-hermanas": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-11"
+   }
+  }
+ },
+ {
+  "nombre": "Dublin Dubh",
+  "familia": "dublin dubh",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "two-sisters-irish-pub-dos-hermanas": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-12-31"
+   }
+  }
+ },
+ {
+  "nombre": "Rise",
+  "familia": "rise",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-waterfront-irish-bar-la-pineda": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-01"
+   }
+  }
+ },
+ {
+  "nombre": "Allagash White",
+  "familia": "allagash white",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-waterfront-irish-bar-la-pineda": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-14"
+   }
+  }
+ },
+ {
+  "nombre": "Blueberry Ale",
+  "familia": "blueberry ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-waterfront-irish-bar-la-pineda": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-13"
+   }
+  }
+ },
+ {
+  "nombre": "Be Hoppy",
+  "familia": "be hoppy",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-waterfront-irish-bar-la-pineda": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-25"
+   }
+  }
+ },
+ {
+  "nombre": "West Coast IPA (2026)",
+  "familia": "west coast ipa (2026)",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "shenanigans-irish-bar-rojales": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-06"
+   }
+  }
+ },
+ {
+  "nombre": "Talking Hands",
+  "familia": "talking hands",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "shenanigans-irish-bar-rojales": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-06"
+   }
+  }
+ },
+ {
+  "nombre": "Trooper IPA",
+  "familia": "trooper ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "shenanigans-irish-bar-rojales": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-11"
+   }
+  }
+ },
+ {
+  "nombre": "Salty Crew",
+  "familia": "salty crew",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "shenanigans-irish-bar-rojales": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-09"
+   }
+  }
+ },
+ {
+  "nombre": "Jack Back",
+  "familia": "jack back",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pub-o-connors-vitoria-gasteiz": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-02"
+   }
+  }
+ },
+ {
+  "nombre": "Pentland IPA",
+  "familia": "pentland ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pub-o-connors-vitoria-gasteiz": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-02"
+   }
+  }
+ },
+ {
+  "nombre": "Kolsch",
+  "familia": "kolsch",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-dubliner-santa-cruz-de-tenerife": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-21"
+   }
+  }
+ },
+ {
+  "nombre": "Brew Free! or Die",
+  "familia": "brew free! or die",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-dubliner-santa-cruz-de-tenerife": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-16"
+   }
+  }
+ },
+ {
+  "nombre": "Irish Republican Ale",
+  "familia": "irish republican ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "brown-s-irish-tavern-punta-umbria": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-29"
+   }
+  }
+ },
+ {
+  "nombre": "Peadar Brown's Lager",
+  "familia": "peadar brown's lager",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "brown-s-irish-tavern-punta-umbria": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-28"
+   }
+  }
+ },
+ {
+  "nombre": "Peadar Browns Pale Ale",
+  "familia": "peadar browns pale ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "brown-s-irish-tavern-punta-umbria": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-02"
+   }
+  }
+ },
+ {
+  "nombre": "Sundowner",
+  "familia": "sundowner",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-george-payne-irish-pub-barcelona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   }
+  }
+ },
+ {
+  "nombre": "Daisies",
+  "familia": "daisies",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-george-payne-irish-pub-barcelona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   }
+  }
+ },
+ {
+  "nombre": "Skylark Stout",
+  "familia": "skylark stout",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-george-payne-irish-pub-barcelona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   }
+  }
+ },
+ {
+  "nombre": "Arise",
+  "familia": "arise",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-george-payne-irish-pub-barcelona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-09"
+   }
+  }
+ },
+ {
+  "nombre": "Valbuenas",
+  "familia": "valbuenas",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "dublin-house-pamplona-pamplona": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-10-10"
+   }
+  }
+ },
+ {
+  "nombre": "THB Houseport",
+  "familia": "thb houseport",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "dublin-house-pamplona-pamplona": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-10-10"
+   }
+  }
+ },
+ {
+  "nombre": "Silda",
+  "familia": "silda",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pub-la-perla-negra-irish-club-salamanca-salamanca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-01"
+   }
+  }
+ },
+ {
+  "nombre": "SDR",
+  "familia": "sdr",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pub-la-perla-negra-irish-club-salamanca-salamanca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-01"
+   }
+  }
+ },
+ {
+  "nombre": "IPA9",
+  "familia": "ipa9",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pub-la-perla-negra-irish-club-salamanca-salamanca": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-30"
+   }
+  }
+ },
+ {
+  "nombre": "Sean's Golden Wheat",
+  "familia": "sean's golden wheat",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "sean-o-brians-valencia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-12"
+   }
+  }
+ },
+ {
+  "nombre": "Downeast Unfiltered Craft Seasonal Cider",
+  "familia": "downeast unfiltered craft seasonal cider",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "sean-o-brians-valencia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   }
+  }
+ },
+ {
+  "nombre": "Traditional Lager",
+  "familia": "traditional lager",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "sean-o-brians-valencia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   }
+  }
+ },
+ {
+  "nombre": "Lager 11 (фільтроване)",
+  "familia": "lager 11 (фільтроване)",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "barry-s-irish-pub-leon": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-07-21"
+   }
+  }
+ },
+ {
+  "nombre": "Carte Blanche",
+  "familia": "carte blanche",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "barry-s-irish-pub-leon": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-27"
+   }
+  }
+ },
+ {
+  "nombre": "Klášter Premium",
+  "familia": "klaster premium",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "barry-s-irish-pub-leon": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-28"
+   }
+  }
+ },
+ {
+  "nombre": "Xibeca",
+  "familia": "xibeca",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "dubliner-bar-santa-ponca-costa-de-la-calma": {
+    "fuente": "visto-untappd",
+    "fecha": "2022-05-21"
+   }
+  }
+ },
+ {
+  "nombre": "Bourbon County Brand Mon Chéri Stout (2019)",
+  "familia": "bourbon county brand mon cheri stout (2019)",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "jackson-irish-tavern-elche": {
+    "fuente": "visto-untappd",
+    "fecha": "2020-03-27"
+   }
+  }
+ },
+ {
+  "nombre": "Fresh Squeezed",
+  "familia": "fresh squeezed",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "jackson-irish-tavern-elche": {
+    "fuente": "visto-untappd",
+    "fecha": "2020-03-14"
+   }
+  }
+ },
+ {
+  "nombre": "Bodem",
+  "familia": "bodem",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "jackson-irish-tavern-elche": {
+    "fuente": "visto-untappd",
+    "fecha": "2020-03-13"
+   }
+  }
+ },
+ {
+  "nombre": "Happy Hour",
+  "familia": "happy hour",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "paddy-s-point-irish-bar-restaurant-la-zenia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-01"
+   },
+   "paddy-s-irish-pub-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-05"
+   }
+  }
+ },
+ {
+  "nombre": "Stowaway IPA",
+  "familia": "stowaway ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "paddy-s-point-irish-bar-restaurant-la-zenia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-24"
+   },
+   "paddy-s-irish-pub-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-01"
+   }
+  }
+ },
+ {
+  "nombre": "Absolut Vodka",
+  "familia": "absolut vodka",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "molly-malones-san-bartolome-de-tirajana": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-09"
+   }
+  }
+ },
+ {
+  "nombre": "Double IPA",
+  "familia": "double ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "hannigan-sons-irish-pub-granada": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-29"
+   }
+  }
+ },
+ {
+  "nombre": "Pilsner",
+  "familia": "pilsner",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "kelly-s-donostia": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-26"
+   }
+  }
+ },
+ {
+  "nombre": "Perdition",
+  "familia": "perdition",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "korrigan-irish-pub-la-adrada": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   }
+  }
+ },
+ {
+  "nombre": "10 Years: Recovery",
+  "familia": "10 years: recovery",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "korrigan-irish-pub-la-adrada": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   }
+  }
+ },
+ {
+  "nombre": "Knickknack",
+  "familia": "knickknack",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "korrigan-irish-pub-la-adrada": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   }
+  }
+ },
+ {
+  "nombre": "Dokerien",
+  "familia": "dokerien",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "korrigan-irish-pub-la-adrada": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   }
+  }
+ },
+ {
+  "nombre": "Oyster Stout",
+  "familia": "oyster stout",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "korrigan-irish-pub-la-adrada": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-10"
+   }
+  }
+ },
+ {
+  "nombre": "Quaid. Start the Reactor",
+  "familia": "quaid. start the reactor",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-red-lion-irish-pub-huelva-huelva": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-16"
+   }
+  }
+ },
+ {
+  "nombre": "Cwrw Braf",
+  "familia": "cwrw braf",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-red-lion-irish-pub-huelva-huelva": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-16"
+   }
+  }
+ },
+ {
+  "nombre": "Baby Tibs",
+  "familia": "baby tibs",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-red-lion-irish-pub-huelva-huelva": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-14"
+   }
+  }
+ },
+ {
+  "nombre": "Five Points XPA",
+  "familia": "five points xpa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "murphys-on-the-park-torrevieja": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-11"
+   }
+  }
+ },
+ {
+  "nombre": "Red Stripe",
+  "familia": "red stripe",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "murphys-on-the-park-torrevieja": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-23"
+   }
+  }
+ },
+ {
+  "nombre": "Berries & Cherries",
+  "familia": "berries & cherries",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "murphys-on-the-park-torrevieja": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-23"
+   }
+  }
+ },
+ {
+  "nombre": "Vicaris Winter",
+  "familia": "vicaris winter",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "shamrock-irish-bar-valladolid": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-03-27"
+   }
+  }
+ },
+ {
+  "nombre": "Artevelde Gentse Leute",
+  "familia": "artevelde gentse leute",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "shamrock-irish-bar-valladolid": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-03-26"
+   }
+  }
+ },
+ {
+  "nombre": "Orval (2025)",
+  "familia": "orval (2025)",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "shamrock-irish-bar-valladolid": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-03-19"
+   }
+  }
+ },
+ {
+  "nombre": "Hop-On",
+  "familia": "hop-on",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "dublin-bay-valladolid": {
+    "fuente": "visto-untappd",
+    "fecha": "2024-08-21"
+   }
+  }
+ },
+ {
+  "nombre": "Five Lamps Dublin Lager",
+  "familia": "five lamps dublin lager",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "dublin-bay-valladolid": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-08-03"
+   }
+  }
+ },
+ {
+  "nombre": "Strawberry And Lime Irish Cider",
+  "familia": "strawberry and lime irish cider",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "dublin-bay-valladolid": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-06-24"
+   }
+  }
+ },
+ {
+  "nombre": "Hazy Jane",
+  "familia": "hazy jane",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "dublin-bay-valladolid": {
+    "fuente": "visto-untappd",
+    "fecha": "2020-10-14"
+   }
+  }
+ },
+ {
+  "nombre": "Duvel",
+  "familia": "duvel",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "dubliner-playa-de-las-americas": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-01"
+   }
+  }
+ },
+ {
+  "nombre": "Proper Job",
+  "familia": "proper job",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-connell-st-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-14"
+   }
+  }
+ },
+ {
+  "nombre": "Wildfire",
+  "familia": "wildfire",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "o-connell-st-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-17"
+   }
+  }
+ },
+ {
+  "nombre": "Easy Pale Ale",
+  "familia": "easy pale ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "cochran-s-terrace-nerja": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-23"
+   }
+  }
+ },
+ {
+  "nombre": "Pacific Ale",
+  "familia": "pacific ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "cochran-s-terrace-nerja": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-20"
+   }
+  }
+ },
+ {
+  "nombre": "Tastes Like Rainbows Sour",
+  "familia": "tastes like rainbows sour",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "cochran-s-terrace-nerja": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-12-19"
+   }
+  }
+ },
+ {
+  "nombre": "West Coast IPA",
+  "familia": "west coast ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "cochran-s-terrace-nerja": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-12-13"
+   }
+  }
+ },
+ {
+  "nombre": "XXXX Gold",
+  "familia": "xxxx gold",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "cochran-s-terrace-nerja": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-12-12"
+   }
+  }
+ },
+ {
+  "nombre": "No Mames",
+  "familia": "no mames",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "toba-s-taberna-irish-pub-vitoria-gasteiz": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-09"
+   }
+  }
+ },
+ {
+  "nombre": "Ever Haze",
+  "familia": "ever haze",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "toba-s-taberna-irish-pub-vitoria-gasteiz": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-22"
+   }
+  }
+ },
+ {
+  "nombre": "Alhambra Especial",
+  "familia": "alhambra especial",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "paddy-irish-pub-rota-rota": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-08"
+   }
+  }
+ },
+ {
+  "nombre": "Summer Shandy",
+  "familia": "summer shandy",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "paddy-irish-pub-rota-rota": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-30"
+   }
+  }
+ },
+ {
+  "nombre": "Church Music",
+  "familia": "church music",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "paddy-irish-pub-rota-rota": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-01-12"
+   }
+  }
+ },
+ {
+  "nombre": "Black Cherry Lemonade",
+  "familia": "black cherry lemonade",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "paddy-irish-pub-rota-rota": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-12-28"
+   }
+  }
+ },
+ {
+  "nombre": "Strawberry Lemonade",
+  "familia": "strawberry lemonade",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "paddy-irish-pub-rota-rota": {
+    "fuente": "visto-untappd",
+    "fecha": "2025-12-28"
+   }
+  }
+ },
+ {
+  "nombre": "Bar Harbor Real Ale",
+  "familia": "bar harbor real ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "paddy-s-irish-pub-madrid": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-09"
+   }
+  }
+ },
+ {
+  "nombre": "Franz Josef",
+  "familia": "franz josef",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "morrigan-irish-pub-lugo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-27"
+   }
+  }
+ },
+ {
+  "nombre": "Mooser Liesl Helles",
+  "familia": "mooser liesl helles",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "morrigan-irish-pub-lugo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-05-27"
+   }
+  }
+ },
+ {
+  "nombre": "Hobgoblin IPA",
+  "familia": "hobgoblin ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "morrigan-irish-pub-lugo": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-03"
+   }
+  }
+ },
+ {
+  "nombre": "Fatøl",
+  "familia": "fatøl",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pub-the-irish-viking-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-24"
+   }
+  }
+ },
+ {
+  "nombre": "Crowmoor Dry Apple",
+  "familia": "crowmoor dry apple",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pub-the-irish-viking-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-21"
+   }
+  }
+ },
+ {
+  "nombre": "Juicy IPA",
+  "familia": "juicy ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "pub-the-irish-viking-tias": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-21"
+   }
+  }
+ },
+ {
+  "nombre": "Time Trial",
+  "familia": "time trial",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "finnegan-s-live-music-irish-pub-magaluf": {
+    "fuente": "visto-untappd",
+    "fecha": "2024-01-25"
+   }
+  }
+ },
+ {
+  "nombre": "Doomfire",
+  "familia": "doomfire",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "finnegan-s-live-music-irish-pub-magaluf": {
+    "fuente": "visto-untappd",
+    "fecha": "2024-01-24"
+   }
+  }
+ },
+ {
+  "nombre": "Hoppy Hour Hero, moe.saic IPA",
+  "familia": "hoppy hour hero, moe.saic ipa",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "finnegan-s-live-music-irish-pub-magaluf": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-09-06"
+   }
+  }
+ },
+ {
+  "nombre": "Queen Peachy's Teatime",
+  "familia": "queen peachy's teatime",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "finnegan-s-live-music-irish-pub-magaluf": {
+    "fuente": "visto-untappd",
+    "fecha": "2023-08-03"
+   }
+  }
+ },
+ {
+  "nombre": "Pabst Blue Ribbon",
+  "familia": "pabst blue ribbon",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "heaven-irish-tavern-ronda": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-08"
+   }
+  }
+ },
+ {
+  "nombre": "Skidaddle!",
+  "familia": "skidaddle!",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "heaven-irish-tavern-ronda": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-21"
+   }
+  }
+ },
+ {
+  "nombre": "Shiner Bock",
+  "familia": "shiner bock",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "heaven-irish-tavern-ronda": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-25"
+   }
+  }
+ },
+ {
+  "nombre": "Mike’s Hard Black Cherry Lemonade",
+  "familia": "mike’s hard black cherry lemonade",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "heaven-irish-tavern-ronda": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-04-25"
+   }
+  }
+ },
+ {
+  "nombre": "AMERICAN DREAM",
+  "familia": "american dream",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "paddy-s-corner-pamplona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-09-08"
+   }
+  }
+ },
+ {
+  "nombre": "Eridan Red",
+  "familia": "eridan red",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "paddy-s-corner-pamplona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-31"
+   }
+  }
+ },
+ {
+  "nombre": "DEATH IN TECHNICOLOR",
+  "familia": "death in technicolor",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "paddy-s-corner-pamplona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-29"
+   }
+  }
+ },
+ {
+  "nombre": "Pic Flamboyant",
+  "familia": "pic flamboyant",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "paddy-s-corner-pamplona": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-29"
+   }
+  }
+ },
+ {
+  "nombre": "Rockshore Irish Lager",
+  "familia": "rockshore irish lager",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-crow-s-nest-irish-pub-boadilla-del-monte": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-08-06"
+   }
+  }
+ },
+ {
+  "nombre": "Connacht Pale Ale",
+  "familia": "connacht pale ale",
+  "cervecera": null,
+  "estilo": null,
+  "abv": null,
+  "alias": [],
+  "bares": {
+   "the-crow-s-nest-irish-pub-boadilla-del-monte": {
+    "fuente": "visto-untappd",
+    "fecha": "2026-06-29"
    }
   }
  }

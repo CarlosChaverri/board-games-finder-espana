@@ -21,7 +21,8 @@ const CERVEZA_TIPOS = {
   'taproom':      'Taproom de cervecera',
   'especializado':'Bar especializado',
   'clasica':      'Clásica de importación',
-  'mercado':      'Puesto de mercado'
+  'mercado':      'Puesto de mercado',
+  'irish':        'Irish pub'
 };
 const CERVEZA_FUENTE = { 'web-oficial':['Según su web','ok'], 'prensa':['Según prensa','est'], 'perfil':['Según guía cervecera','est'] };
 
@@ -58,13 +59,13 @@ const MODES = {
   cervezas: {
     brandIcon: '<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:-2px;margin-right:5px"><path d="M17 11h1.5a2.5 2.5 0 0 1 0 5H17"/><path d="M5 6h12v12a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2z"/><path d="M7 6V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v1"/></svg>',
     brandTitle: 'Craft Beer Finder España',
-    brandSub: 'Cervecerías de especialidad en España',
-    docTitle: 'Craft Beer Finder España — Cervecerías de especialidad en España',
+    brandSub: 'Cervecerías de especialidad e Irish pubs en España',
+    docTitle: 'Craft Beer Finder España — Cervecerías de especialidad e Irish pubs en España',
     files: ['cervezas.json','marcas.json'],
     namePlaceholder: 'Buscar cervecería por nombre o barrio…',
     chipsLabel: 'Tipo de local',
     chips: CERVEZA_TIPOS,
-    chipOrder: {fabrica:0, taproom:1, especializado:2, clasica:3, mercado:4},
+    chipOrder: {fabrica:0, taproom:1, especializado:2, clasica:3, mercado:4, irish:5},
     chipField: 'tipo',
     minLabel: 'Nº de grifos',
     minOptions: [[0,'Cualquiera'],[5,'5+'],[10,'10+'],[15,'15+']],
@@ -173,7 +174,7 @@ function initMap(){
 
 function pinIcon(b){
   return L.divIcon({className:'', iconSize:[30,30], iconAnchor:[15,28], popupAnchor:[0,-26],
-    html:`<div class="pin" style="width:30px;height:30px"><span>${b.valoracion.toFixed(1)}</span></div>`});
+    html:`<div class="pin${b.tipo==='irish'?' irish':''}" style="width:30px;height:30px"><span>${b.valoracion.toFixed(1)}</span></div>`});
 }
 
 /* ---------- Filters UI ---------- */
@@ -310,7 +311,7 @@ function cardHTML(b){
     else esp = CFG.tipoLabel(b);
     return `<div class="card" data-id="${b.id}">
       <h3>${b.nombre}</h3>
-      <div class="where">${CFG.tipoLabel(b)} · ${b.ciudad} — ${b.zona}</div>
+      <div class="where">${CFG.tipoLabel(b)} · ${b.ciudad}${b.zona ? ' — '+b.zona : ''}</div>
       <div class="sub"><span class="stars">★ ${b.valoracion.toFixed(1)}</span> <span class="reviews">(${fmtN(b.resenas)})</span> · ${esp}</div>
     </div>`;
   }
@@ -334,7 +335,7 @@ function popupHTML(b){
       ? `<div class="row"><b>Tu cerveza</b><span>✓ ${state.juego.nombre} ${fuenteBadge(state.juego.bares[b.id].fuente,state.juego.bares[b.id].fecha,CFG.search.badge)}</span></div>` : '';
     return `<div class="pop">
       <h3>${b.nombre}</h3>
-      <div class="tipo-zona">${CFG.tipoLabel(b)} · ${b.ciudad} — ${b.zona}</div>
+      <div class="tipo-zona">${CFG.tipoLabel(b)} · ${b.ciudad}${b.zona ? ' — '+b.zona : ''}</div>
       <div class="dir">${b.direccion}</div>
       ${cervInfo}
       <div class="row"><b>Valoración</b><span><span class="stars">★ ${b.valoracion.toFixed(1)}</span> <span class="reviews">(${fmtN(b.resenas)} reseñas en Google)</span></span></div>
