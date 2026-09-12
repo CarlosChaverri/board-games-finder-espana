@@ -353,6 +353,7 @@ function popupHTML(b){
     if(b.cervezas_total!=null) esp += `<div class="row"><b>Referencias</b><span>~${fmtN(b.cervezas_total)} <span class="badge ${fu[1]}">${fu[0]}</span></span></div>`;
     const acts=Object.keys(ACTIVIDADES).filter(a=>b[a]);
     const actRow = acts.length ? `<div class="row"><b>Actividades</b><span>${acts.map(a=>{const f=ACT_FUENTE[b[a].fuente]||['Dato estimado','est'];return `${ACTIVIDADES[a]}${b[a].detalle?` <span class="score-flag">(${b[a].detalle})</span>`:''} <span class="badge ${f[1]}">${f[0]}</span>`;}).join(' ')}</span></div>` : '';
+    const puntRow = b.musica_puntual ? `<div class="row"><b>Música en directo</b><span><span class="score-flag">(programación puntual)</span> <span class="badge est">${(ACT_FUENTE[b.musica_puntual.fuente]||['Dato estimado'])[0]}</span></span></div>` : '';
     const webBtn = b.web ? `<a class="btn-web" href="${b.web}" target="_blank" rel="noopener">Web</a>` : '';
     const cervInfo = state.juego && state.juego.bares[b.id]
       ? `<div class="row"><b>Tu cerveza</b><span>✓ ${state.juego.nombre} ${fuenteBadge(state.juego.bares[b.id].fuente,state.juego.bares[b.id].fecha,CFG.search.badge)}</span></div>` : '';
@@ -364,6 +365,7 @@ function popupHTML(b){
       <div class="row"><b>Valoración</b><span><span class="stars">★ ${b.valoracion.toFixed(1)}</span> <span class="reviews">(${fmtN(b.resenas)} reseñas en Google)</span></span></div>
       ${esp}
       ${actRow}
+      ${puntRow}
       <div style="font-size:12.5px;color:var(--muted);margin-top:7px">${b.descripcion}</div>
       <div class="btns"><a class="btn-maps" href="${b.maps_url}" target="_blank" rel="noopener">Cómo llegar (Google Maps)</a>${webBtn}</div>
     </div>`;

@@ -17,12 +17,7 @@
   "web": "http://www.fmaravillas.com/",
   "maps_url": "https://www.google.com/maps/search/?api=1&query=F%C3%A1brica+Excepcional+-+Cervecer%C3%ADa&query_place_id=ChIJcYoJ54coQg0RcdBz4_ZLaaw",
   "actualizado": "2026-09-12",
-  "ciudad": "Madrid",
-  "dardos": {
-   "fuente": "resenas",
-   "fecha": "2026-09-12",
-   "url": "https://somoscerveza.com/es-es/i/3455-ohara-irish-pub/"
-  }
+  "ciudad": "Madrid"
  },
  {
   "id": "mad-brewing",
@@ -46,8 +41,7 @@
   "musica_en_directo": {
    "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://tomaticket.es/",
-   "detalle": "programación puntual"
+   "url": "https://laspizzerias.com/la-canibal-fabrica-de-cervezas-madrid/"
   }
  },
  {
@@ -168,12 +162,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Cervecer%C3%ADa+Dichosita&query_place_id=ChIJUXhZKRUpQg0RHY4BvgBwgNQ",
   "actualizado": "2026-09-12",
-  "ciudad": "Madrid",
-  "dardos": {
-   "fuente": "web-oficial",
-   "fecha": "2026-09-12",
-   "url": "https://cervezadichosa.com/"
-  }
+  "ciudad": "Madrid"
  },
  {
   "id": "la-osita",
@@ -237,8 +226,7 @@
   "musica_en_directo": {
    "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://tomaticket.es/",
-   "detalle": "programación puntual"
+   "url": "https://viajarcomerytapear.com/de-tapas-por-lavapies/"
   }
  },
  {
@@ -259,7 +247,22 @@
   "web": "https://www.lamaripepa.com/",
   "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Maripepa+Cervecer%C3%ADa&query_place_id=ChIJ6WD00SkmQg0Rl3gRjChd5Zw",
   "actualizado": "2026-09-11",
-  "ciudad": "Madrid"
+  "ciudad": "Madrid",
+  "billar": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://madrid.tengoplan.es/local-de-ocio/pub-discoteca-sala/la-maripepa/"
+  },
+  "dardos": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://madrid.tengoplan.es/local-de-ocio/pub-discoteca-sala/la-maripepa/"
+  },
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://madrid.tengoplan.es/local-de-ocio/pub-discoteca-sala/la-maripepa/"
+  }
  },
  {
   "id": "brewwild",
@@ -440,11 +443,15 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Brewery+Norwich+International&query_place_id=ChIJ14mBZfElQg0RAIgMCw_NexY",
   "actualizado": "2026-09-12",
   "ciudad": "Madrid",
-  "musica_en_directo": {
+  "billar": {
    "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://bars10.com/",
-   "detalle": "programación puntual"
+   "url": "https://www.privateaser.es/reserva-bar/top-bares-billar-vinateros-madrid"
+  },
+  "dardos": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://www.privateaser.es/reserva-bar/top-bares-dardos-marroquina-madrid"
   }
  },
  {
@@ -741,7 +748,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Antonia%E2%80%99s+Burger+X+Cyclic+Beer+Farm&query_place_id=ChIJN8BPCtS8pBIRLVrqY7W0Ycs",
   "actualizado": "2026-09-12",
-  "ciudad": "Barcelona"
+  "ciudad": "Barcelona",
+  "billar": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://beerexperiences.blog/2017/05/02/cyclic-beer-farm-beer-surf/"
+  }
  },
  {
   "id": "la-cervesera-artesana",
@@ -802,7 +814,7 @@
   "billar": {
    "fuente": "web-oficial",
    "fecha": "2026-09-12",
-   "url": "https://kaelderkold.com/"
+   "url": "https://www.kaelderkold.com/post/pool-table-barcelona"
   }
  },
  {
@@ -917,7 +929,12 @@
   "web": "https://olhops.com/",
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Olh%C3%B6ps&query_place_id=ChIJ9xcM2TRPYA0Rt9SgWuB4qbY",
   "actualizado": "2026-09-12",
-  "ciudad": "Valencia"
+  "ciudad": "Valencia",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://valencialanguageexchange.com/"
+  }
  },
  {
   "id": "tyris-on-tap",
@@ -1221,7 +1238,12 @@
   "web": "https://www.bidassoa.es/",
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Bidassoa+Basque+Brewery&query_place_id=ChIJPYnyymkIUQ0R6qQtfw8EjD0",
   "actualizado": "2026-09-12",
-  "ciudad": "Donostia"
+  "ciudad": "Donostia",
+  "billar": {
+   "fuente": "web-oficial",
+   "fecha": "2026-09-12",
+   "url": "https://bidassoataproom.com/"
+  }
  },
  {
   "id": "mala-gissona",
@@ -1336,11 +1358,10 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Brewing+Records&query_place_id=ChIJVVXalGhiLw0R_dpEOSCEquw",
   "actualizado": "2026-09-12",
   "ciudad": "Vigo",
-  "musica_en_directo": {
+  "musica_puntual": {
    "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://samuellevi.es/",
-   "detalle": "programación puntual"
+   "url": "https://samuellevi.es/"
   }
  },
  {
@@ -1360,7 +1381,17 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=CRAFT+VIGO&query_place_id=ChIJw94qhmtiLw0RwJQUzEiQz3k",
   "actualizado": "2026-09-12",
-  "ciudad": "Vigo"
+  "ciudad": "Vigo",
+  "billar": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://localitybiz.es/"
+  },
+  "dardos": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://carta.menu/restaurants/vigo/craft-2"
+  }
  },
  {
   "id": "liquidos",
@@ -1436,7 +1467,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Vacceo+Craft+Beer&query_place_id=ChIJwbR4clNtRw0RKRlMZUMe5Nc",
   "actualizado": "2026-09-12",
-  "ciudad": "Valladolid"
+  "ciudad": "Valladolid",
+  "musica_puntual": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://mappesp.com/"
+  }
  },
  {
   "id": "the-bitter-barrel",
@@ -1512,7 +1548,12 @@
   "web": "https://lahermosagranada.com/",
   "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Hermosa+Craft+Beer&query_place_id=ChIJM1aVHcj8cQ0RPt2kPXWOpkk",
   "actualizado": "2026-09-12",
-  "ciudad": "Granada"
+  "ciudad": "Granada",
+  "musica_en_directo": {
+   "fuente": "web-oficial",
+   "fecha": "2026-09-12",
+   "url": "https://lahermosagranada.com/"
+  }
  },
  {
   "id": "3monos",
@@ -1575,11 +1616,10 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Madriguera+Bar&query_place_id=ChIJk-T1ZL73cg0R3ZfN7GGt7eo",
   "actualizado": "2026-09-12",
   "ciudad": "Málaga",
-  "musica_en_directo": {
+  "musica_puntual": {
    "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://entradium.com/",
-   "detalle": "programación puntual"
+   "url": "https://entradium.com/"
   }
  },
  {
@@ -1904,7 +1944,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=James+Joyce+Irish+Pub+Madrid&query_place_id=ChIJJ6-lFZsoQg0RB41S0osPelY",
   "actualizado": "2026-09-12",
-  "ciudad": "Madrid"
+  "ciudad": "Madrid",
+  "musica_en_directo": {
+   "fuente": "web-oficial",
+   "fecha": "2026-09-12",
+   "url": "https://jamesjoycemadrid.com/"
+  }
  },
  {
   "id": "o-connell-st-madrid",
@@ -1949,6 +1994,11 @@
    "fuente": "guia",
    "fecha": "2026-09-12",
    "url": "https://planesenmadrid.es/collins-irish-tavern/"
+  },
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://planesenmadrid.es/collins-irish-tavern/"
   }
  },
  {
@@ -1969,12 +2019,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Cavern+Irish+Pub&query_place_id=ChIJ_1P3k3koQg0R6wERy49Jo70",
   "actualizado": "2026-09-12",
-  "ciudad": "Madrid",
-  "dardos": {
-   "fuente": "web-oficial",
-   "fecha": "2026-09-12",
-   "url": "https://irishcavern-es.webnode.es/"
-  }
+  "ciudad": "Madrid"
  },
  {
   "id": "o-reilly-s-madrid",
@@ -2015,11 +2060,10 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Newbridge+irish+pub&query_place_id=ChIJlU9W-3coQg0Re35gv_X2Ixs",
   "actualizado": "2026-09-12",
   "ciudad": "Madrid",
-  "musica_en_directo": {
+  "musica_puntual": {
    "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://tomaticket.es/",
-   "detalle": "programación puntual"
+   "url": "https://www.tomaticket.es/es-es/recintos/newbridge-irish-pub"
   }
  },
  {
@@ -2130,7 +2174,17 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Thirty+Three+IRISH+PUB&query_place_id=ChIJfdAmoc8oQg0R9X8jNt_woVc",
   "actualizado": "2026-09-12",
-  "ciudad": "Madrid"
+  "ciudad": "Madrid",
+  "billar": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://www.salir.com/"
+  },
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://www.salir.com/"
+  }
  },
  {
   "id": "cavan-irish-tavern-madrid",
@@ -2190,7 +2244,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=O%27Donoghue%27s+Jerez+Centro&query_place_id=ChIJm4JTJgDHDQ0RD0UbLvfoyKQ",
   "actualizado": "2026-09-12",
-  "ciudad": "Jerez de la Frontera"
+  "ciudad": "Jerez de la Frontera",
+  "musica_puntual": {
+   "fuente": "prensa",
+   "fecha": "2026-09-12",
+   "url": "https://lavozdelsur.es/"
+  }
  },
  {
   "id": "o-connell-s-cadiz",
@@ -2340,12 +2399,6 @@
    "fuente": "resenas",
    "fecha": "2026-09-12",
    "url": "https://localitybiz.es/"
-  },
-  "musica_en_directo": {
-   "fuente": "guia",
-   "fecha": "2026-09-12",
-   "url": "https://andaluciainformacion.es/",
-   "detalle": "programación puntual"
   }
  },
  {
@@ -2367,10 +2420,10 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Merryman%27s+Irish+Pub&query_place_id=ChIJ54uLpibNDQ0REBF2MvAgv04",
   "actualizado": "2026-09-12",
   "ciudad": "San Fernando",
-  "dardos": {
+  "musica_puntual": {
    "fuente": "resenas",
    "fecha": "2026-09-12",
-   "url": "https://localitybiz.es/"
+   "url": "https://localitybiz.es/23107583/merryman%27s-irish-pub-san-fernando"
   }
  },
  {
@@ -2391,7 +2444,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Shamrock+Bar+%26+Eatery+Puerto+de+Santa+Maria&query_place_id=ChIJOVqAe3_QDQ0R2k2Kx6yJP3o",
   "actualizado": "2026-09-12",
-  "ciudad": "El Puerto de Sta María"
+  "ciudad": "El Puerto de Sta María",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://corestaurant.ch/"
+  }
  },
  {
   "id": "antiquary-irish-pub-rota-rota",
@@ -2451,7 +2509,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurante+Molly+Malone&query_place_id=ChIJiytEuerRDQ0R1FVJJtkdYa8",
   "actualizado": "2026-09-12",
-  "ciudad": "El Puerto de Sta María"
+  "ciudad": "El Puerto de Sta María",
+  "musica_en_directo": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://www.sluurpy.es/"
+  }
  },
  {
   "id": "la-taberna-irlandesa-prado-del-rey",
@@ -2471,7 +2534,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Taberna+Irlandesa&query_place_id=ChIJgVuiBoQSDQ0RMsu9U64Cl2c",
   "actualizado": "2026-09-12",
-  "ciudad": "Prado del Rey"
+  "ciudad": "Prado del Rey",
+  "musica_en_directo": {
+   "fuente": "prensa",
+   "fecha": "2026-09-12",
+   "url": "https://www.diariodejerez.es/jerez/pubs-irlandeses-encanto-Sierra-jerezana-prado-rey-san-patricio_0_1554445418.html"
+  }
  },
  {
   "id": "the-george-payne-irish-pub-barcelona",
@@ -2491,7 +2559,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+George+Payne+Irish+Pub&query_place_id=ChIJoa1WP_CipBIRRGHK6waFxI8",
   "actualizado": "2026-09-12",
-  "ciudad": "Barcelona"
+  "ciudad": "Barcelona",
+  "musica_en_directo": {
+   "fuente": "web-oficial",
+   "fecha": "2026-09-12",
+   "url": "https://thegeorgepayne.com/"
+  }
  },
  {
   "id": "flaherty-s-irish-pub-barcelona-barcelona",
@@ -2512,6 +2585,11 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Flaherty%C2%B4s+Irish+Pub+Barcelona&query_place_id=ChIJbaHurleipBIRz9wQ-ob1UlA",
   "actualizado": "2026-09-12",
   "ciudad": "Barcelona",
+  "billar": {
+   "fuente": "web-oficial",
+   "fecha": "2026-09-12",
+   "url": "https://pflaherty.com/"
+  },
   "dardos": {
    "fuente": "web-oficial",
    "fecha": "2026-09-12",
@@ -2542,10 +2620,15 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Shamrock+Bar&query_place_id=ChIJM9kwlvSipBIRtyXQiOg12Rc",
   "actualizado": "2026-09-12",
   "ciudad": "Barcelona",
-  "musica_en_directo": {
+  "billar": {
    "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://bcnnoches.com/"
+   "url": "https://barna.news/where-to-watch-world-cup-2026-barcelona/"
+  },
+  "dardos": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://dartsbarcelona.com/%f0%9f%8f%b7-the-shamrock-bar/"
   }
  },
  {
@@ -2611,7 +2694,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Old+Irish+Pub+-+La+Rambla&query_place_id=ChIJeTjT83yjpBIRmEMVsy_QVtw",
   "actualizado": "2026-09-12",
-  "ciudad": "Barcelona"
+  "ciudad": "Barcelona",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://amicsdelarambla.cat/"
+  }
  },
  {
   "id": "scobies-irish-pub-barcelona",
@@ -2651,12 +2739,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Dunne%27s+Irish+Bar+%7C+Barcelona&query_place_id=ChIJL7osLPmipBIRNj1C9Ji3NTw",
   "actualizado": "2026-09-12",
-  "ciudad": "Barcelona",
-  "billar": {
-   "fuente": "resenas",
-   "fecha": "2026-09-12",
-   "url": "https://pos.do/"
-  }
+  "ciudad": "Barcelona"
  },
  {
   "id": "mccarthy-s-bar-barcelona",
@@ -2696,12 +2779,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Michael+Collins&query_place_id=ChIJSXqb8sKipBIRw6_KOp2Ky3A",
   "actualizado": "2026-09-12",
-  "ciudad": "Barcelona",
-  "musica_en_directo": {
-   "fuente": "guia",
-   "fecha": "2026-09-12",
-   "url": "https://www.tripadvisor.co/"
-  }
+  "ciudad": "Barcelona"
  },
  {
   "id": "temple-bar-irish-pub-barcelona",
@@ -2761,7 +2839,17 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=WILD+ROVER&query_place_id=ChIJwfeGbVeipBIRliYXhZ-hH2U",
   "actualizado": "2026-09-12",
-  "ciudad": "Barcelona"
+  "ciudad": "Barcelona",
+  "billar": {
+   "fuente": "web-oficial",
+   "fecha": "2026-09-12",
+   "url": "https://barwildrover.com/"
+  },
+  "dardos": {
+   "fuente": "web-oficial",
+   "fecha": "2026-09-12",
+   "url": "https://barwildrover.com/"
+  }
  },
  {
   "id": "don-patricio-s-barcelona",
@@ -2801,7 +2889,17 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Finnegans+of+Dublin&query_place_id=ChIJw9VuSU1PYA0RJV0iiESIPM4",
   "actualizado": "2026-09-12",
-  "ciudad": "Valencia"
+  "ciudad": "Valencia",
+  "billar": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://www.sluurpy.com/en/valencia/restaurant/3621324/finnegans-of-dublin"
+  },
+  "musica_en_directo": {
+   "fuente": "web-oficial",
+   "fecha": "2026-09-12",
+   "url": "https://finnegansofdublin.com/"
+  }
  },
  {
   "id": "st-patrick-s-valencia",
@@ -2845,7 +2943,7 @@
   "musica_en_directo": {
    "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://es.thebar.com/"
+   "url": "https://rocanegra.es/"
   }
  },
  {
@@ -2866,7 +2964,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Saint+Anthony%E2%80%99s+Irish+Pub&query_place_id=ChIJq8ChQn1JYA0RyQHLTfV00xY",
   "actualizado": "2026-09-12",
-  "ciudad": "Valencia"
+  "ciudad": "Valencia",
+  "musica_en_directo": {
+   "fuente": "web-oficial",
+   "fecha": "2026-09-12",
+   "url": "https://saintanthonyspub.com/"
+  }
  },
  {
   "id": "sean-o-brians-valencia",
@@ -2953,9 +3056,14 @@
   "actualizado": "2026-09-12",
   "ciudad": "Valencia",
   "billar": {
-   "fuente": "guia",
+   "fuente": "resenas",
    "fecha": "2026-09-12",
-   "url": "https://schlouk-map.com/"
+   "url": "https://localitybiz.es/24361131/john-beer-alameda-val%C3%A8ncia"
+  },
+  "dardos": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://localitybiz.es/24361131/john-beer-alameda-val%C3%A8ncia"
   }
  },
  {
@@ -2976,17 +3084,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=John+Beer+Irish+Pub&query_place_id=ChIJxY0Rx45FYA0RAYreoEv-CnQ",
   "actualizado": "2026-09-12",
-  "ciudad": "Valencia",
-  "billar": {
-   "fuente": "guia",
-   "fecha": "2026-09-12",
-   "url": "https://sauvetonbar.schlouk-map.com/"
-  },
-  "musica_en_directo": {
-   "fuente": "guia",
-   "fecha": "2026-09-12",
-   "url": "https://tragamundos.es/"
-  }
+  "ciudad": "Valencia"
  },
  {
   "id": "o-donoghue-s-irish-pub-night-bar-estepona-estepona",
@@ -3006,7 +3104,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=O%27Donoghue%27s+%7C+Irish+Pub+%7C+Night+Bar+%7C+Estepona&query_place_id=ChIJX_2L27PWDA0RO40WkSzMTcg",
   "actualizado": "2026-09-12",
-  "ciudad": "Estepona"
+  "ciudad": "Estepona",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://malaga-directory.com/"
+  }
  },
  {
   "id": "healy-s-irish-bar-estepona",
@@ -3028,15 +3131,19 @@
   "actualizado": "2026-09-12",
   "ciudad": "Estepona",
   "billar": {
-   "fuente": "web-oficial",
+   "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://healysirishbar.com/"
+   "url": "https://malaga-directory.com/business/healy-s-irish-bar"
+  },
+  "dardos": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://malaga-directory.com/business/healy-s-irish-bar"
   },
   "musica_en_directo": {
-   "fuente": "web-oficial",
+   "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://www.facebook.com/",
-   "detalle": "programación puntual"
+   "url": "https://malaga-directory.com/business/healy-s-irish-bar"
   }
  },
  {
@@ -3058,11 +3165,20 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Pub+Molly+Bloom%27s&query_place_id=ChIJa1frzIvADA0RDVzXTIMHnG4",
   "actualizado": "2026-09-12",
   "ciudad": "La Línea de la Concepción",
+  "billar": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://cierraporfuera.com/"
+  },
+  "dardos": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://cierraporfuera.com/"
+  },
   "musica_en_directo": {
    "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://andaluciainformacion.es/",
-   "detalle": "programación puntual"
+   "url": "https://mappesp.com/pub-molly-blooms-i.html"
   }
  },
  {
@@ -3123,7 +3239,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Monahan%27s+Irish+Bar&query_place_id=ChIJVRUk-S7RDA0R8PA0cGktHyo",
   "actualizado": "2026-09-12",
-  "ciudad": "San Luis de Sabinillas"
+  "ciudad": "San Luis de Sabinillas",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://es.placehub.net/"
+  }
  },
  {
   "id": "dublin-irish-tavern-ceuta-ceuta",
@@ -3144,11 +3265,10 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Dublin+Irish+Tavern+Ceuta&query_place_id=ChIJIQ7MhwCkDA0Rasis1-ATJWM",
   "actualizado": "2026-09-12",
   "ciudad": "Ceuta",
-  "musica_en_directo": {
-   "fuente": "guia",
+  "musica_puntual": {
+   "fuente": "prensa",
    "fecha": "2026-09-12",
-   "url": "https://revolutionrockbar.es/",
-   "detalle": "programación puntual"
+   "url": "https://ceutaactualidad.com/"
   }
  },
  {
@@ -3169,12 +3289,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=O%E2%80%99Grady%E2%80%99s+Irish+Pub&query_place_id=ChIJdcxPM8Epcw0RdJTHSlkmgyo",
   "actualizado": "2026-09-12",
-  "ciudad": "Marbella",
-  "billar": {
-   "fuente": "guia",
-   "fecha": "2026-09-12",
-   "url": "https://pos.do/"
-  }
+  "ciudad": "Marbella"
  },
  {
   "id": "nelly-mc-s-irish-bar-marbella",
@@ -3198,8 +3313,7 @@
   "musica_en_directo": {
    "fuente": "resenas",
    "fecha": "2026-09-12",
-   "url": "https://localitybiz.es/",
-   "detalle": "programación puntual"
+   "url": "https://www.sluurpy.es/marbella/restaurant/1852801/nelly-mc-s-irish-bar"
   }
  },
  {
@@ -3220,12 +3334,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Pub+Sevilla+este+-+O%27David%27s+Pub&query_place_id=ChIJxbrhCNNoEg0Rth810Vc4Bgw",
   "actualizado": "2026-09-12",
-  "ciudad": "Sevilla",
-  "billar": {
-   "fuente": "guia",
-   "fecha": "2026-09-12",
-   "url": "https://cierraporfuera.com/"
-  }
+  "ciudad": "Sevilla"
  },
  {
   "id": "two-sisters-irish-pub-dos-hermanas",
@@ -3265,7 +3374,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Red+Lion+%28Irish+pub%29+-+Huelva&query_place_id=ChIJmbldgybQEQ0R_9nUKeN-wLk",
   "actualizado": "2026-09-12",
-  "ciudad": "Huelva"
+  "ciudad": "Huelva",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://guiademiciudad.com/"
+  }
  },
  {
   "id": "brown-s-irish-tavern-punta-umbria",
@@ -3285,7 +3399,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Brown%27s+Irish+Tavern&query_place_id=ChIJgeImbDDREQ0Rg0TzFPRJU5I",
   "actualizado": "2026-09-12",
-  "ciudad": "Punta Umbría"
+  "ciudad": "Punta Umbría",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://mappesp.com/"
+  }
  },
  {
   "id": "the-new-coffee-irish-pub-nuevo-portil",
@@ -3305,7 +3424,17 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+New+Coffee+Irish+Pub&query_place_id=ChIJuZd_Ex3TEQ0RlR_9RUsyGxg",
   "actualizado": "2026-09-12",
-  "ciudad": "Nuevo Portil"
+  "ciudad": "Nuevo Portil",
+  "billar": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://www.sluurpy.es/el-portil/restaurant/1931971/the-new-coffee-irish-pub"
+  },
+  "dardos": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://www.sluurpy.es/el-portil/restaurant/1931971/the-new-coffee-irish-pub"
+  }
  },
  {
   "id": "st-louis-irish-pub-jaen",
@@ -3325,7 +3454,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=ST.LOUIS+IRISH+PUB&query_place_id=ChIJSYr-cg_XbQ0R4EbGY1MoUAg",
   "actualizado": "2026-09-12",
-  "ciudad": "Jaén"
+  "ciudad": "Jaén",
+  "dardos": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://localitybiz.es/"
+  }
  },
  {
   "id": "pub-st-patrick-jaen",
@@ -3365,7 +3499,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Daniel%27s+Irish&query_place_id=ChIJ7Snjh7tPbA0R-d5BPpwWzSA",
   "actualizado": "2026-09-12",
-  "ciudad": "Marmolejo"
+  "ciudad": "Marmolejo",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://restaurantefijo.es/"
+  }
  },
  {
   "id": "the-shamrock-bailen",
@@ -3426,6 +3565,11 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Hannigan+%26+Sons+Irish+Pub&query_place_id=ChIJK5D_Er_8cQ0Rx999fJ7h6pQ",
   "actualizado": "2026-09-12",
   "ciudad": "Granada",
+  "dardos": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://www.salir.com/hannigan-sons-granada-neg-141574.html"
+  },
   "musica_en_directo": {
    "fuente": "web-oficial",
    "fecha": "2026-09-12",
@@ -3454,8 +3598,7 @@
   "musica_en_directo": {
    "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://conciertosengranada.es/",
-   "detalle": "programación puntual"
+   "url": "https://club.directoriogratis.es/"
   }
  },
  {
@@ -3476,7 +3619,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Coopers+Irish+Bar+%26+Caf%C3%A9&query_place_id=ChIJv65_8Fwfcw0RqHkmBWjbWEI",
   "actualizado": "2026-09-12",
-  "ciudad": "Calahonda"
+  "ciudad": "Calahonda",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://malaga-directory.com/"
+  }
  },
  {
   "id": "daly-s-the-cobblestone-granada",
@@ -3498,9 +3646,9 @@
   "actualizado": "2026-09-12",
   "ciudad": "Granada",
   "musica_en_directo": {
-   "fuente": "web-oficial",
+   "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://www.facebook.com/"
+   "url": "https://cierraporfuera.com/"
   }
  },
  {
@@ -3565,8 +3713,7 @@
   "musica_en_directo": {
    "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://intravel.net/",
-   "detalle": "programación puntual"
+   "url": "https://malaga-directory.com/"
   }
  },
  {
@@ -3627,7 +3774,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Museum+Pub+Irlandes&query_place_id=ChIJtUkUI773cg0RbzgMuBWLHqQ",
   "actualizado": "2026-09-12",
-  "ciudad": "Málaga"
+  "ciudad": "Málaga",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://malaga-directory.com/"
+  }
  },
  {
   "id": "o-hara-irish-pub-malaga",
@@ -3652,6 +3804,11 @@
    "fuente": "guia",
    "fecha": "2026-09-12",
    "url": "https://somoscerveza.com/es-es/i/3455-ohara-irish-pub/"
+  },
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://soaliver.es/lineas-de-negocio/ohara-irish-pub/"
   }
  },
  {
@@ -3672,7 +3829,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Mae%C2%B4s+Irish+Pub&query_place_id=ChIJlV0ANBb3cg0R25GMoEhvQ-M",
   "actualizado": "2026-09-12",
-  "ciudad": "Málaga"
+  "ciudad": "Málaga",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://malaga-directory.com/"
+  }
  },
  {
   "id": "biddy-mulligan-s-irish-pub-la-cala-de-mijas",
@@ -3692,7 +3854,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Biddy+Mulligan%27s+Irish+Pub&query_place_id=ChIJrXYZkD3icg0RdhiJaVk9DCs",
   "actualizado": "2026-09-12",
-  "ciudad": "La Cala de Mijas"
+  "ciudad": "La Cala de Mijas",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://thelocalspain.com/biddy-mulligans-irish-pub-in-malaga-la-cala/"
+  }
  },
  {
   "id": "the-all-blacks-irish-pub-torremolinos",
@@ -3733,6 +3900,16 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Cafe+Rock+Irland%C3%A9s&query_place_id=ChIJN18hUtf5cg0RB3JhUagkjBg",
   "actualizado": "2026-09-12",
   "ciudad": "Málaga",
+  "billar": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://www.privateaser.es/local/62217-cafe-rock-irlandes"
+  },
+  "dardos": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://www.privateaser.es/local/62217-cafe-rock-irlandes"
+  },
   "musica_en_directo": {
    "fuente": "web-oficial",
    "fecha": "2026-09-12",
@@ -3777,7 +3954,17 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Bailey+Irish+Pub&query_place_id=ChIJs-WrLu37cg0R1WApslfAu0Y",
   "actualizado": "2026-09-12",
-  "ciudad": "Torremolinos"
+  "ciudad": "Torremolinos",
+  "billar": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://chalkysticks.com/"
+  },
+  "musica_en_directo": {
+   "fuente": "web-oficial",
+   "fecha": "2026-09-12",
+   "url": "https://thebaileytm.com/"
+  }
  },
  {
   "id": "the-irish-affair-torremolinos",
@@ -3797,7 +3984,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Irish+Affair&query_place_id=ChIJ4_db3u77cg0RCPjq70CKydE",
   "actualizado": "2026-09-12",
-  "ciudad": "Torremolinos"
+  "ciudad": "Torremolinos",
+  "musica_en_directo": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://mappesp.com/the-irish-affair-i11784187.html"
+  }
  },
  {
   "id": "the-claddagh-irish-bar-torremolinos",
@@ -3837,7 +4029,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Colours+Irish+Bar&query_place_id=ChIJT1qP5ez7cg0RJteL8GShg4k",
   "actualizado": "2026-09-12",
-  "ciudad": "Torremolinos"
+  "ciudad": "Torremolinos",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://malaga-directory.com/"
+  }
  },
  {
   "id": "vip-irish-tavern-sport-pub-torremolinos",
@@ -3937,12 +4134,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Guinness+Tavern&query_place_id=ChIJ8bA9p0f9cg0RJv5Js_HM2Ws",
   "actualizado": "2026-09-12",
-  "ciudad": "Benalmádena",
-  "billar": {
-   "fuente": "resenas",
-   "fecha": "2026-09-12",
-   "url": "https://sluurpy.com/"
-  }
+  "ciudad": "Benalmádena"
  },
  {
   "id": "new-irish-jim-s-sports-bar-and-fish-and-chip-takeaway-torremolinos",
@@ -4022,13 +4214,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=McGinty%E2%80%99s+Irish+Pub&query_place_id=ChIJUUp4Cdf9cg0RWyr2f3G1tYo",
   "actualizado": "2026-09-12",
-  "ciudad": "Benalmádena",
-  "musica_en_directo": {
-   "fuente": "guia",
-   "fecha": "2026-09-12",
-   "url": "https://tevienes.com/",
-   "detalle": "programación puntual"
-  }
+  "ciudad": "Benalmádena"
  },
  {
   "id": "scanlons-shamrock-irish-pub-benalmadena",
@@ -4068,7 +4254,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Casey+Duke%27s+Irish+Bar&query_place_id=ChIJr_ZWXnv8cg0RpwkYDeFSR4g",
   "actualizado": "2026-09-12",
-  "ciudad": "Benalmádena"
+  "ciudad": "Benalmádena",
+  "billar": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://menuweb.menu/restaurants/benalmadena/casey-dukes-irish"
+  }
  },
  {
   "id": "shamrock-palma-palma",
@@ -4102,7 +4293,7 @@
   "musica_en_directo": {
    "fuente": "web-oficial",
    "fecha": "2026-09-12",
-   "url": "https://shamrockpalma.com/"
+   "url": "https://shamrockpalma.com/live-music/"
   }
  },
  {
@@ -4253,18 +4444,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=IRISH+Pub&query_place_id=ChIJEZjg9-iNlxIRLALkZKNmh_4",
   "actualizado": "2026-09-12",
-  "ciudad": "Sant Agustí",
-  "billar": {
-   "fuente": "resenas",
-   "fecha": "2026-09-12",
-   "url": "https://sluurpy.com/"
-  },
-  "musica_en_directo": {
-   "fuente": "resenas",
-   "fecha": "2026-09-12",
-   "url": "https://sluurpy.es/",
-   "detalle": "programación puntual"
-  }
+  "ciudad": "Sant Agustí"
  },
  {
   "id": "the-irish-tavern-port-d-alcudia",
@@ -4324,7 +4504,17 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Mucky+O%27Marras+Irish+Bar&query_place_id=ChIJXcYpQFAtlhIR9X7u3W1M7pQ",
   "actualizado": "2026-09-12",
-  "ciudad": "Alcúdia"
+  "ciudad": "Alcúdia",
+  "billar": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://localitybiz.es/"
+  },
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://www.mallorca.com/es/directorio/empresa/mucky-o-marras-irish-bar-alcudia-3wtm0pwm"
+  }
  },
  {
   "id": "o-neill-s-bar-palmanova",
@@ -4384,7 +4574,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Cleary%27s+Irish+Bar+%40+Caesars&query_place_id=ChIJ41JwbYD9cg0RazZmtPKrVm0",
   "actualizado": "2026-09-12",
-  "ciudad": "Benalmádena"
+  "ciudad": "Benalmádena",
+  "billar": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://localitybiz.es/"
+  }
  },
  {
   "id": "irlandes-pub-benalmadena",
@@ -4404,7 +4599,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Irland%C3%A9s+Pub&query_place_id=ChIJBzTpc7H9cg0RPuqiAxkhMbI",
   "actualizado": "2026-09-12",
-  "ciudad": "Benalmádena"
+  "ciudad": "Benalmádena",
+  "billar": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://www.sluurpy.es/benalmadena/restaurant/1914119/irlandes-pub"
+  }
  },
  {
   "id": "dec-s-irish-sports-pub-benalmadena",
@@ -4504,7 +4704,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=McKevitt%C2%B4s+The+Irish+Pub+%26+Sports+Bar&query_place_id=ChIJFyu2wlOJlxIRLVV77EJwBag",
   "actualizado": "2026-09-12",
-  "ciudad": "Magaluf"
+  "ciudad": "Magaluf",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://whattheyeah.com/mckevitts.php"
+  }
  },
  {
   "id": "irish-soul-santa-ponca",
@@ -4564,7 +4769,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Dubliner+Bar+Santa+Pon%C3%A7a&query_place_id=ChIJ-X_Bqr-JlxIRJn5acf3TSfs",
   "actualizado": "2026-09-12",
-  "ciudad": "Costa de la Calma"
+  "ciudad": "Costa de la Calma",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://www.mallorca.com/"
+  }
  },
  {
   "id": "old-town-irish-pub-night-club-fuengirola",
@@ -4586,10 +4796,9 @@
   "actualizado": "2026-09-12",
   "ciudad": "Fuengirola",
   "musica_en_directo": {
-   "fuente": "resenas",
+   "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://malaga-directory.com/",
-   "detalle": "programación puntual"
+   "url": "https://malaga-directory.com/business/old-town-irish-pub-and-night-club"
   }
  },
  {
@@ -4630,7 +4839,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Saint+Patrick%27s+Pub&query_place_id=ChIJM2Zx2_Xjcg0R_FUOfBv_WfU",
   "actualizado": "2026-09-12",
-  "ciudad": "Fuengirola"
+  "ciudad": "Fuengirola",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://malaga-directory.com/business/saint-patrick-s-pub"
+  }
  },
  {
   "id": "j-b-burkes-fuengirola",
@@ -4650,7 +4864,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=J.B+Burkes&query_place_id=ChIJjUpmXWricg0RNtjD1U2JElQ",
   "actualizado": "2026-09-12",
-  "ciudad": "Fuengirola"
+  "ciudad": "Fuengirola",
+  "billar": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://gastroranking.es/"
+  }
  },
  {
   "id": "pub-o-brien-fuengirola",
@@ -4692,9 +4911,9 @@
   "actualizado": "2026-09-12",
   "ciudad": "Fuengirola",
   "musica_en_directo": {
-   "fuente": "guia",
+   "fuente": "resenas",
    "fecha": "2026-09-12",
-   "url": "https://carta.menu/"
+   "url": "https://mappesp.com/"
   }
  },
  {
@@ -4775,7 +4994,17 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Rocky+O%27Sullivans&query_place_id=ChIJk1HCdLfjcg0RlxJ9b4kqBuw",
   "actualizado": "2026-09-12",
-  "ciudad": "Fuengirola"
+  "ciudad": "Fuengirola",
+  "billar": {
+   "fuente": "web-oficial",
+   "fecha": "2026-09-12",
+   "url": "https://rockyosullivans.com/"
+  },
+  "musica_en_directo": {
+   "fuente": "web-oficial",
+   "fecha": "2026-09-12",
+   "url": "https://rockyosullivans.com/"
+  }
  },
  {
   "id": "mediterraneo-by-saint-patricks-fuengirola",
@@ -4855,7 +5084,17 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Flahertys+Irish+Bar+Ibiza&query_place_id=ChIJv82POuBJmRIR9q3BHjp5uDI",
   "actualizado": "2026-09-12",
-  "ciudad": "Sant Antoni de Portmany"
+  "ciudad": "Sant Antoni de Portmany",
+  "billar": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://www.ibiza-spotlight.es/event/live-music-flahertys"
+  },
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://www.ibiza-spotlight.es/event/live-music-flahertys"
+  }
  },
  {
   "id": "murphy-s-ibiza-sant-josep-de-sa-talaia",
@@ -4897,9 +5136,9 @@
   "actualizado": "2026-09-12",
   "ciudad": "Sant Josep de sa Talaia",
   "musica_en_directo": {
-   "fuente": "web-oficial",
+   "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://theirishibiza.com/"
+   "url": "https://tamararestaurant.es/"
   }
  },
  {
@@ -4920,12 +5159,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Casey%E2%80%99s+Irish+Bar&query_place_id=ChIJs2G4Ca85mRIRXHhYOLPzA-s",
   "actualizado": "2026-09-12",
-  "ciudad": "Port de",
-  "musica_en_directo": {
-   "fuente": "guia",
-   "fecha": "2026-09-12",
-   "url": "https://es.restaurantguru.com/"
-  }
+  "ciudad": "Port de"
  },
  {
   "id": "irish-tavern-sant-antoni-de-portmany",
@@ -4985,7 +5219,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=IRISHMAN+OLD+TOWN+MARBELLA&query_place_id=ChIJS-B_e_gncw0R7J4K_CZhEng",
   "actualizado": "2026-09-12",
-  "ciudad": "Marbella"
+  "ciudad": "Marbella",
+  "musica_en_directo": {
+   "fuente": "web-oficial",
+   "fecha": "2026-09-12",
+   "url": "https://irishmanelviria.com/"
+  }
  },
  {
   "id": "mcnulty-s-irish-bar-marbella",
@@ -5005,7 +5244,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=McNulty%27s+Irish+Bar&query_place_id=ChIJK8LYN7gncw0RNeFXco2jrJg",
   "actualizado": "2026-09-12",
-  "ciudad": "Marbella"
+  "ciudad": "Marbella",
+  "billar": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://gastroranking.es/"
+  }
  },
  {
   "id": "irishman-beach-marbella",
@@ -5025,7 +5269,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Irishman+Beach&query_place_id=ChIJgbM69BIncw0RUNNbY78hSTE",
   "actualizado": "2026-09-12",
-  "ciudad": "Marbella"
+  "ciudad": "Marbella",
+  "musica_en_directo": {
+   "fuente": "web-oficial",
+   "fecha": "2026-09-12",
+   "url": "https://irishmanelviria.com/"
+  }
  },
  {
   "id": "the-lucky-leprechaun-marbella",
@@ -5067,9 +5316,9 @@
   "actualizado": "2026-09-12",
   "ciudad": "Calahonda",
   "musica_en_directo": {
-   "fuente": "guia",
+   "fuente": "resenas",
    "fecha": "2026-09-12",
-   "url": "https://localitybiz.es/"
+   "url": "https://localitybiz.es/23204061/dempsey%27s-irish-bar-calahonda"
   }
  },
  {
@@ -5150,12 +5399,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Irishman+Benahavis+part+of+the+Irishman+Group&query_place_id=ChIJtU-kG0HVcg0Rx5cYiuuvLEc",
   "actualizado": "2026-09-12",
-  "ciudad": "Benahavís",
-  "billar": {
-   "fuente": "resenas",
-   "fecha": "2026-09-12",
-   "url": "https://localitybiz.es/"
-  }
+  "ciudad": "Benahavís"
  },
  {
   "id": "heaven-irish-tavern-ronda",
@@ -5175,7 +5419,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=HEAVEN+IRISH+TAVERN&query_place_id=ChIJLbSqjDgxDQ0RRdC_3UtyElk",
   "actualizado": "2026-09-12",
-  "ciudad": "Ronda"
+  "ciudad": "Ronda",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://rondatoday.com/"
+  }
  },
  {
   "id": "the-irish-rover-las-palmas-de-gran-canaria",
@@ -5259,8 +5508,7 @@
   "musica_en_directo": {
    "fuente": "resenas",
    "fecha": "2026-09-12",
-   "url": "https://localitybiz.es/",
-   "detalle": "programación puntual"
+   "url": "https://localitybiz.es/"
   }
  },
  {
@@ -5281,12 +5529,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=O%27Connors+Irish+Pub&query_place_id=ChIJh_jhTUeBQAwRk9VMX4qbzfc",
   "actualizado": "2026-09-12",
-  "ciudad": "Puerto Rico",
-  "musica_en_directo": {
-   "fuente": "web-oficial",
-   "fecha": "2026-09-12",
-   "url": "https://oconnors.bar/"
-  }
+  "ciudad": "Puerto Rico"
  },
  {
   "id": "the-irish-tavern-san-bartolome-de-tirajana",
@@ -5393,9 +5636,9 @@
   "actualizado": "2026-09-12",
   "ciudad": "Maspalomas",
   "musica_en_directo": {
-   "fuente": "guia",
+   "fuente": "resenas",
    "fecha": "2026-09-12",
-   "url": "https://mappesp.com/"
+   "url": "https://yelp.es/"
   }
  },
  {
@@ -5436,7 +5679,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Oul+Triangle%2C+Irish+Pub%2C+Maspalomas&query_place_id=ChIJbVESj7hiPwwRv0p2Jlsyoac",
   "actualizado": "2026-09-12",
-  "ciudad": "Maspalomas"
+  "ciudad": "Maspalomas",
+  "musica_en_directo": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://menuweb.menu/"
+  }
  },
  {
   "id": "the-temple-bar-puerto-rico",
@@ -5556,7 +5804,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurante+Pipers+Irish&query_place_id=ChIJmQNJZedbTg0RLmx2tliq-OA",
   "actualizado": "2026-09-12",
-  "ciudad": "Algorta"
+  "ciudad": "Algorta",
+  "musica_en_directo": {
+   "fuente": "prensa",
+   "fecha": "2026-09-12",
+   "url": "https://jantour.elcorreo.com/"
+  }
  },
  {
   "id": "the-donegal-irish-pub-portugalete",
@@ -5596,7 +5849,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Irish+pub+BRENDAN%E2%80%99S+ISLE&query_place_id=ChIJLzPJYWFcTg0RRydw_yDtKO8",
   "actualizado": "2026-09-12",
-  "ciudad": "Moreaga"
+  "ciudad": "Moreaga",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://despistecafe.es/cafeteria/irish-pub-brendans-isle/"
+  }
  },
  {
   "id": "shebeen-irish-blues-tabern-bilbao",
@@ -5678,10 +5936,9 @@
   "actualizado": "2026-09-12",
   "ciudad": "Vitoria-Gasteiz",
   "musica_en_directo": {
-   "fuente": "guia",
+   "fuente": "web-oficial",
    "fecha": "2026-09-12",
-   "url": "https://agenda.elcorreo.com/",
-   "detalle": "programación puntual"
+   "url": "https://www.oconnors-vitoria.com/index.php"
   }
  },
  {
@@ -5702,7 +5959,22 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Molly+Malones&query_place_id=ChIJ6eplHZViPwwRRj1ekAzc6ms",
   "actualizado": "2026-09-12",
-  "ciudad": "San Bartolomé de Tirajana"
+  "ciudad": "San Bartolomé de Tirajana",
+  "billar": {
+   "fuente": "web-oficial",
+   "fecha": "2026-09-12",
+   "url": "https://mollymalonesgc.com/"
+  },
+  "dardos": {
+   "fuente": "web-oficial",
+   "fecha": "2026-09-12",
+   "url": "https://mollymalonesgc.com/"
+  },
+  "musica_en_directo": {
+   "fuente": "web-oficial",
+   "fecha": "2026-09-12",
+   "url": "https://mollymalonesgc.com/"
+  }
  },
  {
   "id": "patrick-s-bar-maspalomas",
@@ -5782,7 +6054,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Paddy%27s+Beach+Bar&query_place_id=ChIJx8Hotyt9PwwRDvlxQ88Rk0Y",
   "actualizado": "2026-09-12",
-  "ciudad": "Maspalomas"
+  "ciudad": "Maspalomas",
+  "musica_en_directo": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://gastroranking.es/"
+  }
  },
  {
   "id": "belfast-donostia",
@@ -5922,7 +6199,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=O%27Neill%27s+Irish+Pub+Corralejo&query_place_id=ChIJyyezAAI1RgwRIUyTn4OkYMc",
   "actualizado": "2026-09-12",
-  "ciudad": "Corralejo"
+  "ciudad": "Corralejo",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://fuerteventura.world/"
+  }
  },
  {
   "id": "mccarthys-irish-pub-corralejo-corralejo",
@@ -5944,10 +6226,9 @@
   "actualizado": "2026-09-12",
   "ciudad": "Corralejo",
   "musica_en_directo": {
-   "fuente": "resenas",
+   "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://localitybiz.es/",
-   "detalle": "programación puntual"
+   "url": "https://wanderlog.com/place/details/1783995/mccarthys-irish-pub-corralejo"
   }
  },
  {
@@ -5969,10 +6250,15 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Finnegans+Irish+Bar+corralejo&query_place_id=ChIJ5y2GPAI1RgwRxgJo6-7dflE",
   "actualizado": "2026-09-12",
   "ciudad": "Corralejo",
+  "billar": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://fuerteventura.world/directory/place/finnegans-irish-bar/"
+  },
   "musica_en_directo": {
    "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://fuerteventura.world/"
+   "url": "https://fuerteventura.world/directory/place/finnegans-irish-bar/"
   }
  },
  {
@@ -6013,7 +6299,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar+Rosie+O%27Grady%27s&query_place_id=ChIJ1Q18kwE1RgwRzzx5xNb4Nxg",
   "actualizado": "2026-09-12",
-  "ciudad": "Corralejo"
+  "ciudad": "Corralejo",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://fuerteventura.world/"
+  }
  },
  {
   "id": "valinor-irish-pub-lanzarote-playa-blanca",
@@ -6033,7 +6324,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Valinor+Irish+Pub+Lanzarote&query_place_id=ChIJMX8rXMg3RgwReoHbI8kDWTE",
   "actualizado": "2026-09-12",
-  "ciudad": "Playa Blanca"
+  "ciudad": "Playa Blanca",
+  "musica_en_directo": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://tripadvisor.co.uk/"
+  }
  },
  {
   "id": "the-irish-anvil-bar-playa-blanca",
@@ -6093,22 +6389,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Murphy%27s+Irish+Pub+Lanzarote&query_place_id=ChIJaXm0YJQlRgwRp-3mb8_2wlY",
   "actualizado": "2026-09-12",
-  "ciudad": "La Playa",
-  "billar": {
-   "fuente": "guia",
-   "fecha": "2026-09-12",
-   "url": "https://pidemesa.es/"
-  },
-  "dardos": {
-   "fuente": "guia",
-   "fecha": "2026-09-12",
-   "url": "https://pidemesa.es/"
-  },
-  "musica_en_directo": {
-   "fuente": "guia",
-   "fecha": "2026-09-12",
-   "url": "https://pidemesa.es/"
-  }
+  "ciudad": "La Playa"
  },
  {
   "id": "the-harp-playa-blanca",
@@ -6148,7 +6429,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Slattery%27s+Traditional+Irish+Bar&query_place_id=ChIJKSPbkZYlRgwRokVjC1N0kno",
   "actualizado": "2026-09-12",
-  "ciudad": "Tías"
+  "ciudad": "Tías",
+  "musica_en_directo": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://localitybiz.es/"
+  }
  },
  {
   "id": "mullin-s-irish-pub-vitoria-gasteiz",
@@ -6208,7 +6494,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Pub+Dublin+House+-+Gasteiz%2C+Araba&query_place_id=ChIJ42XyXvbBTw0Rso4vVusQLQY",
   "actualizado": "2026-09-12",
-  "ciudad": "Vitoria-Gasteiz"
+  "ciudad": "Vitoria-Gasteiz",
+  "musica_en_directo": {
+   "fuente": "web-oficial",
+   "fecha": "2026-09-12",
+   "url": "https://dublinhouse.es/"
+  }
  },
  {
   "id": "dublin-irish-pub-arrasate-mondragon",
@@ -6392,7 +6683,7 @@
   "musica_en_directo": {
    "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://restaurantguru.com/"
+   "url": "https://mapquest.com/"
   }
  },
  {
@@ -6413,17 +6704,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Dicey+Reillys+Irish+Bar&query_place_id=ChIJXQ14pJclRgwRayJ36IT5DDo",
   "actualizado": "2026-09-12",
-  "ciudad": "Puerto del Carmen",
-  "billar": {
-   "fuente": "guia",
-   "fecha": "2026-09-12",
-   "url": "https://pidemesa.es/"
-  },
-  "musica_en_directo": {
-   "fuente": "resenas",
-   "fecha": "2026-09-12",
-   "url": "https://gastroranking.es/"
-  }
+  "ciudad": "Puerto del Carmen"
  },
  {
   "id": "the-big-tree-irish-pub-tias",
@@ -6443,7 +6724,17 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Big+Tree+Irish+Pub&query_place_id=ChIJuV8_6cMlRgwRyEB-ceB45pY",
   "actualizado": "2026-09-12",
-  "ciudad": "Tías"
+  "ciudad": "Tías",
+  "billar": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://localitybiz.es/"
+  },
+  "musica_en_directo": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://localitybiz.es/"
+  }
  },
  {
   "id": "hogan-stand-irish-bar-tias",
@@ -6483,7 +6774,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Irish+Harbour+Bar&query_place_id=ChIJn0qC9JglRgwRShxR341dnHg",
   "actualizado": "2026-09-12",
-  "ciudad": "Puerto del Carmen"
+  "ciudad": "Puerto del Carmen",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://wanderlog.com/"
+  }
  },
  {
   "id": "maguires-irish-bar-restaurant-puerto-del-carmen",
@@ -6503,7 +6799,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Maguires+Irish+Bar+%26+Restaurant&query_place_id=ChIJZ8NzBOwlRgwR6HVfMR7FPVI",
   "actualizado": "2026-09-12",
-  "ciudad": "Puerto del Carmen"
+  "ciudad": "Puerto del Carmen",
+  "musica_en_directo": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://localitybiz.es/"
+  }
  },
  {
   "id": "nellys-irish-bar-lanzarote",
@@ -6623,7 +6924,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Paddy%27s+Corner&query_place_id=ChIJRfgIfmGSUA0RQZRjkZCAXHE",
   "actualizado": "2026-09-12",
-  "ciudad": "Pamplona"
+  "ciudad": "Pamplona",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://pos.do/"
+  }
  },
  {
   "id": "cerveceria-irish-pub-eskiroz-esquiroz",
@@ -6643,7 +6949,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Cerveceria+Irish+Pub+Eskiroz&query_place_id=ChIJw7ZlvYqRUA0Rc0kUHNZ5ujM",
   "actualizado": "2026-09-12",
-  "ciudad": "Esquíroz"
+  "ciudad": "Esquíroz",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://www.laterrazadelebro.es/cerveceria-irish-pub-eskiroz/"
+  }
  },
  {
   "id": "kilkenny-irish-tavern-calahorra",
@@ -6703,13 +7014,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Molly+Malone&query_place_id=ChIJOXMtq5N_agwR-8R4UJqABEo",
   "actualizado": "2026-09-12",
-  "ciudad": "Puerto de la Cruz",
-  "musica_en_directo": {
-   "fuente": "guia",
-   "fecha": "2026-09-12",
-   "url": "https://revolutionrockbar.es/",
-   "detalle": "programación puntual"
-  }
+  "ciudad": "Puerto de la Cruz"
  },
  {
   "id": "dubliner-playa-de-las-americas",
@@ -6834,7 +7139,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Grandee+O%27Donnells&query_place_id=ChIJ3-03U1yfagwRSfD5dyR13f8",
   "actualizado": "2026-09-12",
-  "ciudad": "Oasis del Sur"
+  "ciudad": "Oasis del Sur",
+  "musica_en_directo": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://carta.menu/"
+  }
  },
  {
   "id": "paddy-o-kellys-arona",
@@ -6858,7 +7168,7 @@
   "musica_en_directo": {
    "fuente": "web-oficial",
    "fecha": "2026-09-12",
-   "url": "https://paddyokellys.es/"
+   "url": "https://www.paddyokellys.es/"
   }
  },
  {
@@ -6944,7 +7254,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Dail+Fountain+Irish+bar&query_place_id=ChIJQXKvuhqZagwRpxFi5OjBpXA",
   "actualizado": "2026-09-12",
-  "ciudad": "Los Cristianos"
+  "ciudad": "Los Cristianos",
+  "musica_en_directo": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://localitybiz.es/"
+  }
  },
  {
   "id": "the-old-pharmacy-irish-pub-playa-de-las-americas",
@@ -7071,9 +7386,9 @@
   "actualizado": "2026-09-12",
   "ciudad": "Logroño",
   "dardos": {
-   "fuente": "guia",
+   "fuente": "prensa",
    "fecha": "2026-09-12",
-   "url": "https://larioja.com/"
+   "url": "https://www.larioja.com/logrono/dante-oneal-bar-logrono-20260322151541-nt.html"
   }
  },
  {
@@ -7134,12 +7449,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Highland+Paddy&query_place_id=ChIJzQz6MXmXagwR2SlqDlHO7hg",
   "actualizado": "2026-09-12",
-  "ciudad": "Playa de las Américas",
-  "musica_en_directo": {
-   "fuente": "guia",
-   "fecha": "2026-09-12",
-   "url": "https://restaurantguru.com/"
-  }
+  "ciudad": "Playa de las Américas"
  },
  {
   "id": "the-golden-clover-irish-pub-arona",
@@ -7159,7 +7469,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Golden+Clover+Irish+Pub&query_place_id=ChIJwckllNaXagwRBmFC7V9DoS0",
   "actualizado": "2026-09-12",
-  "ciudad": "Arona"
+  "ciudad": "Arona",
+  "musica_en_directo": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://tripadvisor.co.uk/"
+  }
  },
  {
   "id": "kinsella-s-irish-bar-los-cristianos",
@@ -7201,9 +7516,9 @@
   "actualizado": "2026-09-12",
   "ciudad": "Costa Adeje",
   "musica_en_directo": {
-   "fuente": "guia",
+   "fuente": "resenas",
    "fecha": "2026-09-12",
-   "url": "https://temple-bar.grubbio.com/"
+   "url": "https://www.sluurpy.es/"
   }
  },
  {
@@ -7224,7 +7539,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Bull+McCabe%27s+Irish+Bar&query_place_id=ChIJMQdKGukUWQ0RHtzDiNPbTo0",
   "actualizado": "2026-09-12",
-  "ciudad": "Zaragoza"
+  "ciudad": "Zaragoza",
+  "musica_en_directo": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://pos.do/es/zaragoza/restaurante/bull-mccabes-irish"
+  }
  },
  {
   "id": "cafe-dublin-irish-pub-zaragoza",
@@ -7244,7 +7564,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Dubl%C3%ADn+Irish+Pub&query_place_id=ChIJa60Z-O4UWQ0RzC3bVAvB_EY",
   "actualizado": "2026-09-12",
-  "ciudad": "Zaragoza"
+  "ciudad": "Zaragoza",
+  "musica_en_directo": {
+   "fuente": "web-oficial",
+   "fecha": "2026-09-12",
+   "url": "https://cafedublin.es/"
+  }
  },
  {
   "id": "dan-o-hara-irish-pub-zaragoza",
@@ -7284,7 +7609,17 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Gallagher+Irish+Tavern&query_place_id=ChIJbfGMp-wUWQ0RVEz_2X0Bvtc",
   "actualizado": "2026-09-12",
-  "ciudad": "Zaragoza"
+  "ciudad": "Zaragoza",
+  "dardos": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://localitybiz.es/"
+  },
+  "musica_en_directo": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://www.sluurpy.com/"
+  }
  },
  {
   "id": "the-irish-coffee-tavern-zaragoza",
@@ -7385,11 +7720,10 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Dublin+House&query_place_id=ChIJERIFH77_Xw0RfAP-GMBoSec",
   "actualizado": "2026-09-12",
   "ciudad": "Castelló de la Plana",
-  "musica_en_directo": {
+  "musica_puntual": {
    "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://tomaticket.es/",
-   "detalle": "programación puntual"
+   "url": "https://tomaticket.es/"
   }
  },
  {
@@ -7430,12 +7764,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Vila-Beer+Irish+Pub&query_place_id=ChIJHYFUQPoGYA0RiVaxloAhknM",
   "actualizado": "2026-09-12",
-  "ciudad": "Vila-real",
-  "musica_en_directo": {
-   "fuente": "resenas",
-   "fecha": "2026-09-12",
-   "url": "https://discotecas.one/"
-  }
+  "ciudad": "Vila-real"
  },
  {
   "id": "the-harbour-official-irish-pub-port-de-sagunt",
@@ -7496,11 +7825,15 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Special+Horse+Irish+Pub&query_place_id=ChIJe0NjwklbYA0Rk3B9DbNmlrk",
   "actualizado": "2026-09-12",
   "ciudad": "Paterna",
-  "musica_en_directo": {
-   "fuente": "guia",
+  "billar": {
+   "fuente": "resenas",
    "fecha": "2026-09-12",
-   "url": "https://losmejoresrock.com/",
-   "detalle": "programación puntual"
+   "url": "https://carta.menu/"
+  },
+  "musica_en_directo": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://carta.menu/"
   }
  },
  {
@@ -7521,12 +7854,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Castle+Beer+Irish+Pub&query_place_id=ChIJR6aVR6ZfYA0RRJ40SK1y85E",
   "actualizado": "2026-09-12",
-  "ciudad": "Benissanó",
-  "musica_en_directo": {
-   "fuente": "guia",
-   "fecha": "2026-09-12",
-   "url": "https://rutaculinaria.com/"
-  }
+  "ciudad": "Benissanó"
  },
  {
   "id": "cafetal-reina-fabiola-molly-malone-s-irish-pub-port-de-sagunt",
@@ -7586,12 +7914,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Dubl%C3%ADn+Bay&query_place_id=ChIJy_v8trISRw0RbxzFw2RxHAU",
   "actualizado": "2026-09-12",
-  "ciudad": "Valladolid",
-  "musica_en_directo": {
-   "fuente": "guia",
-   "fecha": "2026-09-12",
-   "url": "https://eldiadevalladolid.com/"
-  }
+  "ciudad": "Valladolid"
  },
  {
   "id": "shamrock-irish-bar-valladolid",
@@ -7671,13 +7994,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Molly+Malone&query_place_id=ChIJaa7k6k1tRw0RlQbPhGrViD4",
   "actualizado": "2026-09-12",
-  "ciudad": "Valladolid",
-  "musica_en_directo": {
-   "fuente": "guia",
-   "fecha": "2026-09-12",
-   "url": "https://tomaticket.es/",
-   "detalle": "programación puntual"
-  }
+  "ciudad": "Valladolid"
  },
  {
   "id": "bar-the-irish-river-medina-de-rioseco",
@@ -7738,11 +8055,10 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Local+%E2%80%A2+Irish+Pub&query_place_id=ChIJL00V9zD9oxIReq7Y0zT_RGM",
   "actualizado": "2026-09-12",
   "ciudad": "Tarragona",
-  "musica_en_directo": {
-   "fuente": "web-oficial",
+  "dardos": {
+   "fuente": "resenas",
    "fecha": "2026-09-12",
-   "url": "https://tshhospitality.com/",
-   "detalle": "programación puntual"
+   "url": "https://pos.do/"
   }
  },
  {
@@ -7803,12 +8119,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Murphy%27s+Bar+%26+Bistro&query_place_id=ChIJ0W-NgnRZoRIRhDA7O18wyGk",
   "actualizado": "2026-09-12",
-  "ciudad": "Salou",
-  "musica_en_directo": {
-   "fuente": "guia",
-   "fecha": "2026-09-12",
-   "url": "https://fiestassalou.com/"
-  }
+  "ciudad": "Salou"
  },
  {
   "id": "danny-boy-salou",
@@ -7948,7 +8259,17 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Shamrock+Family+Bar&query_place_id=ChIJl11xdeRboRIRsgiVN8r4rZc",
   "actualizado": "2026-09-12",
-  "ciudad": "Cambrils"
+  "ciudad": "Cambrils",
+  "billar": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://bbbbares.es/"
+  },
+  "dardos": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://bbbbares.es/"
+  }
  },
  {
   "id": "harvest-irish-pub-calafell",
@@ -8008,7 +8329,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Irish+Corner+Pub+%7C+Cervecer%C3%ADa+Salamanca&query_place_id=ChIJDyZ7dgAnPw0R1-cH-BpJ1z0",
   "actualizado": "2026-09-12",
-  "ciudad": "Salamanca"
+  "ciudad": "Salamanca",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://almaroja.es/irish-corner-pub-cerveceria-salamanca/"
+  }
  },
  {
   "id": "o-hara-s-irish-pub-salamanca",
@@ -8028,7 +8354,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=O%27Hara%27s+Irish+Pub&query_place_id=ChIJh_kh6GAnPw0RfTDpsnB7hqQ",
   "actualizado": "2026-09-12",
-  "ciudad": "Salamanca"
+  "ciudad": "Salamanca",
+  "musica_en_directo": {
+   "fuente": "web-oficial",
+   "fecha": "2026-09-12",
+   "url": "https://www.oharassalamanca.es/"
+  }
  },
  {
   "id": "o-bradys-irish-tavern-salamanca",
@@ -8072,8 +8403,7 @@
   "musica_en_directo": {
    "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://conciertos.club/",
-   "detalle": "programación puntual"
+   "url": "https://salamancatop.com/"
   }
  },
  {
@@ -8134,7 +8464,17 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Pub+La+Perla+Negra+Irish+Club+-+Salamanca&query_place_id=ChIJK6W66BUmPw0RE4iItkjSxFI",
   "actualizado": "2026-09-12",
-  "ciudad": "Salamanca"
+  "ciudad": "Salamanca",
+  "billar": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://cierraporfuera.com/"
+  },
+  "dardos": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://cierraporfuera.com/"
+  }
  },
  {
   "id": "molly-malone-s-irish-pub-leon",
@@ -8155,11 +8495,10 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Molly+Malone%27s+Irish+Pub&query_place_id=ChIJ7TS67ZuaNw0RneAe9OsusP0",
   "actualizado": "2026-09-12",
   "ciudad": "León",
-  "musica_en_directo": {
+  "musica_puntual": {
    "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://www.songkick.com/",
-   "detalle": "programación puntual"
+   "url": "https://www.songkick.com/"
   }
  },
  {
@@ -8180,7 +8519,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Barry%27s+Irish+Pub&query_place_id=ChIJsWlBqJ6aNw0RFxPPqHusAAo",
   "actualizado": "2026-09-12",
-  "ciudad": "León"
+  "ciudad": "León",
+  "dardos": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://dardos.eu/"
+  }
  },
  {
   "id": "cerveceria-la-celtica-leon",
@@ -8280,7 +8624,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=maclaren%E2%80%99s+irish+pub&query_place_id=ChIJt8sSRToXuxIRAVgmu5ZMBVw",
   "actualizado": "2026-09-12",
-  "ciudad": "Lloret de Mar"
+  "ciudad": "Lloret de Mar",
+  "billar": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://lloret-de-marbarsguide.blogspot.com/"
+  }
  },
  {
   "id": "shamrock-irish-bar-blanes",
@@ -8340,7 +8689,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=O%27Higgins+Irish+Bar&query_place_id=ChIJd0Op_I-quxIRJ_OWb7xyjTk",
   "actualizado": "2026-09-12",
-  "ciudad": "Sant Antoni de Calonge"
+  "ciudad": "Sant Antoni de Calonge",
+  "dardos": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://gironaselect.com/"
+  }
  },
  {
   "id": "molly-malone-s-irish-bar-mataro",
@@ -8381,11 +8735,10 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=McKiernans&query_place_id=ChIJyZCu9N3muhIR-4Q4K96rpqQ",
   "actualizado": "2026-09-12",
   "ciudad": "Girona",
-  "musica_en_directo": {
+  "musica_puntual": {
    "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://www.songkick.com/",
-   "detalle": "programación puntual"
+   "url": "https://www.songkick.com/"
   }
  },
  {
@@ -8446,7 +8799,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=MORRIGAN+Taverna+Irlandesa&query_place_id=ChIJscfYytqNuhIRdUxgc1BG5aw",
   "actualizado": "2026-09-12",
-  "ciudad": "Figueres"
+  "ciudad": "Figueres",
+  "billar": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://localitybiz.es/"
+  }
  },
  {
   "id": "classic-irish-pub-oviedo",
@@ -8627,11 +8985,10 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+1916+Irish+Pub&query_place_id=ChIJwwxVTRuWpBIR-RL0fBFtrJg",
   "actualizado": "2026-09-12",
   "ciudad": "Cerdanyola del Vallès",
-  "musica_en_directo": {
+  "musica_puntual": {
    "fuente": "web-oficial",
    "fecha": "2026-09-12",
-   "url": "https://the1916irishpub.wordpress.com/",
-   "detalle": "programación puntual"
+   "url": "https://the1916irishpub.wordpress.com/"
   }
  },
  {
@@ -8672,7 +9029,17 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Galway+Irish+Tavern+Ciempozuelos&query_place_id=ChIJdYPGe-EbQg0ROZHJgeAVWTE",
   "actualizado": "2026-09-12",
-  "ciudad": "Ciempozuelos"
+  "ciudad": "Ciempozuelos",
+  "dardos": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://localitybiz.es/"
+  },
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://mappesp.com/"
+  }
  },
  {
   "id": "irish-pub-madridejos",
@@ -8712,7 +9079,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Irish+Parrot+Cerveceria&query_place_id=ChIJiYMDSQ7zQQ0RlIVfNKjG9Og",
   "actualizado": "2026-09-12",
-  "ciudad": "Griñón"
+  "ciudad": "Griñón",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://rutaculinaria.com/"
+  }
  },
  {
   "id": "the-irish-temple-fuenlabrada",
@@ -8812,7 +9184,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=O%27Hara%27s+Irish+Club+%26+Restaurant&query_place_id=ChIJqQ0VaU-GQQ0RDUGlyWYxEGg",
   "actualizado": "2026-09-12",
-  "ciudad": "Pozuelo de Alarcón"
+  "ciudad": "Pozuelo de Alarcón",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://glutenfreemap.es/"
+  }
  },
  {
   "id": "the-irish-temple-madrid",
@@ -8852,7 +9229,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Derry+Irish+Tavern&query_place_id=ChIJSw07gfmJQQ0RpkSh3P4GPIE",
   "actualizado": "2026-09-12",
-  "ciudad": "Leganés"
+  "ciudad": "Leganés",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://mappesp.com/"
+  }
  },
  {
   "id": "grace-o-malley-irish-pub-colmenar-viejo",
@@ -8873,11 +9255,10 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Grace+O%27malley+Irish+Pub&query_place_id=ChIJl6dnPsZ9QQ0RE86udC9TRic",
   "actualizado": "2026-09-12",
   "ciudad": "Colmenar Viejo",
-  "musica_en_directo": {
+  "musica_puntual": {
    "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://conciertos.club/",
-   "detalle": "programación puntual"
+   "url": "https://conciertos.club/"
   }
  },
  {
@@ -8898,7 +9279,17 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=St.+Patrick%27s+Irish+Tavern&query_place_id=ChIJs7iIfvcsQg0RPIW1A5S3Wwo",
   "actualizado": "2026-09-12",
-  "ciudad": "Alcobendas"
+  "ciudad": "Alcobendas",
+  "billar": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://unilocal.es/"
+  },
+  "dardos": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://unilocal.es/"
+  }
  },
  {
   "id": "shamrock-irish-tavern-galapagar-galapagar",
@@ -8920,9 +9311,9 @@
   "actualizado": "2026-09-12",
   "ciudad": "Galapagar",
   "musica_en_directo": {
-   "fuente": "resenas",
+   "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://pos.do/en/galapagar/restaurant/shamrock-irish-tavern"
+   "url": "https://bars10.com/"
   }
  },
  {
@@ -8963,7 +9354,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Leprechaun%27s&query_place_id=ChIJpZxA60spQg0RhY-k6FKJ1mI",
   "actualizado": "2026-09-12",
-  "ciudad": "Madrid"
+  "ciudad": "Madrid",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://www.privateaser.es/"
+  }
  },
  {
   "id": "triki-s-irish-bar-san-sebastian-de-los-reyes",
@@ -9004,16 +9400,10 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Grumpy%27s+Irish+Tavern&query_place_id=ChIJZ7fa9ZmDQQ0Rbyx-wyOqdOc",
   "actualizado": "2026-09-12",
   "ciudad": "Las Rozas de Madrid",
-  "dardos": {
-   "fuente": "resenas",
-   "fecha": "2026-09-12",
-   "url": "https://localitybiz.es/"
-  },
   "musica_en_directo": {
    "fuente": "resenas",
    "fecha": "2026-09-12",
-   "url": "https://pos.do/",
-   "detalle": "programación puntual"
+   "url": "https://localitybiz.es/24017445/grumpy%27s-irish-tavern-las-rozas-de-madrid"
   }
  },
  {
@@ -9034,13 +9424,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Taberna+Shamrock&query_place_id=ChIJ4SjiwVPKTg0RXbMAucxwVBU",
   "actualizado": "2026-09-12",
-  "ciudad": "Hoznayo",
-  "musica_en_directo": {
-   "fuente": "guia",
-   "fecha": "2026-09-12",
-   "url": "https://miplanhoy.com/",
-   "detalle": "programación puntual"
-  }
+  "ciudad": "Hoznayo"
  },
  {
   "id": "the-green-irish-pub-alcala-de-henares",
@@ -9061,11 +9445,10 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Green+Irish+Pub&query_place_id=ChIJXd26jQ1JQg0RYCBvnalcSCU",
   "actualizado": "2026-09-12",
   "ciudad": "Alcalá de Henares",
-  "musica_en_directo": {
+  "billar": {
    "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://tomaticket.es/",
-   "detalle": "programación puntual"
+   "url": "https://erasmusu.com/"
   }
  },
  {
@@ -9270,7 +9653,7 @@
   "musica_en_directo": {
    "fuente": "web-oficial",
    "fecha": "2026-09-12",
-   "url": "https://irishcorner.es/"
+   "url": "https://irishcorner.es/quienes-somos/"
   }
  },
  {
@@ -9292,8 +9675,13 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Shamrock+Irish+Tavern&query_place_id=ChIJqYsruutJQg0Rx_Qwh98vNhw",
   "actualizado": "2026-09-12",
   "ciudad": "Alcalá de Henares",
+  "billar": {
+   "fuente": "web-oficial",
+   "fecha": "2026-09-12",
+   "url": "https://the-shamrock-irish-tavern.grubbio.com/"
+  },
   "dardos": {
-   "fuente": "guia",
+   "fuente": "web-oficial",
    "fecha": "2026-09-12",
    "url": "https://the-shamrock-irish-tavern.grubbio.com/"
   }
@@ -9337,11 +9725,15 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+White+Clover+-+Irish+Bar&query_place_id=ChIJBS7yZpCaJQ0Ru399NLLDmYc",
   "actualizado": "2026-09-12",
   "ciudad": "Tui",
+  "dardos": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://discotecas.one/"
+  },
   "musica_en_directo": {
    "fuente": "resenas",
    "fecha": "2026-09-12",
-   "url": "https://www.discotecas.one/",
-   "detalle": "programación puntual"
+   "url": "https://www.sluurpy.com/"
   }
  },
  {
@@ -9382,12 +9774,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=ST.+PATRICK%E2%80%99S+Irish+Pub+Avenue.&query_place_id=ChIJA-zdiNNfZg0RYMU69jZKQYo",
   "actualizado": "2026-09-12",
-  "ciudad": "Albacete",
-  "musica_en_directo": {
-   "fuente": "guia",
-   "fecha": "2026-09-12",
-   "url": "https://rocanegra.es/"
-  }
+  "ciudad": "Albacete"
  },
  {
   "id": "cafe-irlandes-albacete",
@@ -9447,7 +9834,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Paddy%27s+Point+Irish+Bar+%26+Restaurant&query_place_id=ChIJrTbR0UgGYw0RvZ8HHTabwUA",
   "actualizado": "2026-09-12",
-  "ciudad": "La Zenia"
+  "ciudad": "La Zenia",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://lamesaya.es/"
+  }
  },
  {
   "id": "rosie-s-irish-bar-el-chaparral",
@@ -9487,7 +9879,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=El+Nuevo+Valle+-+The+Irish+Bar&query_place_id=ChIJRZQLAAuVYw0RAt_1woepGg8",
   "actualizado": "2026-09-12",
-  "ciudad": "Hondón de los Frailes"
+  "ciudad": "Hondón de los Frailes",
+  "musica_en_directo": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://carta.menu/"
+  }
  },
  {
   "id": "the-stray-sod-irish-bar-dehesa-de-campoamor",
@@ -9507,7 +9904,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Stray+Sod+Irish+Bar&query_place_id=ChIJbV2OP4kIYw0RTzOVzAAOz6g",
   "actualizado": "2026-09-12",
-  "ciudad": "Dehesa de Campoamor"
+  "ciudad": "Dehesa de Campoamor",
+  "musica_en_directo": {
+   "fuente": "web-oficial",
+   "fecha": "2026-09-12",
+   "url": "https://thestraysodcostablanca.com/"
+  }
  },
  {
   "id": "cervexaria-o-flanagan-s-santiago-de-compostela",
@@ -9551,8 +9953,7 @@
   "musica_en_directo": {
    "fuente": "web-oficial",
    "fecha": "2026-09-12",
-   "url": "https://deicyreillys.com/",
-   "detalle": "programación puntual"
+   "url": "https://deicyreillys.com/"
   }
  },
  {
@@ -9675,12 +10076,12 @@
   "actualizado": "2026-09-12",
   "ciudad": "Cáceres",
   "billar": {
-   "fuente": "guia",
+   "fuente": "resenas",
    "fecha": "2026-09-12",
-   "url": "https://pos.do/"
+   "url": "https://mappesp.com/"
   },
   "dardos": {
-   "fuente": "guia",
+   "fuente": "resenas",
    "fecha": "2026-09-12",
    "url": "https://pos.do/"
   }
@@ -9704,8 +10105,13 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Morrigan+Irish+Pub&query_place_id=ChIJRy458SHMMQ0RieIbCR-z4Zs",
   "actualizado": "2026-09-12",
   "ciudad": "Lugo",
-  "musica_en_directo": {
+  "dardos": {
    "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://www.paxinasgalegas.es/morrigan-689650em.html"
+  },
+  "musica_en_directo": {
+   "fuente": "prensa",
    "fecha": "2026-09-12",
    "url": "https://elprogreso.es/"
   }
@@ -9730,14 +10136,19 @@
   "actualizado": "2026-09-12",
   "ciudad": "Ciudad Rodrigo",
   "billar": {
-   "fuente": "web-oficial",
+   "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://yoanna.es/"
+   "url": "https://almaroja.es/yoanna-irish-pub-foodwine/"
   },
   "dardos": {
-   "fuente": "web-oficial",
+   "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://yoanna.es/"
+   "url": "https://almaroja.es/yoanna-irish-pub-foodwine/"
+  },
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://almaroja.es/yoanna-irish-pub-foodwine/"
   }
  },
  {
@@ -9838,7 +10249,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Pub+Dubliners+Alicante&query_place_id=ChIJg6tbaHM3Yg0Raxb7dAx5SoU",
   "actualizado": "2026-09-12",
-  "ciudad": "Alacant"
+  "ciudad": "Alacant",
+  "dardos": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://gastroranking.es/r/pub-dubliners-alicante_213579/"
+  }
  },
  {
   "id": "the-irish-tavern-l-alfas-del-pi",
@@ -9983,7 +10399,17 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Pub+Dublin+Road&query_place_id=ChIJw7vpypSAVw0RqZCXZhNMc1c",
   "actualizado": "2026-09-12",
-  "ciudad": "Jaca"
+  "ciudad": "Jaca",
+  "billar": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://pos.do/"
+  },
+  "dardos": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://pos.do/"
+  }
  },
  {
   "id": "the-guinness-bar-benidorm",
@@ -10025,14 +10451,19 @@
   "actualizado": "2026-09-12",
   "ciudad": "Benidorm",
   "billar": {
-   "fuente": "guia",
+   "fuente": "resenas",
    "fecha": "2026-09-12",
-   "url": "https://pos.do/"
+   "url": "https://pos.do/es/benidorm/restaurante/shamrock-benidorm"
   },
   "dardos": {
-   "fuente": "guia",
+   "fuente": "resenas",
    "fecha": "2026-09-12",
-   "url": "https://pos.do/"
+   "url": "https://pos.do/es/benidorm/restaurante/shamrock-benidorm"
+  },
+  "musica_en_directo": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://findglocal.com/"
   }
  },
  {
@@ -10054,10 +10485,15 @@
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Bodhran+Irish+Bar&query_place_id=ChIJA4dxdOUEYg0Rp2R20JUN_vU",
   "actualizado": "2026-09-12",
   "ciudad": "Benidorm",
+  "billar": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://angloinfo.com/"
+  },
   "musica_en_directo": {
    "fuente": "web-oficial",
    "fecha": "2026-09-12",
-   "url": "https://thebodhranbenidorm.com/"
+   "url": "https://thebodhranbenidorm.com/about-us/"
   }
  },
  {
@@ -10078,7 +10514,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Lucky+Shamrock+Benidorm&query_place_id=ChIJ8QQTqAUFYg0RGQw4TDHfW_g",
   "actualizado": "2026-09-12",
-  "ciudad": "Benidorm"
+  "ciudad": "Benidorm",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://wanderlog.com/"
+  }
  },
  {
   "id": "o-maras-pub-benidorm-benidorm",
@@ -10138,7 +10579,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=THE+TEMPLE+IRISH+PUB&query_place_id=ChIJtZrOYb8FYg0RjNnkuncQwU4",
   "actualizado": "2026-09-12",
-  "ciudad": "Benidorm"
+  "ciudad": "Benidorm",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://www.craicmap.ie/"
+  }
  },
  {
   "id": "cerveceria-gilligans-irish-pub-tudela",
@@ -10308,7 +10754,17 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Irish+Abbey+bar&query_place_id=ChIJMx232-ipYw0RHWs3Q7KyWE8",
   "actualizado": "2026-09-12",
-  "ciudad": "Torrevieja"
+  "ciudad": "Torrevieja",
+  "billar": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://localitybiz.es/"
+  },
+  "dardos": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://localitybiz.es/"
+  }
  },
  {
   "id": "murphy-s-irish-pub-orihuela-costa-la-zenia",
@@ -10330,10 +10786,9 @@
   "actualizado": "2026-09-12",
   "ciudad": "La Zenia",
   "musica_en_directo": {
-   "fuente": "guia",
+   "fuente": "web-oficial",
    "fecha": "2026-09-12",
-   "url": "https://sunrisegrupo.com/",
-   "detalle": "programación puntual"
+   "url": "http://sunrisegrupo.com/murphys"
   }
  },
  {
@@ -10374,7 +10829,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Lansdowne+Irish+Bar&query_place_id=ChIJn5eMsaMHYw0R8UiyO2wxMDE",
   "actualizado": "2026-09-12",
-  "ciudad": "Playa Flamenca"
+  "ciudad": "Playa Flamenca",
+  "musica_en_directo": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://gastroranking.es/"
+  }
  },
  {
   "id": "flannigan-s-irish-pub-torrevieja",
@@ -10518,8 +10978,7 @@
   "musica_en_directo": {
    "fuente": "web-oficial",
    "fecha": "2026-09-12",
-   "url": "https://korriganlaadrada.com/",
-   "detalle": "programación puntual"
+   "url": "https://korriganlaadrada.com/"
   }
  },
  {
@@ -10562,14 +11021,14 @@
   "actualizado": "2026-09-12",
   "ciudad": "Boadilla del Monte",
   "billar": {
-   "fuente": "resenas",
+   "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://localitybiz.es/"
+   "url": "http://decervesporboadilla.blogspot.com/2017/02/nueva-carta-de-cervezas-en-crows-nest.html"
   },
   "dardos": {
    "fuente": "resenas",
    "fecha": "2026-09-12",
-   "url": "https://localitybiz.es/"
+   "url": "https://localitybiz.es/24017444/the-crow%27s-nest-boadilla-del-monte"
   }
  },
  {
@@ -10590,12 +11049,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Pub+The+Shannon+Irish+Tavern&query_place_id=ChIJIdjqN22cQQ0R_Fq7MTZAuI0",
   "actualizado": "2026-09-12",
-  "ciudad": "Villanueva del Pardillo",
-  "musica_en_directo": {
-   "fuente": "guia",
-   "fecha": "2026-09-12",
-   "url": "https://pos.do/"
-  }
+  "ciudad": "Villanueva del Pardillo"
  },
  {
   "id": "fitzpatrick-s-irish-pub-murcia-murcia",
@@ -10675,7 +11129,17 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Gogartys+Irish+Bar&query_place_id=ChIJlXN-1EgGYw0RSz7HxUnoVtI",
   "actualizado": "2026-09-12",
-  "ciudad": "Orihuela"
+  "ciudad": "Orihuela",
+  "dardos": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://pos.do/ca/orihuela-costa/restaurant/gogartys"
+  },
+  "musica_en_directo": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://pos.do/ca/orihuela-costa/restaurant/gogartys"
+  }
  },
  {
   "id": "alioth-irish-pub-orihuela",
@@ -10695,12 +11159,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Alioth+Irish+Pub&query_place_id=ChIJz3fOvMsHYw0R36xX55JDdVQ",
   "actualizado": "2026-09-12",
-  "ciudad": "Orihuela",
-  "musica_en_directo": {
-   "fuente": "guia",
-   "fecha": "2026-09-12",
-   "url": "https://pos.do/"
-  }
+  "ciudad": "Orihuela"
  },
  {
   "id": "mulligan-s-irish-pub-la-manga-club",
@@ -10720,7 +11179,17 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Mulligan%27s+Irish+Pub&query_place_id=ChIJUTDDrbY9Yw0RN1_Kk8WRHaY",
   "actualizado": "2026-09-12",
-  "ciudad": "La Manga Club"
+  "ciudad": "La Manga Club",
+  "billar": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://lamangaclubspain.com/"
+  },
+  "dardos": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://lamangaclubspain.com/"
+  }
  },
  {
   "id": "bt15-irish-pub-eatery-los-alcazares",
@@ -10740,7 +11209,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=BT15+Irish+Pub+%26+Eatery&query_place_id=ChIJa31vdAITYw0RvWO4CZUaKWg",
   "actualizado": "2026-09-12",
-  "ciudad": "Los Alcázares"
+  "ciudad": "Los Alcázares",
+  "musica_en_directo": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://www.sluurpy.es/"
+  }
  },
  {
   "id": "the-celt-irish-bar-los-alcazares",
@@ -10825,7 +11299,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Mainland+Irish+tabern&query_place_id=ChIJlcFgqo0epxIRf42I8i94dDg",
   "actualizado": "2026-09-12",
-  "ciudad": "Alpicat"
+  "ciudad": "Alpicat",
+  "dardos": {
+   "fuente": "resenas",
+   "fecha": "2026-09-12",
+   "url": "https://localitybiz.es/"
+  }
  },
  {
   "id": "irish-pub-morrison-la-mojonera",
@@ -10845,12 +11324,7 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Irish+pub+morrison&query_place_id=ChIJMXCLsYVvcA0R6I8-YuI5LXM",
   "actualizado": "2026-09-12",
-  "ciudad": "La Mojonera",
-  "billar": {
-   "fuente": "resenas",
-   "fecha": "2026-09-12",
-   "url": "https://es.restaurantguru.com/"
-  }
+  "ciudad": "La Mojonera"
  },
  {
   "id": "odonovans-irish-pub-las-norias",
@@ -10990,7 +11464,12 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Irish+Harp+Bar&query_place_id=ChIJvyAM4g0lcg0RZoXu90MKY1k",
   "actualizado": "2026-09-12",
-  "ciudad": "Nerja"
+  "ciudad": "Nerja",
+  "musica_en_directo": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://malaga-directory.com/"
+  }
  },
  {
   "id": "bar-irish-annie-s-nerja",
@@ -11014,8 +11493,7 @@
   "musica_en_directo": {
    "fuente": "resenas",
    "fecha": "2026-09-12",
-   "url": "https://pos.do/",
-   "detalle": "programación puntual"
+   "url": "https://pos.do/en/nerja/restaurant/irish-annies"
   }
  },
  {
@@ -11038,9 +11516,9 @@
   "actualizado": "2026-09-12",
   "ciudad": "Nerja",
   "musica_en_directo": {
-   "fuente": "resenas",
+   "fuente": "guia",
    "fecha": "2026-09-12",
-   "url": "https://malagarooftopbars.com/"
+   "url": "https://www.malagarooftopbars.com/nerja/rooftop-bars/cochrans-terrace"
   }
  },
  {
@@ -11121,7 +11599,17 @@
   "web": null,
   "maps_url": "https://www.google.com/maps/search/?api=1&query=Pub+Irlandes-Bolera+The+Dublin+Bay&query_place_id=ChIJW_aHcDExDA0R50tZPYmaKQ4",
   "actualizado": "2026-09-12",
-  "ciudad": "Chiclana de la Frontera"
+  "ciudad": "Chiclana de la Frontera",
+  "billar": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://minube.com/"
+  },
+  "dardos": {
+   "fuente": "guia",
+   "fecha": "2026-09-12",
+   "url": "https://minube.com/"
+  }
  },
  {
   "id": "the-place-irish-pub-alicante",
