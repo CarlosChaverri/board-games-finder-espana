@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://carloschaverri.github.io/board-games-finder-espana/sitemap.xml

@@ -1,176 +1,132 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<title>Board Games & Craft Beer Finder España — Bares de juegos de mesa y cervecerías de especialidad</title>
-<meta name="description" content="Mapas de bares de juegos de mesa y cervecerías de especialidad en toda España: compara valoraciones, reseñas, grifos y catálogos de juegos y cervezas, y encuentra tu próximo local.">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Board Games &amp; Craft Beer Finder España — Bares de juegos de mesa y cervecerías de especialidad</title>
+<meta name="description" content="Busca un juego de mesa o una cerveza y descubre en qué bares de España puedes disfrutarlo. Bares de juegos de mesa y cervecerías de especialidad con valoraciones, precios y evidencia fechada en cada ficha.">
+<link rel="canonical" href="https://carloschaverri.github.io/board-games-finder-espana/">
+<meta name="robots" content="index,follow,max-image-preview:large">
+<meta name="theme-color" content="#FAF6F1">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="es_ES">
+<meta property="og:site_name" content="Board Games &amp; Craft Beer Finder España">
+<meta property="og:title" content="Board Games &amp; Craft Beer Finder España">
+<meta property="og:description" content="¿A qué jugamos hoy? ¿Qué cerveza te apetece? Buscador de bares de juegos de mesa y cervecerías de especialidad en España, con evidencia fechada en cada ficha.">
+<meta property="og:url" content="https://carloschaverri.github.io/board-games-finder-espana/">
+<meta property="og:image" content="https://carloschaverri.github.io/board-games-finder-espana/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Board Games &amp; Craft Beer Finder España">
+<meta name="twitter:description" content="Bares de juegos de mesa y cervecerías de especialidad en España: busca por juego, cerveza o ciudad.">
+<meta name="twitter:image" content="https://carloschaverri.github.io/board-games-finder-espana/og-image.png">
+<link rel="icon" href="apple-touch-icon.png">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
-<link rel="icon" type="image/png" href="apple-touch-icon.png">
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
-<style>
-:root{
-  --bg:#fafaf9; --panel:#ffffff; --ink:#1c1917; --muted:#78716c; --faint:#a8a29e;
-  --accent:#c2410c; --line:#e7e5e4; --chip:#f5f5f4; --star:#d97706;
-}
-*{box-sizing:border-box;margin:0;padding:0}
-html,body{height:100%;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,Arial,sans-serif;color:var(--ink);background:var(--bg)}
-body{display:flex;flex-direction:column}
-button{font-family:inherit;cursor:pointer}
-/* ---------- Header ---------- */
-header{background:var(--panel);border-bottom:1px solid var(--line);padding:12px 18px;display:flex;gap:16px;align-items:center;flex-wrap:wrap;z-index:1200;position:relative}
-.brand{display:flex;flex-direction:column;line-height:1.2;min-width:max-content}
-.brand b{font-size:15px;font-weight:700;letter-spacing:-.01em}
-.brand span{font-size:11.5px;color:var(--muted)}
-.game-search{position:relative;flex:1;min-width:220px;max-width:520px}
-.game-search input{width:100%;padding:9px 34px 9px 13px;border-radius:8px;border:1px solid var(--line);background:var(--bg);color:var(--ink);font-size:14px;outline:none;transition:border-color .15s}
-.game-search input::placeholder{color:var(--faint)}
-.game-search input:focus{border-color:var(--ink)}
-.gs-clear{position:absolute;right:6px;top:50%;transform:translateY(-50%);border:0;background:none;color:var(--faint);font-size:15px;display:none}
-.gs-clear:hover{color:var(--ink)}
-.gs-dropdown{position:absolute;top:calc(100% + 4px);left:0;right:0;background:#fff;border:1px solid var(--line);border-radius:10px;box-shadow:0 10px 30px rgba(0,0,0,.08);max-height:340px;overflow:auto;display:none;z-index:1300}
-.gs-item{padding:9px 12px;border-bottom:1px solid var(--chip);cursor:pointer}
-.gs-item:last-child{border-bottom:0}
-.gs-item:hover{background:var(--bg)}
-.gs-item .nm{font-size:13.5px;font-weight:600}
-.gs-item .meta{font-size:12px;color:var(--muted);margin-top:2px;display:flex;gap:6px;flex-wrap:wrap;align-items:center}
-.gs-family{padding:7px 12px 3px;font-size:10.5px;font-weight:700;text-transform:uppercase;letter-spacing:.07em;color:var(--faint);background:#fff;position:sticky;top:0}
-.badge{display:inline-block;font-size:10px;font-weight:600;padding:1px 7px;border-radius:20px;white-space:nowrap}
-.badge.ok{background:#ecfdf5;color:#047857}
-.badge.est{background:var(--chip);color:var(--muted)}
-.badge.mid{background:#eff6ff;color:#1d4ed8}
-.badge.warn{background:#fffbeb;color:#b45309}
-.hdr-actions{display:flex;gap:8px;margin-left:auto}
-.hdr-btn{background:#fff;color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:8px 12px;font-size:13px;display:flex;gap:6px;align-items:center}
-.hdr-btn:hover{border-color:var(--ink)}
-/* ---------- Game banner ---------- */
-#gameBanner{display:none;background:var(--panel);border-bottom:1px solid var(--line);color:var(--ink);padding:8px 18px;font-size:13px;align-items:center;gap:8px;z-index:1100;position:relative}
-#gameBanner.show{display:flex}
-#gameBanner .pill{background:var(--chip);border:1px solid var(--line);padding:2px 10px;border-radius:20px;font-weight:600}
-#gameBanner #bannerNote{color:var(--muted)}
-#gameBanner button{margin-left:auto;background:none;border:0;color:var(--accent);font-size:13px;font-weight:600;padding:2px 4px}
-/* ---------- Layout ---------- */
-main{flex:1;display:flex;min-height:0;position:relative}
-#sidebar{width:372px;min-width:372px;background:var(--panel);display:flex;flex-direction:column;border-right:1px solid var(--line);z-index:1000;min-height:0}
-#map{flex:1;background:#e7e5e4}
-/* ---------- Filters ---------- */
-#filters{padding:14px 16px 12px;border-bottom:1px solid var(--line)}
-.f-row{margin-bottom:12px}
-.f-row:last-child{margin-bottom:0}
-.f-label{font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin-bottom:6px;display:flex;justify-content:space-between;align-items:center}
-.f-label output{color:var(--ink);font-size:12px;font-weight:700}
-#nameSearch{width:100%;padding:8px 11px;border:1px solid var(--line);border-radius:8px;font-size:13.5px;outline:none;background:var(--bg)}
-#nameSearch:focus{border-color:var(--ink);background:#fff}
-.chips{display:flex;flex-wrap:wrap;gap:6px}
-.chip{border:1px solid var(--line);background:#fff;color:var(--muted);font-size:12px;padding:5px 11px;border-radius:20px;transition:all .12s}
-.chip:hover{border-color:var(--faint);color:var(--ink)}
-.chip.on{background:var(--ink);border-color:var(--ink);color:#fff}
-input[type=range]{width:100%;accent-color:var(--ink)}
-.f-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
-select{width:100%;padding:7px 9px;border:1px solid var(--line);border-radius:8px;font-size:13px;background:#fff;color:var(--ink)}
-/* ---------- Results ---------- */
-#resultsBar{padding:10px 16px;border-bottom:1px solid var(--line);background:var(--panel)}
-#count{font-size:12px;color:var(--muted);font-weight:600}
-#results{flex:1;overflow-y:auto}
-.card{padding:13px 16px;border-bottom:1px solid var(--chip);cursor:pointer;transition:background .1s}
-.card:hover{background:var(--bg)}
-.card.active{background:#fff7ed;border-left:3px solid var(--accent);padding-left:13px}
-.card h3{font-size:14px;font-weight:650;margin-bottom:2px}
-.card .where{font-size:11.5px;color:var(--faint);margin-bottom:4px}
-.card .sub{font-size:12.5px;color:var(--muted)}
-.stars{color:var(--star);font-weight:700}
-.reviews{color:var(--muted);font-weight:400;font-size:12px}
-.score-flag{font-size:10.5px;color:var(--faint)}
-/* ---------- Markers ---------- */
-.pin{display:flex;align-items:center;justify-content:center;border-radius:50% 50% 50% 4px;transform:rotate(-45deg);border:2px solid #fff;box-shadow:0 1px 5px rgba(0,0,0,.3);background:var(--ink);color:#fff;font-weight:700}
-.pin span{transform:rotate(45deg);font-size:11.5px}
-.pin.irish{background:#169b62}
-/* ---------- Popup ---------- */
-.leaflet-popup-content-wrapper{border-radius:12px;box-shadow:0 12px 32px rgba(0,0,0,.14)}
-.leaflet-popup-content{margin:15px 17px;font-family:inherit;min-width:240px;max-width:300px;line-height:1.45}
-.pop h3{font-size:15.5px;margin-bottom:2px;letter-spacing:-.01em}
-.pop .tipo-zona{font-size:11.5px;color:var(--faint);text-transform:uppercase;letter-spacing:.05em;font-weight:600;margin-bottom:8px}
-.pop .dir{font-size:12.5px;color:var(--muted);margin-bottom:9px}
-.pop .row{display:flex;gap:8px;align-items:baseline;font-size:13px;margin-bottom:5px}
-.pop .row b{min-width:78px;color:var(--faint);font-size:10.5px;text-transform:uppercase;letter-spacing:.05em;font-weight:600}
-.pop .btns{display:flex;gap:7px;margin-top:12px}
-.pop .btns a{flex:1;text-align:center;text-decoration:none;font-size:12.5px;font-weight:600;padding:8px 0;border-radius:8px}
-.btn-maps{background:var(--ink);color:#fff}
-.btn-web{background:#fff;color:var(--ink);border:1px solid var(--line)}
-.nodata{color:var(--faint);font-style:italic}
-/* ---------- View switch ---------- */
-.view-switch{display:flex;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:#fff}
-.vs-btn{border:0;background:#fff;padding:8px 14px;font-size:13px;color:var(--muted);transition:all .12s}
-.vs-btn:hover{color:var(--ink)}
-.vs-btn.on{background:var(--ink);color:#fff;font-weight:600}
-/* ---------- Mobile: un solo scroll ---------- */
-@media (max-width:900px){
-  body{display:block;overflow:auto}
-  main{display:block;min-height:0}
-  #map{position:relative;width:100%;height:52vh;min-height:340px}
-  #sidebar{position:static;width:auto;min-width:0;border-right:0}
-  #results{overflow:visible}
-  header{padding:10px 12px;gap:8px}
-  .brand span{display:none}
-  .view-switch{width:100%;order:3}
-  .vs-btn{flex:1;text-align:center;padding:8px 6px}
-  .hdr-actions{margin-left:0;width:100%}
-  .hdr-btn{flex:1;justify-content:center}
-  .gs-dropdown{position:fixed;left:12px;right:12px;top:110px;max-height:50vh}
-}
-.evidence-row a{color:var(--accent);font-weight:600;text-decoration:none}.evidence-row a:hover{text-decoration:underline}
-.toast{position:fixed;bottom:18px;left:50%;transform:translateX(-50%);background:var(--ink);color:#fff;padding:9px 16px;border-radius:8px;font-size:13px;z-index:2000;opacity:0;transition:opacity .25s;pointer-events:none;white-space:nowrap}
-.toast.show{opacity:1}
-</style>
+<link rel="preload" href="fonts/pjs-var.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="vendor/leaflet.css">
+<link rel="stylesheet" href="styles.css">
+<!--JSONLD-START-->
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","name":"Board Games & Craft Beer Finder España","url":"https://carloschaverri.github.io/board-games-finder-espana/","inLanguage":"es","description":"Buscador de bares con juegos de mesa y cervecerías de especialidad en España."}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"ItemList","name":"Bares con juegos de mesa en España","numberOfItems":42,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"BarOrPub","name":"Replay Boardgame Cafe","address":{"@type":"PostalAddress","addressLocality":"Madrid","addressRegion":"La Latina / El Rastro","addressCountry":"ES","streetAddress":"C. de la Ribera de Curtidores, 26, Local 3"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=replay","geo":{"@type":"GeoCoordinates","latitude":40.4060952,"longitude":-3.7073117},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.3,"reviewCount":1184}}},{"@type":"ListItem","position":2,"item":{"@type":"BarOrPub","name":"Six Board Game Cafe","address":{"@type":"PostalAddress","addressLocality":"Madrid","addressRegion":"Pacífico","addressCountry":"ES","streetAddress":"Av. de la Ciudad de Barcelona, 180"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=six","geo":{"@type":"GeoCoordinates","latitude":40.401675,"longitude":-3.6759644},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.5,"reviewCount":1604}}},{"@type":"ListItem","position":3,"item":{"@type":"BarOrPub","name":"El Bardo Borracho","address":{"@type":"PostalAddress","addressLocality":"Madrid","addressRegion":"Malasaña","addressCountry":"ES","streetAddress":"C. de San Roque, 14"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=bardo","geo":{"@type":"GeoCoordinates","latitude":40.4226825,"longitude":-3.7045668},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.8,"reviewCount":240}}},{"@type":"ListItem","position":4,"item":{"@type":"BarOrPub","name":"A Juego Lento","address":{"@type":"PostalAddress","addressLocality":"Madrid","addressRegion":"Callao / Gran Vía","addressCountry":"ES","streetAddress":"C. de Jacometrezo, 15"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=ajuegolento","geo":{"@type":"GeoCoordinates","latitude":40.4205,"longitude":-3.707},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.8,"reviewCount":149}}},{"@type":"ListItem","position":5,"item":{"@type":"BarOrPub","name":"Epic Board Game Cafe","address":{"@type":"PostalAddress","addressLocality":"Madrid","addressRegion":"Vallehermoso","addressCountry":"ES","streetAddress":"C. de los Vascos, 3"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=epic","geo":{"@type":"GeoCoordinates","latitude":40.4472421,"longitude":-3.7106795},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.4,"reviewCount":1319}}},{"@type":"ListItem","position":6,"item":{"@type":"BarOrPub","name":"Estar Café","address":{"@type":"PostalAddress","addressLocality":"Madrid","addressRegion":"Malasaña","addressCountry":"ES","streetAddress":"C. de San Vicente Ferrer, 20"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=estar","geo":{"@type":"GeoCoordinates","latitude":40.4257371,"longitude":-3.703093},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.6,"reviewCount":795}}},{"@type":"ListItem","position":7,"item":{"@type":"BarOrPub","name":"La Manuela","address":{"@type":"PostalAddress","addressLocality":"Madrid","addressRegion":"Malasaña","addressCountry":"ES","streetAddress":"C. de San Vicente Ferrer, 29"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=lamanuela","geo":{"@type":"GeoCoordinates","latitude":40.4257072,"longitude":-3.7037383},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.4,"reviewCount":2315}}},{"@type":"ListItem","position":8,"item":{"@type":"BarOrPub","name":"Pub El Tren","address":{"@type":"PostalAddress","addressLocality":"Madrid","addressRegion":"Argüelles","addressCountry":"ES","streetAddress":"C. de Blasco de Garay, 47"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=eltren","geo":{"@type":"GeoCoordinates","latitude":40.4355305,"longitude":-3.7115413},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.4,"reviewCount":1044}}},{"@type":"ListItem","position":9,"item":{"@type":"BarOrPub","name":"Meltdown Madrid","address":{"@type":"PostalAddress","addressLocality":"Madrid","addressRegion":"Chamberí","addressCountry":"ES","streetAddress":"C. de Raimundo Lulio, 9"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=meltdown","geo":{"@type":"GeoCoordinates","latitude":40.432771,"longitude":-3.6989516},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.7,"reviewCount":994}}},{"@type":"ListItem","position":10,"item":{"@type":"BarOrPub","name":"Gambit Café","address":{"@type":"PostalAddress","addressLocality":"Madrid","addressRegion":"Malasaña","addressCountry":"ES","streetAddress":"C. del Barco, 26"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=gambit","geo":{"@type":"GeoCoordinates","latitude":40.4227298,"longitude":-3.7022414},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.6,"reviewCount":97}}},{"@type":"ListItem","position":11,"item":{"@type":"BarOrPub","name":"Club de Juegos de Mesa Da2","address":{"@type":"PostalAddress","addressLocality":"Madrid","addressRegion":"Villaverde","addressCountry":"ES","streetAddress":"C. San Luciano, 4"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=da2","geo":{"@type":"GeoCoordinates","latitude":40.3629621,"longitude":-3.699279},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.9,"reviewCount":84}}},{"@type":"ListItem","position":12,"item":{"@type":"BarOrPub","name":"Bar Queimada Nivell Q","address":{"@type":"PostalAddress","addressLocality":"Barcelona","addressRegion":"Sant Martí","addressCountry":"ES","streetAddress":"Carrer de la Independència, 323"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=queimada","geo":{"@type":"GeoCoordinates","latitude":41.4094724,"longitude":2.1809379},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.6,"reviewCount":1025}}},{"@type":"ListItem","position":13,"item":{"@type":"BarOrPub","name":"Archivo Arcano","address":{"@type":"PostalAddress","addressLocality":"Barcelona","addressRegion":"Eixample","addressCountry":"ES","streetAddress":"Carrer del Rosselló, 195, bajos"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=archivo-arcano","geo":{"@type":"GeoCoordinates","latitude":41.3922861,"longitude":2.1555956},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.8,"reviewCount":223}}},{"@type":"ListItem","position":14,"item":{"@type":"BarOrPub","name":"Pub La Cotxera","address":{"@type":"PostalAddress","addressLocality":"Barcelona","addressRegion":"Nou Barris","addressCountry":"ES","streetAddress":"Carrer de Costa i Cuxart, 31"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=cotxera","geo":{"@type":"GeoCoordinates","latitude":41.4281778,"longitude":2.1756912},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.3,"reviewCount":637}}},{"@type":"ListItem","position":15,"item":{"@type":"BarOrPub","name":"Hugo's Burgers and Videogames","address":{"@type":"PostalAddress","addressLocality":"Barcelona","addressRegion":"Poblenou","addressCountry":"ES","streetAddress":"Carrer dels Almogàvers, 4"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=hugos","geo":{"@type":"GeoCoordinates","latitude":41.3914167,"longitude":2.1827684},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.4,"reviewCount":614}}},{"@type":"ListItem","position":16,"item":{"@type":"BarOrPub","name":"Barcelona Reapers","address":{"@type":"PostalAddress","addressLocality":"Barcelona","addressRegion":"Les Corts","addressCountry":"ES","streetAddress":"Gran Via de Carles III, 33"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=reapers","geo":{"@type":"GeoCoordinates","latitude":41.3811868,"longitude":2.1277437},"aggregateRating":{"@type":"AggregateRating","ratingValue":5.0,"reviewCount":20}}},{"@type":"ListItem","position":17,"item":{"@type":"BarOrPub","name":"Bruixes i Fades","address":{"@type":"PostalAddress","addressLocality":"Valencia","addressRegion":"Algirós","addressCountry":"ES","streetAddress":"C/ de Rubén Darío, 18"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=bruixes","geo":{"@type":"GeoCoordinates","latitude":39.4777254,"longitude":-0.3525167},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.6,"reviewCount":613}}},{"@type":"ListItem","position":18,"item":{"@type":"BarOrPub","name":"OMG! OhMyGame","address":{"@type":"PostalAddress","addressLocality":"Valencia","addressRegion":"Algirós","addressCountry":"ES","streetAddress":"C/ de Campoamor, 58"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=ohmygame","geo":{"@type":"GeoCoordinates","latitude":39.4707092,"longitude":-0.3467419},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.5,"reviewCount":1035}}},{"@type":"ListItem","position":19,"item":{"@type":"BarOrPub","name":"Kame House Bar Gaming","address":{"@type":"PostalAddress","addressLocality":"Sevilla","addressRegion":"Los Remedios","addressCountry":"ES","streetAddress":"C. Juan Sebastián Elcano, 14, Local 2"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=kamehouse","geo":{"@type":"GeoCoordinates","latitude":37.3774919,"longitude":-5.996043},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.5,"reviewCount":919}}},{"@type":"ListItem","position":20,"item":{"@type":"BarOrPub","name":"Play Planet Coffee & Shop","address":{"@type":"PostalAddress","addressLocality":"Málaga","addressRegion":"Cruz de Humilladero","addressCountry":"ES","streetAddress":"P.º de los Tilos, 64"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=playplanet","geo":{"@type":"GeoCoordinates","latitude":36.7128946,"longitude":-4.4385155},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.6,"reviewCount":1074}}},{"@type":"ListItem","position":21,"item":{"@type":"BarOrPub","name":"Continental Café Pub","address":{"@type":"PostalAddress","addressLocality":"Granada","addressRegion":"Centro","addressCountry":"ES","streetAddress":"C. Seminario, 11"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=continental","geo":{"@type":"GeoCoordinates","latitude":37.1744441,"longitude":-3.6052966},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.5,"reviewCount":2623}}},{"@type":"ListItem","position":22,"item":{"@type":"BarOrPub","name":"El Poney Pisador","address":{"@type":"PostalAddress","addressLocality":"Córdoba","addressRegion":"Sureste","addressCountry":"ES","streetAddress":"C. Periodista Antonio Rodríguez Mesa, 15"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=poney","geo":{"@type":"GeoCoordinates","latitude":37.8774333,"longitude":-4.7611095},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.6,"reviewCount":147}}},{"@type":"ListItem","position":23,"item":{"@type":"BarOrPub","name":"El Club de los Viernes","address":{"@type":"PostalAddress","addressLocality":"Jerez de la Frontera","addressRegion":"Jerez","addressCountry":"ES","streetAddress":"C. Álvar Núñez Cabeza de Vaca, 4"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=viernes","geo":{"@type":"GeoCoordinates","latitude":36.7001136,"longitude":-6.1369273},"aggregateRating":{"@type":"AggregateRating","ratingValue":5.0,"reviewCount":19}}},{"@type":"ListItem","position":24,"item":{"@type":"BarOrPub","name":"Txoko Tabulo","address":{"@type":"PostalAddress","addressLocality":"Bilbao","addressRegion":"Casco Viejo","addressCountry":"ES","streetAddress":"C. Belosticalle, 23"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=txoko","geo":{"@type":"GeoCoordinates","latitude":43.256845,"longitude":-2.9240741},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.3,"reviewCount":44}}},{"@type":"ListItem","position":25,"item":{"@type":"BarOrPub","name":"Mononoke Board Game Café","address":{"@type":"PostalAddress","addressLocality":"Zaragoza","addressRegion":"Delicias","addressCountry":"ES","streetAddress":"Cam. de las Torres, 116"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=mononoke","geo":{"@type":"GeoCoordinates","latitude":41.6403066,"longitude":-0.8857039},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.5,"reviewCount":926}}},{"@type":"ListItem","position":26,"item":{"@type":"BarOrPub","name":"Login Gaming Bar","address":{"@type":"PostalAddress","addressLocality":"Vigo","addressRegion":"Centro","addressCountry":"ES","streetAddress":"Rúa Serafín Avendaño, 10"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=login","geo":{"@type":"GeoCoordinates","latitude":42.2374311,"longitude":-8.712703},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.7,"reviewCount":315}}},{"@type":"ListItem","position":27,"item":{"@type":"BarOrPub","name":"Terra Lúdica","address":{"@type":"PostalAddress","addressLocality":"A Coruña","addressRegion":"A Coruña","addressCountry":"ES","streetAddress":"Rúa Pascual Veiga, 8"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=terraludica","geo":{"@type":"GeoCoordinates","latitude":43.3627381,"longitude":-8.4204212},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.8,"reviewCount":37}}},{"@type":"ListItem","position":28,"item":{"@type":"BarOrPub","name":"Identidad Secreta","address":{"@type":"PostalAddress","addressLocality":"Gijón","addressRegion":"Centro","addressCountry":"ES","streetAddress":"Pl. Compostela, 4"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=identidad","geo":{"@type":"GeoCoordinates","latitude":43.5325833,"longitude":-5.6663972},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.7,"reviewCount":1020}}},{"@type":"ListItem","position":29,"item":{"@type":"BarOrPub","name":"Enclave de Juego","address":{"@type":"PostalAddress","addressLocality":"Oviedo","addressRegion":"Oviedo","addressCountry":"ES","streetAddress":"C. de Víctor Sáenz, 21"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=enclave","geo":{"@type":"GeoCoordinates","latitude":43.3553057,"longitude":-5.8571864},"aggregateRating":{"@type":"AggregateRating","ratingValue":5.0,"reviewCount":40}}},{"@type":"ListItem","position":30,"item":{"@type":"BarOrPub","name":"Dados & Cubitos","address":{"@type":"PostalAddress","addressLocality":"Salamanca","addressRegion":"Centro","addressCountry":"ES","streetAddress":"C. Padilla, 4"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=dados","geo":{"@type":"GeoCoordinates","latitude":40.9659863,"longitude":-5.6574264},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.8,"reviewCount":437}}},{"@type":"ListItem","position":31,"item":{"@type":"BarOrPub","name":"Stranger Games Store & Café","address":{"@type":"PostalAddress","addressLocality":"Murcia","addressRegion":"Centro","addressCountry":"ES","streetAddress":"C. Actor Isidoro Máiquez, 2"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=stranger","geo":{"@type":"GeoCoordinates","latitude":37.9937798,"longitude":-1.1264116},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.8,"reviewCount":448}}},{"@type":"ListItem","position":32,"item":{"@type":"BarOrPub","name":"Goblintrader Mallorca","address":{"@type":"PostalAddress","addressLocality":"Palma","addressRegion":"Nord","addressCountry":"ES","streetAddress":"Carrer de Rosselló i Cazador, 7"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=goblintrader","geo":{"@type":"GeoCoordinates","latitude":39.5814087,"longitude":2.6545752},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.7,"reviewCount":435}}},{"@type":"ListItem","position":33,"item":{"@type":"BarOrPub","name":"Giber Games Bar","address":{"@type":"PostalAddress","addressLocality":"Alcorcón","addressRegion":"Alcorcón","addressCountry":"ES","streetAddress":"Av. del Alcalde José Aranda, 57"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=giber","geo":{"@type":"GeoCoordinates","latitude":40.3520914,"longitude":-3.8139301},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.9,"reviewCount":181}}},{"@type":"ListItem","position":34,"item":{"@type":"BarOrPub","name":"Arcade Pub Game Over","address":{"@type":"PostalAddress","addressLocality":"Castellón","addressRegion":"Centro","addressCountry":"ES","streetAddress":"Carrer de la Mare Vedruna, 34, bajo"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=gameover","geo":{"@type":"GeoCoordinates","latitude":39.9781758,"longitude":-0.0338321},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.6,"reviewCount":479}}},{"@type":"ListItem","position":35,"item":{"@type":"BarOrPub","name":"Asociación de Juegos BGG","address":{"@type":"PostalAddress","addressLocality":"Vitoria-Gasteiz","addressRegion":"Vitoria-Gasteiz","addressCountry":"ES","streetAddress":"Asturias Kalea, s/n"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=bgg","geo":{"@type":"GeoCoordinates","latitude":42.8482339,"longitude":-2.6588141},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.5,"reviewCount":17}}},{"@type":"ListItem","position":36,"item":{"@type":"BarOrPub","name":"Mundorum Viator Bar","address":{"@type":"PostalAddress","addressLocality":"Madrid","addressRegion":"San Blas-Canillejas","addressCountry":"ES","streetAddress":"C. de Miguel Yuste, 18, San Blas-Canillejas, 28037 Madrid, Spain"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=mundorum-viator","geo":{"@type":"GeoCoordinates","latitude":40.4394322,"longitude":-3.6251764},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.8,"reviewCount":183}}},{"@type":"ListItem","position":37,"item":{"@type":"BarOrPub","name":"Keli","address":{"@type":"PostalAddress","addressLocality":"Madrid","addressRegion":"Salamanca / Colón","addressCountry":"ES","streetAddress":"P.º de la Castellana, 12, Salamanca, 28046 Madrid, Spain"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=keli-madrid","geo":{"@type":"GeoCoordinates","latitude":40.4278077,"longitude":-3.6891472},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.4,"reviewCount":399}}},{"@type":"ListItem","position":38,"item":{"@type":"BarOrPub","name":"Checkpoint Arcade Bar","address":{"@type":"PostalAddress","addressLocality":"Sevilla","addressRegion":"Feria / Alameda","addressCountry":"ES","streetAddress":"C. Feria, 49, Casco Antiguo, 41003 Sevilla, Spain"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=checkpoint-arcade-bar","geo":{"@type":"GeoCoordinates","latitude":37.3978377,"longitude":-5.9916851},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.7,"reviewCount":1214}}},{"@type":"ListItem","position":39,"item":{"@type":"BarOrPub","name":"Multiverso Bar","address":{"@type":"PostalAddress","addressLocality":"Zaragoza","addressRegion":"Centro","addressCountry":"ES","streetAddress":"C. de la Paz, 29, 50008 Zaragoza, Spain"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=multiverso-zaragoza","geo":{"@type":"GeoCoordinates","latitude":41.6424579,"longitude":-0.8828159},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.7,"reviewCount":935}}},{"@type":"ListItem","position":40,"item":{"@type":"BarOrPub","name":"Be A Legend Bar","address":{"@type":"PostalAddress","addressLocality":"Zaragoza","addressRegion":"San Francisco","addressCountry":"ES","streetAddress":"C. de San Juan de la Cruz, 9, 50006 Zaragoza, Spain"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=be-a-legend-zaragoza","geo":{"@type":"GeoCoordinates","latitude":41.641572,"longitude":-0.8930239999999999},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.7,"reviewCount":829}}},{"@type":"ListItem","position":41,"item":{"@type":"BarOrPub","name":"Bar La Terraza","address":{"@type":"PostalAddress","addressLocality":"Zaragoza","addressRegion":"Universidad","addressCountry":"ES","streetAddress":"C. de San Antonio María Claret, 20, 50005 Zaragoza, Spain"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=la-terraza-zaragoza","geo":{"@type":"GeoCoordinates","latitude":41.6454429,"longitude":-0.8948416},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.6,"reviewCount":1186}}},{"@type":"ListItem","position":42,"item":{"@type":"BarOrPub","name":"Hagrid's Cafe","address":{"@type":"PostalAddress","addressLocality":"Sant Celoni","addressRegion":"Centro","addressCountry":"ES","streetAddress":"Carrer Major, 132, 08470 Sant Celoni, Barcelona, Spain"},"url":"https://carloschaverri.github.io/board-games-finder-espana/?local=hagrids-cafe-sant-celoni","geo":{"@type":"GeoCoordinates","latitude":41.6895545,"longitude":2.4909583},"aggregateRating":{"@type":"AggregateRating","ratingValue":4.8,"reviewCount":397}}}]}
+</script>
+<!--JSONLD-END-->
 </head>
 <body>
-<header>
-  <div class="brand"><b id="brandTitle"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="vertical-align:-2px;margin-right:5px"><rect x="3" y="3" width="18" height="18" rx="4"/><circle cx="8.5" cy="8.5" r="1.6" fill="currentColor" stroke="none"/><circle cx="15.5" cy="15.5" r="1.6" fill="currentColor" stroke="none"/><circle cx="15.5" cy="8.5" r="1.6" fill="currentColor" stroke="none"/><circle cx="8.5" cy="15.5" r="1.6" fill="currentColor" stroke="none"/></svg>Board Games Finder España</b><span id="brandSub">Bares y cafés de juegos de mesa en España</span></div>
-  <nav class="view-switch" aria-label="Cambiar de mapa">
-    <button class="vs-btn on" id="vsJuegos" type="button">Juegos de mesa</button>
-    <button class="vs-btn" id="vsCervezas" type="button">Cervezas</button>
-  </nav>
-  <div class="game-search" id="gameSearchWrap">
-    <input id="gameInput" type="text" placeholder="Busca un juego (p. ej. Catán, Azul, Pandemic…)" autocomplete="off">
-    <button class="gs-clear" id="gsClear" aria-label="Limpiar búsqueda de juego">✕</button>
-    <div class="gs-dropdown" id="gsDropdown"></div>
-  </div>
-  <div class="hdr-actions">
-    <button class="hdr-btn" id="btnNear"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 21s-7-5.5-7-11a7 7 0 0 1 14 0c0 5.5-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Cerca de mí</button>
-    <button class="hdr-btn" id="btnShare"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7"/><path d="M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7"/></svg>Copiar enlace</button>
+
+<header class="hdr">
+  <div class="hdr-top">
+    <div class="brand">
+      <span class="brand-ic" id="brandIc"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="4.5"/><circle cx="8.5" cy="8.5" r="1.5" fill="currentColor" stroke="none"/><circle cx="15.5" cy="15.5" r="1.5" fill="currentColor" stroke="none"/><circle cx="15.5" cy="8.5" r="1.5" fill="currentColor" stroke="none"/><circle cx="8.5" cy="15.5" r="1.5" fill="currentColor" stroke="none"/></svg></span>
+      <span class="brand-tx"><b id="brandTitle">Board Games Finder España</b><span id="brandSub">Bares y cafés de juegos de mesa en España</span></span>
+    </div>
+    <nav class="tabs" aria-label="Secciones">
+      <button type="button" role="tab" data-tab="buscar" class="on" aria-selected="true" id="tabBuscar"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.8-3.8"/></svg> Buscar</button>
+      <button type="button" role="tab" data-tab="mapa" aria-selected="false" id="tabMapa"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 4 3 6v14l6-2 6 2 6-2V4l-6 2-6-2z"/><path d="M9 4v14M15 6v14"/></svg> Mapa</button>
+      <span class="tab-pill" id="tabPill"></span>
+    </nav>
+    <div class="hdr-actions">
+      <button type="button" class="hbtn" id="btnNear" title="Cerca de mí" aria-label="Cerca de mí"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-5.5-7-11a7 7 0 0 1 14 0c0 5.5-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg><span>Cerca de mí</span></button>
+      <button type="button" class="hbtn" id="btnShare" title="Copiar enlace" aria-label="Copiar enlace"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7"/><path d="M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7"/></svg><span>Compartir</span></button>
+    </div>
   </div>
 </header>
-<div id="gameBanner"><span id="bannerLead">Bares donde puedes jugar a</span><span class="pill" id="bannerGame"></span><span id="bannerNote"></span><button id="bannerClear">Quitar filtro</button></div>
-<main>
-  <div id="map"></div>
-  <aside id="sidebar">
-    <div id="filters">
-      <div class="f-row"><input id="nameSearch" type="text" placeholder="Buscar local por nombre o ciudad…"></div>
-      <div class="f-row"><div class="f-label" id="chipsLabel">Precio para jugar</div><div class="chips" id="chipsFiltro"></div></div>
-      <div class="f-row" id="actRow" style="display:none"><div class="f-label">Actividades</div><div class="chips" id="actChips"></div></div>
-      <div class="f-grid">
-        <div class="f-row"><div class="f-label">Valoración mín. <output id="outVmin">0★</output></div><input type="range" id="fVmin" min="0" max="5" step="0.5" value="0"></div>
-        <div class="f-row"><div class="f-label">Reseñas mín. <output id="outRmin">0</output></div><input type="range" id="fRmin" min="0" max="1500" step="50" value="0"></div>
+
+<main class="home" id="home">
+  <section class="hero">
+    <div class="mode-tabs" role="tablist" aria-label="Qué quieres buscar">
+      <button type="button" role="tab" data-mode="juegos" class="on" aria-selected="true">Juegos de mesa</button>
+      <button type="button" role="tab" data-mode="cervezas" aria-selected="false">Cervezas</button>
+      <span class="mode-ink"></span>
+    </div>
+    <h1 id="heroTitle">¿A qué jugamos hoy?</h1>
+    <p class="hero-sub" id="heroSub">Busca un juego de mesa y descubre en qué bares y cafés de España puedes jugarlo.</p>
+    <div class="sbox">
+      <div class="spill">
+        <span class="s-ic"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.8-3.8"/></svg></span>
+        <input id="searchInput" type="search" autocomplete="off" spellcheck="false"
+               placeholder="Busca un juego: Catán, Azul, Pandemic…"
+               aria-label="Busca un juego: Catán, Azul, Pandemic…">
+        <span class="s-go" aria-hidden="true"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.8-3.8"/></svg></span>
       </div>
-      <div class="f-grid">
-        <div class="f-row"><div class="f-label" id="minLabel">Nº de juegos</div>
-          <select id="fNmin"><option value="0">Cualquiera</option><option value="50">50+</option><option value="200">200+</option><option value="500">500+</option><option value="1000">1000+</option></select></div>
-        <div class="f-row"><div class="f-label">Ordenar por</div>
-          <select id="fOrden">
-            <option value="relevancia">Relevancia (valoración + reseñas)</option>
-            <option value="valoracion">Valoración</option>
-            <option value="resenas">Nº de reseñas</option>
-            <option value="juegos">Nº de juegos</option>
-            <option value="nombre">Nombre A-Z</option>
-          </select></div>
+      <div class="sdrop" id="sdrop" style="display:none"></div>
+    </div>
+    <div class="quick" id="quickChips"></div>
+    <div class="sel-banner" id="selBanner" style="display:none"></div>
+  </section>
+
+  <section class="results">
+    <div class="fbar" id="fbar"></div>
+    <div id="cardsWrap"></div>
+  </section>
+
+  <noscript>
+    <div style="max-width:880px;margin:20px auto;padding:0 16px;font-size:14px;line-height:1.7">
+      <p><strong>Board Games &amp; Craft Beer Finder España</strong> necesita JavaScript para el buscador interactivo.
+      Mientras tanto puedes consultar los listados estáticos por
+      <a href="ciudades.html">ciudad</a>, por
+      <a href="juegos-populares.html">juego</a> o por
+      <a href="cervezas-populares.html">cerveza</a>, o los datos abiertos en JSON:
+      <a href="bares.json">bares de juegos</a>, <a href="cervezas.json">cervecerías</a>,
+      <a href="juegos.json">juegos</a>, <a href="marcas.json">cervezas</a>.</p>
+    </div>
+  </noscript>
+</main>
+
+<main class="maptab" id="maptab" style="display:none">
+  <div class="map-wrap">
+    <div class="mapa" id="mapaEl" role="application" aria-label="Mapa de locales"></div>
+    <button type="button" class="map-fab" id="btnNearMap"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-5.5-7-11a7 7 0 0 1 14 0c0 5.5-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg><span>Cerca de mí</span></button>
+  </div>
+  <aside class="map-side">
+    <div class="map-mode">
+      <div class="mode-tabs small" role="tablist" aria-label="Cambiar de mapa">
+        <button type="button" role="tab" data-mode="juegos" class="on" aria-selected="true">Juegos</button>
+        <button type="button" role="tab" data-mode="cervezas" aria-selected="false">Cervezas</button>
+        <span class="mode-ink"></span>
       </div>
     </div>
-    <div id="resultsBar"><span id="count"></span></div>
-    <div id="results"></div>
+    <div class="fbar" id="fbarMap" style="padding:0 16px"></div>
+    <div id="cardsMap"></div>
   </aside>
 </main>
-<div class="toast" id="toast"></div>
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<footer class="site-footer">
+  <b>Board Games &amp; Craft Beer Finder España</b> · datos abiertos con fecha de evidencia en cada ficha.<br>
+  Mapa © Esri, TomTom, Garmin, FAO, NOAA, USGS · Tipografía Plus Jakarta Sans (OFL).
+  <nav aria-label="Explorar">
+    <a href="ciudades.html">Ciudades</a>
+    <a href="juegos-populares.html">Juegos populares</a>
+    <a href="cervezas-populares.html">Cervezas populares</a>
+  </nav>
+</footer>
+
+<div id="sheetRoot"></div>
+<div class="toast" id="toast" role="status"></div>
+<script src="vendor/leaflet.js"></script>
 <script src="app.js"></script>
 </body>
 </html>
