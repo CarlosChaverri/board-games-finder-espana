@@ -546,7 +546,7 @@ function syncMarkers(list) {
     const s = b.id === sheetId;
     const ic = L.divIcon({ className: 'mpin-wrap', html: pinHtml(b, s), iconSize: null, iconAnchor: [0, 0] });
     const mk = L.marker([b.lat, b.lng], { icon: ic, zIndexOffset: s ? 1000 : 0 });
-    mk.on('click', () => { sheetId = b.id; renderSheet(); renderResults(); panIntoView(b); });
+    mk.on('click', () => { sheetId = b.id; renderSheet(); renderResults(); writeURL(); panIntoView(b); });
     markerLayer.addLayer(mk);
   });
   if (userLoc) {
@@ -620,7 +620,7 @@ function bindEvents() {
       writeURL(); return;
     }
     const vcard = e.target.closest('[data-venue]');
-    if (vcard) { sheetId = vcard.dataset.venue; renderSheet(); renderResults(); return; }
+    if (vcard) { sheetId = vcard.dataset.venue; renderSheet(); renderResults(); writeURL(); return; }
     const el = e.target.closest('[data-action]');
     if (!el) return;
     const a = el.dataset.action;
